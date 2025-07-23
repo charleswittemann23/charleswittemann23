@@ -33,3 +33,12 @@ Here are some ideas to get you started:
 <p>
 <a target="_blank" href="https://www.linkedin.com/in/charleswittemann" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswittemann23&show_icons=true&locale=en&layout=compact" alt="cruz-jay" /></p>
+
+
+# Currently Listening to:
+## 🎧 Recently Played Tracks
+
+<!--SPOTIFY_START-->
+1. ![Album Cover](https://i.scdn.co/image/ab67616d000048512898d5b972093e44dba566a5 =48x48) [Illegal - Nia Archives Remix](https://open.spotify.com/track/0c1s95bO4ZqOOmFl8mfsro) — PinkPantheress, Nia Archives
+2. ![Album Cover](https://i.scdn.co/image/ab67616d0000485188481c51583cbc9609fb0c84 =48x48) [Falling](https://open.spotify.com/track/4oXqCSbvtmHaYNWvgfMPmF) — Frost Children
+<!--SPOTIFY_END-->
