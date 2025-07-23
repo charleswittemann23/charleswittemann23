@@ -39,15 +39,15 @@ function formatTracksMarkdown(tracks) {
   return tracks
     .map(({ track }, index) => {
       const artists = track.artists.map(artist => artist.name).join(', ');
-      // Grab the smallest album image (usually last in the array)
       const albumImage = track.album.images.length
         ? track.album.images[track.album.images.length - 1].url
         : '';
 
-      return `${index + 1}. ![Album Cover](${albumImage} =48x48) [${track.name}](${track.external_urls.spotify}) — ${artists}`;
+      return `${index + 1}. <img src="${albumImage}" alt="Album Cover" width="48" height="48" /> [${track.name}](${track.external_urls.spotify}) — ${artists}`;
     })
     .join('\n');
 }
+
 
 
 function updateReadme(content) {
