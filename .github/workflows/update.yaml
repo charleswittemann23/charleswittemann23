@@ -20,6 +20,8 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+      - name: Debug current directory
+        run: ls -la && cat README.md
 
       - name: Run Spotify update script
         env:
