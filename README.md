@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played Tracks (Last Updated at: 7/23/2025, 8:48:19 PM)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 7/23/2025, 8:48:19 PM)
 
 <!--SPOTIFY_START-->
 1. <img src="https://i.scdn.co/image/ab67616d00004851598b6a58e90d28f98e72d4af" alt="Album Cover" width="48" height="48" /> [All Night All Day](https://open.spotify.com/track/56PuaVhEQzQ57PnREmTCuI) — Big Thief
