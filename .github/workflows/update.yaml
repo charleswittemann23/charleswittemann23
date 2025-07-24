@@ -26,8 +26,8 @@ jobs:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-          SPOTIFY_REDIRECT_URI: ${{ secrets.SPOTIFY_REDIRECT_URI }}
-        run: node spotify/update-readme.js
+          REDIRECT_URI: ${{ secrets.REDIRECT_URI }}
+        run: node spotify/spotify.js
 
       - name: Commit changes
         run: |
