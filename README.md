@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 ## 🎧 Recently Played/Songs of the Day (Last Updated at: 7/23/2025, 8:48:19 PM)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851598b6a58e90d28f98e72d4af" alt="Album Cover" width="48" height="48" /> [All Night All Day](https://open.spotify.com/track/56PuaVhEQzQ57PnREmTCuI) — Big Thief
-2. <img src="https://i.scdn.co/image/ab67616d0000485111f23fe3cda20c995b8e2f84" alt="Album Cover" width="48" height="48" /> [Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)](https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC) — Blood Orange, Caroline Polachek, Lorde, Mustafa
+1. <img src="https://i.scdn.co/image/ab67616d000048514af6e6f57f4c80d85611d8bf" alt="Album Cover" width="48" height="48" /> [En Forma](https://open.spotify.com/track/3YULPlrZVxe6T40gUP8E7w) — Hinds
+2. <img src="https://i.scdn.co/image/ab67616d00004851b9c31bc080dd46b38bbafce2" alt="Album Cover" width="48" height="48" /> [Ultimate](https://open.spotify.com/track/6R0GRYk2vs2XuBVemYK5YZ) — Denzel Curry
 <!--SPOTIFY_END-->
