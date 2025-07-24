@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-07-24 15:00:05 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-07-24 16:20:48 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048511d14a4e32f60dbd89b1b5cfa" alt="Album Cover" width="48" height="48" /> [Perfectly](https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg) — FKA twigs
-2. <img src="https://i.scdn.co/image/ab67616d0000485111e55e4aa68150f5a0bfa22f" alt="Album Cover" width="48" height="48" /> [Mommanem](https://open.spotify.com/track/3WgFhZfyk5nb6v7hkwPmD4) — Tyler, The Creator
+1. <img src="https://i.scdn.co/image/ab67616d0000485111e55e4aa68150f5a0bfa22f" alt="Album Cover" width="48" height="48" /> [I'll Take Care of You (feat. Yebba)](https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h) — Tyler, The Creator, Yebba
+2. <img src="https://i.scdn.co/image/ab67616d0000485111e55e4aa68150f5a0bfa22f" alt="Album Cover" width="48" height="48" /> [Don't You Worry Baby (feat. Madison McFerrin)](https://open.spotify.com/track/45mVT3DCE7AATXgESSdfee) — Tyler, The Creator, Madison McFerrin
 <!--SPOTIFY_END-->
