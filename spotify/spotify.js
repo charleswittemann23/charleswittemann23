@@ -59,7 +59,7 @@ function updateReadme(content) {
   );
 
   const timestamp =  new Date().toLocaleString();
-  const time_sync_ReadMe = newReadme.replace(/(## 🎧 Recently Played Tracks \(Last Updated at: )[^\)]*\)/,
+  const time_sync_ReadMe = newReadme.replace(/(## 🎧 Recently Played\/Songs of the Day \(Last Updated at: )[^\)]*\)/,
     `$1${timestamp})`)
 
 
