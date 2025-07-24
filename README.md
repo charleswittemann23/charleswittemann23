@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 ## 🎧 Recently Played Tracks
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048512898d5b972093e44dba566a5" alt="Album Cover" width="48" height="48" /> [Illegal - Nia Archives Remix](https://open.spotify.com/track/0c1s95bO4ZqOOmFl8mfsro) — PinkPantheress, Nia Archives
-2. <img src="https://i.scdn.co/image/ab67616d0000485188481c51583cbc9609fb0c84" alt="Album Cover" width="48" height="48" /> [Falling](https://open.spotify.com/track/4oXqCSbvtmHaYNWvgfMPmF) — Frost Children
+1. <img src="https://i.scdn.co/image/ab67616d00004851598b6a58e90d28f98e72d4af" alt="Album Cover" width="48" height="48" /> [All Night All Day](https://open.spotify.com/track/56PuaVhEQzQ57PnREmTCuI) — Big Thief
+2. <img src="https://i.scdn.co/image/ab67616d0000485111f23fe3cda20c995b8e2f84" alt="Album Cover" width="48" height="48" /> [Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)](https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC) — Blood Orange, Caroline Polachek, Lorde, Mustafa
 <!--SPOTIFY_END-->
