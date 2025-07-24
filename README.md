@@ -1,6 +1,6 @@
 ## Hi, I'm Charlie Wittemann 🤙
 
-Computer Science and Finance Student at the University of virginia focused on full stack development, data science, machine learning, and quantitative finance. 
+Computer Science and Finance Student at the University of Virginia focused on full stack development, data science, machine learning, and quantitative finance. 
 
 <!--
 **charleswittemann23/charleswittemann23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
