@@ -32,8 +32,12 @@ Here are some ideas to get you started:
 <h2>⚡Where to find me</h2>
 <p>
 <a target="_blank" href="https://www.linkedin.com/in/charleswittemann" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswittemann23&show_icons=true&locale=en&layout=compact" alt="cruz-jay" /></p>
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=charleswittemann23&show_icons=true&locale=en&layout=compact)
+
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
+
 
 
 ## 🎧 Recently Played Tracks (Last Updated at: 7/23/2025, 8:48:19 PM)
