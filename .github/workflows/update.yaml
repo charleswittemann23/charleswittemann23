@@ -29,12 +29,20 @@ jobs:
         run: node spotify/spotify.js
 
       - name: Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: 
+            git config --global user.name 'GitHub Actions Bot'
+            git config --global user.email 'actions@github.com'
+            git remote set-url origin https://x-access-token:${{ secrets.PAT_GITHUB }}@github.com/${{ github.repository }}
+            git add README.md
+            git commit -m "🎧 Update Spotify recent tracks" || echo "No changes to commit"
+            git push
+      - name: Check if PAT_GITHUB is available
         run: |
-          git config --global user.name 'GitHub Actions Bot'
-          git config --global user.email 'actions@github.com'
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
-          git add README.md
-          git commit -m "🎧 Update Spotify recent tracks" || echo "No changes to commit"
-          git push
+          if [ -z "${{ secrets.PAT_GITHUB }}" ]; then
+            echo "❌ PAT_GITHUB is NOT set"
+            exit 1
+          else
+            echo "✅ PAT_GITHUB is set"
+          fi
+
+      
