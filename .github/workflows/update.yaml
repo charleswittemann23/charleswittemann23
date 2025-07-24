@@ -2,8 +2,7 @@ name: Update Spotify Tracks
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
+    - cron: '0 14 * * *'
 
 jobs:
   update:
