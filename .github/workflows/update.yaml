@@ -47,4 +47,6 @@ jobs:
             echo "✅ PAT_GITHUB is set"
           fi
 
-      
+      - name: Show README after update
+        run: cat README.md
+
