@@ -57,7 +57,13 @@ function updateReadme(content) {
     /<!--SPOTIFY_START-->[\s\S]*<!--SPOTIFY_END-->/,
     `<!--SPOTIFY_START-->\n${content}\n<!--SPOTIFY_END-->`
   );
-  fs.writeFileSync(readmePath, newReadme, 'utf-8');
+
+  const timestamp =  new Date().toLocaleString();
+  const time_sync_ReadMe = newReadme.replace(/(## 🎧 Recently Played Tracks \(Last Updated at: )[^\)]*\)/,
+    `$1${timestamp})`)
+
+
+  fs.writeFileSync(readmePath, time_sync_ReadMe, 'utf-8');
   console.log('README.md updated successfully.');
 }
 
