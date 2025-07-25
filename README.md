@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-07-24 16:20:48 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-07-25 16:23:33 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485111e55e4aa68150f5a0bfa22f" alt="Album Cover" width="48" height="48" /> [I'll Take Care of You (feat. Yebba)](https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h) — Tyler, The Creator, Yebba
-2. <img src="https://i.scdn.co/image/ab67616d0000485111e55e4aa68150f5a0bfa22f" alt="Album Cover" width="48" height="48" /> [Don't You Worry Baby (feat. Madison McFerrin)](https://open.spotify.com/track/45mVT3DCE7AATXgESSdfee) — Tyler, The Creator, Madison McFerrin
+1. <img src="https://i.scdn.co/image/ab67616d0000485100dbb62467fe1097ad7161e3" alt="Album Cover" width="48" height="48" /> [AT A TIME LIKE THIS](https://open.spotify.com/track/7tJ8jCSe5XPIkRluGfZTu3) — Quadeca
+2. <img src="https://i.scdn.co/image/ab67616d0000485100dbb62467fe1097ad7161e3" alt="Album Cover" width="48" height="48" /> [GODSTAINED](https://open.spotify.com/track/6phik4BkqTBtDodw8ZJJ5Q) — Quadeca
 <!--SPOTIFY_END-->
