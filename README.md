@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-07-25 16:23:33 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-07-26 16:20:53 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485100dbb62467fe1097ad7161e3" alt="Album Cover" width="48" height="48" /> [AT A TIME LIKE THIS](https://open.spotify.com/track/7tJ8jCSe5XPIkRluGfZTu3) — Quadeca
-2. <img src="https://i.scdn.co/image/ab67616d0000485100dbb62467fe1097ad7161e3" alt="Album Cover" width="48" height="48" /> [GODSTAINED](https://open.spotify.com/track/6phik4BkqTBtDodw8ZJJ5Q) — Quadeca
+1. <img src="https://i.scdn.co/image/ab67616d000048514f579b00d52d3bfa017de5b9" alt="Album Cover" width="48" height="48" /> [Racing Mount Pleasant](https://open.spotify.com/track/6ITu4g9Rw4uO6N07gjpIQ2) — Racing Mount Pleasant
+2. <img src="https://i.scdn.co/image/ab67616d00004851d4982c9de464beb7561e5087" alt="Album Cover" width="48" height="48" /> [Waterproof Mascara](https://open.spotify.com/track/7oSiIeLokeBcz55p8fT352) — billy woods, Preservation
 <!--SPOTIFY_END-->
