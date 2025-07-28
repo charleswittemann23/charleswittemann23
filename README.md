@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-07-27 16:21:10 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-07-28 16:24:37 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048513d1996a2dc962e53e12cb7cb" alt="Album Cover" width="48" height="48" /> [Weird (feat. Durand Bernarr)](https://open.spotify.com/track/7zvpJRsDXAwwe2nLXUP7v4) — KAYTRANADA, Durand Bernarr
-2. <img src="https://i.scdn.co/image/ab67616d000048513d1996a2dc962e53e12cb7cb" alt="Album Cover" width="48" height="48" /> [Call U Up (feat. Lou Phelps)](https://open.spotify.com/track/5R1ypHK15jupUwYgcYrylE) — KAYTRANADA, Lou Phelps
+1. <img src="https://i.scdn.co/image/ab67616d000048511d14a4e32f60dbd89b1b5cfa" alt="Album Cover" width="48" height="48" /> [Perfectly](https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg) — FKA twigs
+2. <img src="https://i.scdn.co/image/ab67616d0000485169db71849f21d730954f1716" alt="Album Cover" width="48" height="48" /> [So Be It](https://open.spotify.com/track/0xaQ86cGRgcF8wwP1SkXsb) — Clipse, Pusha T, Malice
 <!--SPOTIFY_END-->
