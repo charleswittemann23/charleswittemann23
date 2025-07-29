@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-07-28 16:24:37 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-07-29 16:22:53 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048511d14a4e32f60dbd89b1b5cfa" alt="Album Cover" width="48" height="48" /> [Perfectly](https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg) — FKA twigs
-2. <img src="https://i.scdn.co/image/ab67616d0000485169db71849f21d730954f1716" alt="Album Cover" width="48" height="48" /> [So Be It](https://open.spotify.com/track/0xaQ86cGRgcF8wwP1SkXsb) — Clipse, Pusha T, Malice
+1. <img src="https://i.scdn.co/image/ab67616d0000485100dbb62467fe1097ad7161e3" alt="Album Cover" width="48" height="48" /> [GODSTAINED](https://open.spotify.com/track/6phik4BkqTBtDodw8ZJJ5Q) — Quadeca
+2. <img src="https://i.scdn.co/image/ab67616d000048518e6cfbc765bf8f34e0720716" alt="Album Cover" width="48" height="48" /> [Raspberry Kisses](https://open.spotify.com/track/5qUBElsmPDAaHzgY9IihNA) — Aminé
 <!--SPOTIFY_END-->
