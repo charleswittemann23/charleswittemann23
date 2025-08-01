@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-07-31 16:23:52 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-01 16:24:49 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851df4a5a5a6828feccf3bbc334" alt="Album Cover" width="48" height="48" /> [My Head Is a Jungle - (Radio Edit) [Live]](https://open.spotify.com/track/5479RIes0OUXZkCDsWg7Mc) — Wankelmut, Emma Louise
-2. <img src="https://i.scdn.co/image/ab67616d0000485191a50cf7c36db278a9562a8f" alt="Album Cover" width="48" height="48" /> [Jungle](https://open.spotify.com/track/7LFNVbFQGY1T3fekzMLziQ) — Emma Louise
+1. <img src="https://i.scdn.co/image/ab67616d00004851ae1035c4dc26152c8653eb36" alt="Album Cover" width="48" height="48" /> [Need](https://open.spotify.com/track/0JHh2TRXWgotlIhgkiR5A3) — Dan English
+2. <img src="https://i.scdn.co/image/ab67616d00004851428bec3d665ac543abc1905b" alt="Album Cover" width="48" height="48" /> [AT A TIME LIKE THIS](https://open.spotify.com/track/7tJ8jCSe5XPIkRluGfZTu3) — Quadeca
 <!--SPOTIFY_END-->
