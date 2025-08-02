@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-01 16:24:49 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-02 16:21:28 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851ae1035c4dc26152c8653eb36" alt="Album Cover" width="48" height="48" /> [Need](https://open.spotify.com/track/0JHh2TRXWgotlIhgkiR5A3) — Dan English
-2. <img src="https://i.scdn.co/image/ab67616d00004851428bec3d665ac543abc1905b" alt="Album Cover" width="48" height="48" /> [AT A TIME LIKE THIS](https://open.spotify.com/track/7tJ8jCSe5XPIkRluGfZTu3) — Quadeca
+1. <img src="https://i.scdn.co/image/ab67616d000048515a2ff617de4e51a9a214b56a" alt="Album Cover" width="48" height="48" /> [Watching T.V.](https://open.spotify.com/track/6ztdBhTNo6GFk0WlYU1jzM) — Magdalena Bay
+2. <img src="https://i.scdn.co/image/ab67616d000048515a2ff617de4e51a9a214b56a" alt="Album Cover" width="48" height="48" /> [Vampire in the Corner](https://open.spotify.com/track/6O6VDSgm7Cxrk7kIJhyIFo) — Magdalena Bay
 <!--SPOTIFY_END-->
