@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-03 16:21:54 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-04 16:26:12 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048511bfa23b13d0504fb90c37b39" alt="Album Cover" width="48" height="48" /> [durag activity (with Travis Scott)](https://open.spotify.com/track/6c5wQFfJApRMooKE7UQnlH) — Baby Keem, Travis Scott
-2. <img src="https://i.scdn.co/image/ab67616d00004851bd5f03953f9f1d3b833369c0" alt="Album Cover" width="48" height="48" /> [Got The Guap (feat. Young Thug)](https://open.spotify.com/track/1HF6P40Z7nfExGaB1Gk99v) — Lil Uzi Vert, Young Thug
+1. <img src="https://i.scdn.co/image/ab67616d0000485115ecd6926b2b357a546b02fc" alt="Album Cover" width="48" height="48" /> [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) — Jungle
+2. <img src="https://i.scdn.co/image/ab67616d00004851ff9e807b292a861ded756d63" alt="Album Cover" width="48" height="48" /> [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) — ROLE MODEL
 <!--SPOTIFY_END-->
