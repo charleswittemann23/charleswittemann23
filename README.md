@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-04 16:26:12 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-05 16:20:18 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485115ecd6926b2b357a546b02fc" alt="Album Cover" width="48" height="48" /> [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) — Jungle
-2. <img src="https://i.scdn.co/image/ab67616d00004851ff9e807b292a861ded756d63" alt="Album Cover" width="48" height="48" /> [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) — ROLE MODEL
+1. <img src="https://i.scdn.co/image/ab67616d00004851dddef01c161d8ea3fde0dd97" alt="Album Cover" width="48" height="48" /> [Shine, Glow, Glisten](https://open.spotify.com/track/5MTaywYh6VyGvSV2urrzoB) — Emma Louise, Flume
+2. <img src="https://i.scdn.co/image/ab67616d000048517e6e4354e62bf255208bb09f" alt="Album Cover" width="48" height="48" /> [Panorama](https://open.spotify.com/track/3B5k0daVNSoSHvg09daXNz) — Monstera Black, alys(alys)alys
 <!--SPOTIFY_END-->
