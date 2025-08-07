@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-06 16:24:54 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-07 16:25:08 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851aebcdcbf75d73e098f866bae" alt="Album Cover" width="48" height="48" /> [All Night All Day](https://open.spotify.com/track/3j2wh57E0qAMn39nS1G0g0) — Big Thief
-2. <img src="https://i.scdn.co/image/ab67616d00004851aebcdcbf75d73e098f866bae" alt="Album Cover" width="48" height="48" /> [Grandmother](https://open.spotify.com/track/3tdWUsWvGervPu7xKZA53b) — Big Thief, Laraaji
+1. <img src="https://i.scdn.co/image/ab67616d00004851639e8e56a2a13cd71feaf507" alt="Album Cover" width="48" height="48" /> [Half the Day is the Night - 2022 Remastered Version](https://open.spotify.com/track/3cjFjQARzObqu4Nu9aobgu) — Gábor Szabó
+2. <img src="https://i.scdn.co/image/ab67616d00004851661d019f34569f79eae9e985" alt="Album Cover" width="48" height="48" /> [Empire Ants (feat. Little Dragon)](https://open.spotify.com/track/3a6PN6BRB8PP3ms48s7kU1) — Gorillaz, Little Dragon
 <!--SPOTIFY_END-->
