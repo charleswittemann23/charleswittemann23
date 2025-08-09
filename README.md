@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-08 16:21:24 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-09 16:20:48 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851aebcdcbf75d73e098f866bae" alt="Album Cover" width="48" height="48" /> [Incomprehensible](https://open.spotify.com/track/4MoOnWu6c7P3uof0VfOHCN) — Big Thief
-2. <img src="https://i.scdn.co/image/ab67616d000048518d82a6105e7a865692a567e8" alt="Album Cover" width="48" height="48" /> [meilia (remix)](https://open.spotify.com/track/1n81yFO3PTiTDLQcVIEx4f) — strongboi, Haziz
+1. <img src="https://i.scdn.co/image/ab67616d00004851aebcdcbf75d73e098f866bae" alt="Album Cover" width="48" height="48" /> [Grandmother](https://open.spotify.com/track/3tdWUsWvGervPu7xKZA53b) — Big Thief, Laraaji
+2. <img src="https://i.scdn.co/image/ab67616d0000485116eb1e685e6bd37ab3228de6" alt="Album Cover" width="48" height="48" /> [Disorder - 2007 Remaster](https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD) — Joy Division
 <!--SPOTIFY_END-->
