@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-09 16:20:48 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-10 16:20:51 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851aebcdcbf75d73e098f866bae" alt="Album Cover" width="48" height="48" /> [Grandmother](https://open.spotify.com/track/3tdWUsWvGervPu7xKZA53b) — Big Thief, Laraaji
-2. <img src="https://i.scdn.co/image/ab67616d0000485116eb1e685e6bd37ab3228de6" alt="Album Cover" width="48" height="48" /> [Disorder - 2007 Remaster](https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD) — Joy Division
+1. <img src="https://i.scdn.co/image/ab67616d00004851e11256a3e685203e20a71257" alt="Album Cover" width="48" height="48" /> [The Field (feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek & Daniel Caesar)](https://open.spotify.com/track/5GVyBn2zUEweqnS6oeXlMp) — Blood Orange, Tariq Al-Sabir, Caroline Polachek, Daniel Caesar, The Durutti Column
+2. <img src="https://i.scdn.co/image/ab67616d00004851d4488bf34f4472e56a6e27e1" alt="Album Cover" width="48" height="48" /> [Somewhere in Between](https://open.spotify.com/track/2eZqr5eoqJjV3RtQhzMEmz) — Blood Orange
 <!--SPOTIFY_END-->
