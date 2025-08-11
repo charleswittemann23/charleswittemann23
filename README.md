@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-10 16:20:51 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-11 16:24:00 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851e11256a3e685203e20a71257" alt="Album Cover" width="48" height="48" /> [The Field (feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek & Daniel Caesar)](https://open.spotify.com/track/5GVyBn2zUEweqnS6oeXlMp) — Blood Orange, Tariq Al-Sabir, Caroline Polachek, Daniel Caesar, The Durutti Column
-2. <img src="https://i.scdn.co/image/ab67616d00004851d4488bf34f4472e56a6e27e1" alt="Album Cover" width="48" height="48" /> [Somewhere in Between](https://open.spotify.com/track/2eZqr5eoqJjV3RtQhzMEmz) — Blood Orange
+1. <img src="https://i.scdn.co/image/ab67616d00004851705b7a96fe557beb0256fc08" alt="Album Cover" width="48" height="48" /> [Tennis Court - Flume Remix](https://open.spotify.com/track/4fnBNNoBiRqDgTTk3ZQo3E) — Lorde, Flume
+2. <img src="https://i.scdn.co/image/ab67616d000048513674b77c17e857669ff1dfbe" alt="Album Cover" width="48" height="48" /> [say you'll never leave](https://open.spotify.com/track/6WWzRhOgZdQmo8wD9JYRg0) — jigitz
 <!--SPOTIFY_END-->
