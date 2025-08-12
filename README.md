@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-11 16:24:00 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-12 16:23:22 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851705b7a96fe557beb0256fc08" alt="Album Cover" width="48" height="48" /> [Tennis Court - Flume Remix](https://open.spotify.com/track/4fnBNNoBiRqDgTTk3ZQo3E) — Lorde, Flume
-2. <img src="https://i.scdn.co/image/ab67616d000048513674b77c17e857669ff1dfbe" alt="Album Cover" width="48" height="48" /> [say you'll never leave](https://open.spotify.com/track/6WWzRhOgZdQmo8wD9JYRg0) — jigitz
+1. <img src="https://i.scdn.co/image/ab67616d0000485127d7f624645c825dd17e016d" alt="Album Cover" width="48" height="48" /> [NYC Tapwater](https://open.spotify.com/track/2FUU8kXhJNndeJWABUVvdx) — billy woods, Kenny Segal
+2. <img src="https://i.scdn.co/image/ab67616d0000485133195cfa797c61c968ae82dd" alt="Album Cover" width="48" height="48" /> [Valentine's Day Freestyle '25](https://open.spotify.com/track/6N0b6jlahlvHsV5MyZd0f8) — JPEGMAFIA
 <!--SPOTIFY_END-->
