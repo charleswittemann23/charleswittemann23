@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-12 16:23:22 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-13 16:19:03 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485127d7f624645c825dd17e016d" alt="Album Cover" width="48" height="48" /> [NYC Tapwater](https://open.spotify.com/track/2FUU8kXhJNndeJWABUVvdx) — billy woods, Kenny Segal
-2. <img src="https://i.scdn.co/image/ab67616d0000485133195cfa797c61c968ae82dd" alt="Album Cover" width="48" height="48" /> [Valentine's Day Freestyle '25](https://open.spotify.com/track/6N0b6jlahlvHsV5MyZd0f8) — JPEGMAFIA
+1. <img src="https://i.scdn.co/image/ab67616d00004851700f438bf4d4468092798a4c" alt="Album Cover" width="48" height="48" /> [5:15](https://open.spotify.com/track/5E7AQh3drqwYcIQkcdUs5Y) — The Who
+2. <img src="https://i.scdn.co/image/ab67616d00004851700f438bf4d4468092798a4c" alt="Album Cover" width="48" height="48" /> [5:15](https://open.spotify.com/track/5E7AQh3drqwYcIQkcdUs5Y) — The Who
 <!--SPOTIFY_END-->
