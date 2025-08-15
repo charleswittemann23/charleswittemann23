@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-14 16:23:49 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-15 16:22:18 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851700f438bf4d4468092798a4c" alt="Album Cover" width="48" height="48" /> [5:15](https://open.spotify.com/track/5E7AQh3drqwYcIQkcdUs5Y) — The Who
-2. <img src="https://i.scdn.co/image/ab67616d00004851700f438bf4d4468092798a4c" alt="Album Cover" width="48" height="48" /> [5:15](https://open.spotify.com/track/5E7AQh3drqwYcIQkcdUs5Y) — The Who
+1. <img src="https://i.scdn.co/image/ab67616d00004851696c76bdea1be8a1ece9f573" alt="Album Cover" width="48" height="48" /> [BILLIE JEAN](https://open.spotify.com/track/7kk5OT70FBurIIV1wibdsk) — Joey Valence & Brae
+2. <img src="https://i.scdn.co/image/ab67616d00004851696c76bdea1be8a1ece9f573" alt="Album Cover" width="48" height="48" /> [LIVE RIGHT](https://open.spotify.com/track/0mvXXIXYaMNaHFU9oe7d2p) — Joey Valence & Brae
 <!--SPOTIFY_END-->
