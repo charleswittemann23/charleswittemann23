@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-16 16:19:36 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-17 16:20:04 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851abd64700258a05c2580467e3" alt="Album Cover" width="48" height="48" /> [Runnin](https://open.spotify.com/track/19g5N41kZEdlfTmNSif6D9) — That Mexican OT
-2. <img src="https://i.scdn.co/image/ab67616d00004851abd64700258a05c2580467e3" alt="Album Cover" width="48" height="48" /> [Final V-Mail - Skit](https://open.spotify.com/track/5eAjmXhoQdR7IeOSriaHF1) — That Mexican OT
+1. <img src="https://i.scdn.co/image/ab67616d00004851696c76bdea1be8a1ece9f573" alt="Album Cover" width="48" height="48" /> [SEE U DANCE (feat. Rebecca Black)](https://open.spotify.com/track/0mxBL9v4xZM0q4GAhJWbHB) — Joey Valence & Brae, Rebecca Black
+2. <img src="https://i.scdn.co/image/ab67616d00004851696c76bdea1be8a1ece9f573" alt="Album Cover" width="48" height="48" /> [IS THIS LOVE](https://open.spotify.com/track/4SrhXzAN9P1LJlkvs91PKe) — Joey Valence & Brae
 <!--SPOTIFY_END-->
