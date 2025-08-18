@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-17 16:20:04 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-18 16:23:28 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851696c76bdea1be8a1ece9f573" alt="Album Cover" width="48" height="48" /> [SEE U DANCE (feat. Rebecca Black)](https://open.spotify.com/track/0mxBL9v4xZM0q4GAhJWbHB) — Joey Valence & Brae, Rebecca Black
-2. <img src="https://i.scdn.co/image/ab67616d00004851696c76bdea1be8a1ece9f573" alt="Album Cover" width="48" height="48" /> [IS THIS LOVE](https://open.spotify.com/track/4SrhXzAN9P1LJlkvs91PKe) — Joey Valence & Brae
+1. <img src="https://i.scdn.co/image/ab67616d00004851d4982c9de464beb7561e5087" alt="Album Cover" width="48" height="48" /> [All These Worlds Are Yours](https://open.spotify.com/track/5NP7wwKfxArIUMeCp2xjeu) — billy woods, E L U C I D, DJ Haram, Shabaka Hutchings
+2. <img src="https://i.scdn.co/image/ab67616d00004851d4982c9de464beb7561e5087" alt="Album Cover" width="48" height="48" /> [Pitchforks & Halos](https://open.spotify.com/track/6zTwKrponJ2LfFISoqQQrT) — billy woods, Kenny Segal
 <!--SPOTIFY_END-->
