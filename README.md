@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-20 16:21:55 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-21 17:41:22 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851696c76bdea1be8a1ece9f573" alt="Album Cover" width="48" height="48" /> [PARTY'S OVER](https://open.spotify.com/track/0bWMvwYlee7nyNwLmFcP7J) — Joey Valence & Brae
-2. <img src="https://i.scdn.co/image/ab67616d00004851696c76bdea1be8a1ece9f573" alt="Album Cover" width="48" height="48" /> [SEE U DANCE (feat. Rebecca Black)](https://open.spotify.com/track/0mxBL9v4xZM0q4GAhJWbHB) — Joey Valence & Brae, Rebecca Black
+1. <img src="https://i.scdn.co/image/ab67616d000048513674b77c17e857669ff1dfbe" alt="Album Cover" width="48" height="48" /> [tell you straight](https://open.spotify.com/track/2C96iPyCRXL5sOKivhlOWp) — jigitz
+2. <img src="https://i.scdn.co/image/ab67616d000048513674b77c17e857669ff1dfbe" alt="Album Cover" width="48" height="48" /> [leave](https://open.spotify.com/track/26SsiXD7EqCFXNoF2aiHZC) — jigitz
 <!--SPOTIFY_END-->
