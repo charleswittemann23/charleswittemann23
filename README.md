@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-21 17:41:22 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-22 16:20:35 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048513674b77c17e857669ff1dfbe" alt="Album Cover" width="48" height="48" /> [tell you straight](https://open.spotify.com/track/2C96iPyCRXL5sOKivhlOWp) — jigitz
-2. <img src="https://i.scdn.co/image/ab67616d000048513674b77c17e857669ff1dfbe" alt="Album Cover" width="48" height="48" /> [leave](https://open.spotify.com/track/26SsiXD7EqCFXNoF2aiHZC) — jigitz
+1. <img src="https://i.scdn.co/image/ab67616d0000485158863fe490e75fc989f3e9d7" alt="Album Cover" width="48" height="48" /> [No More Old Men (feat. Jamila Woods)](https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4) — Chance the Rapper, Jamila Woods
+2. <img src="https://i.scdn.co/image/ab67616d0000485158863fe490e75fc989f3e9d7" alt="Album Cover" width="48" height="48" /> [Ride (feat. Do or Die)](https://open.spotify.com/track/7M6yyDtLr2UvdSfpM30oDe) — Chance the Rapper, Do Or Die
 <!--SPOTIFY_END-->
