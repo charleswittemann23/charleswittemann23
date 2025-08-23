@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-22 16:20:35 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-23 16:18:22 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485158863fe490e75fc989f3e9d7" alt="Album Cover" width="48" height="48" /> [No More Old Men (feat. Jamila Woods)](https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4) — Chance the Rapper, Jamila Woods
-2. <img src="https://i.scdn.co/image/ab67616d0000485158863fe490e75fc989f3e9d7" alt="Album Cover" width="48" height="48" /> [Ride (feat. Do or Die)](https://open.spotify.com/track/7M6yyDtLr2UvdSfpM30oDe) — Chance the Rapper, Do Or Die
+1. <img src="https://i.scdn.co/image/ab67616d000048512f7823db1427fadfb50be40a" alt="Album Cover" width="48" height="48" /> [Plucky](https://open.spotify.com/track/7i8b21atvGNI3sQsMr30TT) — Morly
+2. <img src="https://i.scdn.co/image/ab67616d0000485158863fe490e75fc989f3e9d7" alt="Album Cover" width="48" height="48" /> [No More Old Men (feat. Jamila Woods)](https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4) — Chance the Rapper, Jamila Woods
 <!--SPOTIFY_END-->
