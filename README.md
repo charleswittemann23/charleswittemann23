@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-23 16:18:22 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-24 16:19:17 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048512f7823db1427fadfb50be40a" alt="Album Cover" width="48" height="48" /> [Plucky](https://open.spotify.com/track/7i8b21atvGNI3sQsMr30TT) — Morly
-2. <img src="https://i.scdn.co/image/ab67616d0000485158863fe490e75fc989f3e9d7" alt="Album Cover" width="48" height="48" /> [No More Old Men (feat. Jamila Woods)](https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4) — Chance the Rapper, Jamila Woods
+1. <img src="https://i.scdn.co/image/ab67616d00004851c7d88a7830b2d9a8b917c638" alt="Album Cover" width="48" height="48" /> [All Of The Worlds](https://open.spotify.com/track/6fk1dVjdMYlLQIfm9nwYxa) — Emma Louise, Flume
+2. <img src="https://i.scdn.co/image/ab67616d000048514a6c0376235e5aa44e59d2c2" alt="Album Cover" width="48" height="48" /> [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) — Neon Trees
 <!--SPOTIFY_END-->
