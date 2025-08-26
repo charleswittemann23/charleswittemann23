@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-25 16:21:32 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-26 16:20:50 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048513096fc92b2fd04297fe58670" alt="Album Cover" width="48" height="48" /> [Terror](https://open.spotify.com/track/0dk7LIwrm1npm6UwEssQEh) — Mac DeMarco
-2. <img src="https://i.scdn.co/image/ab67616d000048513096fc92b2fd04297fe58670" alt="Album Cover" width="48" height="48" /> [Nightmare](https://open.spotify.com/track/6ocId35dCVd9zmrzb6vnO5) — Mac DeMarco
+1. <img src="https://i.scdn.co/image/ab67616d000048513674b77c17e857669ff1dfbe" alt="Album Cover" width="48" height="48" /> [leave](https://open.spotify.com/track/26SsiXD7EqCFXNoF2aiHZC) — jigitz
+2. <img src="https://i.scdn.co/image/ab67616d00004851c7d88a7830b2d9a8b917c638" alt="Album Cover" width="48" height="48" /> [Homicide](https://open.spotify.com/track/5yr5d5k6zaRkbT1lLAt7Ih) — Emma Louise, Flume
 <!--SPOTIFY_END-->
