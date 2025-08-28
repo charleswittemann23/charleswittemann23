@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-27 16:21:19 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-28 16:21:14 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851c7d88a7830b2d9a8b917c638" alt="Album Cover" width="48" height="48" /> [Whenever You Want](https://open.spotify.com/track/2oXxIoi9rALhrLAqkrfEnE) — Emma Louise, Flume
-2. <img src="https://i.scdn.co/image/ab67616d00004851c7d88a7830b2d9a8b917c638" alt="Album Cover" width="48" height="48" /> [Stay](https://open.spotify.com/track/29wcmt5gig7p60476gJgjp) — Emma Louise, Flume
+1. <img src="https://i.scdn.co/image/ab67616d00004851d0cfa4dd7b3ca635b0d6cc19" alt="Album Cover" width="48" height="48" /> [All I Need](https://open.spotify.com/track/5umN48kdHqfp2bpwv7u6rb) — Wiki, Earl Sweatshirt
+2. <img src="https://i.scdn.co/image/ab67616d0000485140eb1a27b1d406dd5a4c89ec" alt="Album Cover" width="48" height="48" /> [Michael ($$)](https://open.spotify.com/track/6dj5SU7rq14QV0svCjqjmR) — Teller Bank$, q no rap name, Philth Spector, Killer Kane
 <!--SPOTIFY_END-->
