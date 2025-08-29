@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-28 16:21:14 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-29 16:20:29 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851d0cfa4dd7b3ca635b0d6cc19" alt="Album Cover" width="48" height="48" /> [All I Need](https://open.spotify.com/track/5umN48kdHqfp2bpwv7u6rb) — Wiki, Earl Sweatshirt
-2. <img src="https://i.scdn.co/image/ab67616d0000485140eb1a27b1d406dd5a4c89ec" alt="Album Cover" width="48" height="48" /> [Michael ($$)](https://open.spotify.com/track/6dj5SU7rq14QV0svCjqjmR) — Teller Bank$, q no rap name, Philth Spector, Killer Kane
+1. <img src="https://i.scdn.co/image/ab67616d00004851b4fec7ce38d4daf5445d036e" alt="Album Cover" width="48" height="48" /> [Steel Wing](https://open.spotify.com/track/4NDn6IvfIzpv4zfgGuiUsq) — Arima Ederra
+2. <img src="https://i.scdn.co/image/ab67616d000048518aaf781bf6f34ee376f3ef89" alt="Album Cover" width="48" height="48" /> [LOVE YOU PT. 2](https://open.spotify.com/track/0TCMJqdUvn7nOyFq8nZ7Q9) — Westside Gunn
 <!--SPOTIFY_END-->
