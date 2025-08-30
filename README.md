@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-29 16:20:29 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-30 16:18:17 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851b4fec7ce38d4daf5445d036e" alt="Album Cover" width="48" height="48" /> [Steel Wing](https://open.spotify.com/track/4NDn6IvfIzpv4zfgGuiUsq) — Arima Ederra
-2. <img src="https://i.scdn.co/image/ab67616d000048518aaf781bf6f34ee376f3ef89" alt="Album Cover" width="48" height="48" /> [LOVE YOU PT. 2](https://open.spotify.com/track/0TCMJqdUvn7nOyFq8nZ7Q9) — Westside Gunn
+1. <img src="https://i.scdn.co/image/ab67616d00004851d4982c9de464beb7561e5087" alt="Album Cover" width="48" height="48" /> [BLK ZMBY](https://open.spotify.com/track/3ZOXiWKGk5cTYCbLsdWHI7) — billy woods, Steel Tipped Dove
+2. <img src="https://i.scdn.co/image/ab67616d00004851d4982c9de464beb7561e5087" alt="Album Cover" width="48" height="48" /> [Golgotha](https://open.spotify.com/track/178XJQJ0YBjQok7oItWxjE) — billy woods, Messiah Musik
 <!--SPOTIFY_END-->
