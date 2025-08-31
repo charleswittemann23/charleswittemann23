@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-30 16:18:17 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-08-31 16:18:27 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851d4982c9de464beb7561e5087" alt="Album Cover" width="48" height="48" /> [BLK ZMBY](https://open.spotify.com/track/3ZOXiWKGk5cTYCbLsdWHI7) — billy woods, Steel Tipped Dove
-2. <img src="https://i.scdn.co/image/ab67616d00004851d4982c9de464beb7561e5087" alt="Album Cover" width="48" height="48" /> [Golgotha](https://open.spotify.com/track/178XJQJ0YBjQok7oItWxjE) — billy woods, Messiah Musik
+1. <img src="https://i.scdn.co/image/ab67616d000048517b66f8be794389b5ca8a8e24" alt="Album Cover" width="48" height="48" /> [the way you want me (feat. Elohim)](https://open.spotify.com/track/61LhLLEsvWdd9HWPZ4lBrg) — Player Dave, Elohim
+2. <img src="https://i.scdn.co/image/ab67616d0000485172e302e411d314d782cd7d94" alt="Album Cover" width="48" height="48" /> [All My Friends](https://open.spotify.com/track/4bDhE89Vq92CWTvwFb8zP8) — Barry Can't Swim
 <!--SPOTIFY_END-->
