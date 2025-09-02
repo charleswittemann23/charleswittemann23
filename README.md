@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-01 16:19:56 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-02 16:21:00 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048513096fc92b2fd04297fe58670" alt="Album Cover" width="48" height="48" /> [Punishment](https://open.spotify.com/track/3FZ31x8WWKZ2TcMsGaSBYe) — Mac DeMarco
-2. <img src="https://i.scdn.co/image/ab67616d000048513096fc92b2fd04297fe58670" alt="Album Cover" width="48" height="48" /> [Nothing At All](https://open.spotify.com/track/6axkr9JOY2H1hdQSG9dY7m) — Mac DeMarco
+1. <img src="https://i.scdn.co/image/ab67616d00004851d3cfa983626f16b8851c2eda" alt="Album Cover" width="48" height="48" /> [Alien Love Call](https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3) — Turnstile, BADBADNOTGOOD, Blood Orange
+2. <img src="https://i.scdn.co/image/ab67616d00004851a3aa51a22f09990bad35633c" alt="Album Cover" width="48" height="48" /> [Tossed Away](https://open.spotify.com/track/7vNMpCeU4hQSU94pdcmdr0) — Nourished by Time
 <!--SPOTIFY_END-->
