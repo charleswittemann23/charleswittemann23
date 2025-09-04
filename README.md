@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-03 16:20:33 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-04 16:21:17 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851aebcdcbf75d73e098f866bae" alt="Album Cover" width="48" height="48" /> [Incomprehensible](https://open.spotify.com/track/4MoOnWu6c7P3uof0VfOHCN) — Big Thief
-2. <img src="https://i.scdn.co/image/ab67616d00004851aebcdcbf75d73e098f866bae" alt="Album Cover" width="48" height="48" /> [All Night All Day](https://open.spotify.com/track/3j2wh57E0qAMn39nS1G0g0) — Big Thief
+1. <img src="https://i.scdn.co/image/ab67616d00004851238b25b3d5884cb4f6027663" alt="Album Cover" width="48" height="48" /> [Who Are You](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ) — The Who
+2. <img src="https://i.scdn.co/image/ab67616d00004851a3aa51a22f09990bad35633c" alt="Album Cover" width="48" height="48" /> [Automatic Love](https://open.spotify.com/track/6TLEg0rUFLH0EF9CYfRJ7B) — Nourished by Time
 <!--SPOTIFY_END-->
