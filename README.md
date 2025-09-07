@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-06 16:17:56 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-07 16:17:48 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048517a9109a9eea979b562879518" alt="Album Cover" width="48" height="48" /> [Words](https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy) — Big Thief
-2. <img src="https://i.scdn.co/image/ab67616d000048517a9109a9eea979b562879518" alt="Album Cover" width="48" height="48" /> [Incomprehensible](https://open.spotify.com/track/5GTRE7cnySeaYBanwM5FIt) — Big Thief
+1. <img src="https://i.scdn.co/image/ab67616d0000485131ae0599dc09195638781382" alt="Album Cover" width="48" height="48" /> [I'm Da Man](https://open.spotify.com/track/1jaNJ1dXZlZLQUaVIb4ePB) — D4L
+2. <img src="https://i.scdn.co/image/ab67616d00004851696c76bdea1be8a1ece9f573" alt="Album Cover" width="48" height="48" /> [BUST DOWN (feat. TiaCorine)](https://open.spotify.com/track/38KUOtXulnQmigscma1lpg) — Joey Valence & Brae, TiaCorine
 <!--SPOTIFY_END-->
