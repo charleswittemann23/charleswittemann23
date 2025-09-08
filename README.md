@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-07 16:17:48 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-08 16:19:33 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485131ae0599dc09195638781382" alt="Album Cover" width="48" height="48" /> [I'm Da Man](https://open.spotify.com/track/1jaNJ1dXZlZLQUaVIb4ePB) — D4L
-2. <img src="https://i.scdn.co/image/ab67616d00004851696c76bdea1be8a1ece9f573" alt="Album Cover" width="48" height="48" /> [BUST DOWN (feat. TiaCorine)](https://open.spotify.com/track/38KUOtXulnQmigscma1lpg) — Joey Valence & Brae, TiaCorine
+1. <img src="https://i.scdn.co/image/ab67616d00004851b35a093b0a2de6d1dce3e3d3" alt="Album Cover" width="48" height="48" /> [BOMME DES GARÇON](https://open.spotify.com/track/1kKTHy5cJXSlgkO1lw3nOM) — Westside Gunn
+2. <img src="https://i.scdn.co/image/ab67616d00004851c43b3a9459cadcf6f68867cd" alt="Album Cover" width="48" height="48" /> [The 26th Letter](https://open.spotify.com/track/1c2ioaI7DjOlwzdxka4xYT) — Mach-Hommy
 <!--SPOTIFY_END-->
