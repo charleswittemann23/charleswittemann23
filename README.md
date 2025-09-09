@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-08 16:19:33 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-09 16:21:18 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851b35a093b0a2de6d1dce3e3d3" alt="Album Cover" width="48" height="48" /> [BOMME DES GARÇON](https://open.spotify.com/track/1kKTHy5cJXSlgkO1lw3nOM) — Westside Gunn
-2. <img src="https://i.scdn.co/image/ab67616d00004851c43b3a9459cadcf6f68867cd" alt="Album Cover" width="48" height="48" /> [The 26th Letter](https://open.spotify.com/track/1c2ioaI7DjOlwzdxka4xYT) — Mach-Hommy
+1. <img src="https://i.scdn.co/image/ab67616d000048517a9109a9eea979b562879518" alt="Album Cover" width="48" height="48" /> [Double Infinity](https://open.spotify.com/track/4jdNbCXGGciAOLwAShbJ9Z) — Big Thief
+2. <img src="https://i.scdn.co/image/ab67616d000048517a9109a9eea979b562879518" alt="Album Cover" width="48" height="48" /> [All Night All Day](https://open.spotify.com/track/3gVrDEjo68KtplLuZuATTI) — Big Thief
 <!--SPOTIFY_END-->
