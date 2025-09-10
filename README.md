@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-09 16:21:18 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-10 16:20:36 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048517a9109a9eea979b562879518" alt="Album Cover" width="48" height="48" /> [Double Infinity](https://open.spotify.com/track/4jdNbCXGGciAOLwAShbJ9Z) — Big Thief
-2. <img src="https://i.scdn.co/image/ab67616d000048517a9109a9eea979b562879518" alt="Album Cover" width="48" height="48" /> [All Night All Day](https://open.spotify.com/track/3gVrDEjo68KtplLuZuATTI) — Big Thief
+1. <img src="https://i.scdn.co/image/ab67616d00004851696c76bdea1be8a1ece9f573" alt="Album Cover" width="48" height="48" /> [PARTY'S OVER](https://open.spotify.com/track/0bWMvwYlee7nyNwLmFcP7J) — Joey Valence & Brae
+2. <img src="https://i.scdn.co/image/ab67616d00004851696c76bdea1be8a1ece9f573" alt="Album Cover" width="48" height="48" /> [SEE U DANCE (feat. Rebecca Black)](https://open.spotify.com/track/0mxBL9v4xZM0q4GAhJWbHB) — Joey Valence & Brae, Rebecca Black
 <!--SPOTIFY_END-->
