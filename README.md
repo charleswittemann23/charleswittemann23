@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-11 16:20:36 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-12 16:17:21 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851c7d88a7830b2d9a8b917c638" alt="Album Cover" width="48" height="48" /> [Homicide](https://open.spotify.com/track/5yr5d5k6zaRkbT1lLAt7Ih) — Emma Louise, Flume
-2. <img src="https://i.scdn.co/image/ab67616d00004851c7d88a7830b2d9a8b917c638" alt="Album Cover" width="48" height="48" /> [Whenever You Want](https://open.spotify.com/track/2oXxIoi9rALhrLAqkrfEnE) — Emma Louise, Flume
+1. <img src="https://i.scdn.co/image/ab67616d00004851a29bd588f4caf84bd4cd6f8b" alt="Album Cover" width="48" height="48" /> [400 Million Plus Tax](https://open.spotify.com/track/47Km66AvBTS5XDxExQRsP9) — Westside Gunn
+2. <img src="https://i.scdn.co/image/ab67616d00004851696c76bdea1be8a1ece9f573" alt="Album Cover" width="48" height="48" /> [PARTY'S OVER](https://open.spotify.com/track/0bWMvwYlee7nyNwLmFcP7J) — Joey Valence & Brae
 <!--SPOTIFY_END-->
