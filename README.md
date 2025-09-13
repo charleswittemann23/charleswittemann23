@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-12 16:17:21 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-13 16:17:10 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851a29bd588f4caf84bd4cd6f8b" alt="Album Cover" width="48" height="48" /> [400 Million Plus Tax](https://open.spotify.com/track/47Km66AvBTS5XDxExQRsP9) — Westside Gunn
-2. <img src="https://i.scdn.co/image/ab67616d00004851696c76bdea1be8a1ece9f573" alt="Album Cover" width="48" height="48" /> [PARTY'S OVER](https://open.spotify.com/track/0bWMvwYlee7nyNwLmFcP7J) — Joey Valence & Brae
+1. <img src="https://i.scdn.co/image/ab67616d000048513096fc92b2fd04297fe58670" alt="Album Cover" width="48" height="48" /> [Knockin](https://open.spotify.com/track/0fzFk0LHgTmGm7JAWcr9Xs) — Mac DeMarco
+2. <img src="https://i.scdn.co/image/ab67616d000048513096fc92b2fd04297fe58670" alt="Album Cover" width="48" height="48" /> [Punishment](https://open.spotify.com/track/3FZ31x8WWKZ2TcMsGaSBYe) — Mac DeMarco
 <!--SPOTIFY_END-->
