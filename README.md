@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-13 16:17:10 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-14 16:16:55 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048513096fc92b2fd04297fe58670" alt="Album Cover" width="48" height="48" /> [Knockin](https://open.spotify.com/track/0fzFk0LHgTmGm7JAWcr9Xs) — Mac DeMarco
-2. <img src="https://i.scdn.co/image/ab67616d000048513096fc92b2fd04297fe58670" alt="Album Cover" width="48" height="48" /> [Punishment](https://open.spotify.com/track/3FZ31x8WWKZ2TcMsGaSBYe) — Mac DeMarco
+1. <img src="https://i.scdn.co/image/ab67616d000048513acc48d0f29a688fe291efe1" alt="Album Cover" width="48" height="48" /> [all the time](https://open.spotify.com/track/0nYd1TBIY5bQij9z1fg2Bp) — camoufly, Yazida
+2. <img src="https://i.scdn.co/image/ab67616d0000485159c9bdb3d4a0ad82af7bc9de" alt="Album Cover" width="48" height="48" /> [One More Night - Verses GT Remix](https://open.spotify.com/track/31bqpqeqsjXGwwApVrA8sb) — KUČKA, Flume, Jacques Greene, Nosaj Thing, Verses GT
 <!--SPOTIFY_END-->
