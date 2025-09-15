@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-14 16:16:55 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-15 16:20:43 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048513acc48d0f29a688fe291efe1" alt="Album Cover" width="48" height="48" /> [all the time](https://open.spotify.com/track/0nYd1TBIY5bQij9z1fg2Bp) — camoufly, Yazida
-2. <img src="https://i.scdn.co/image/ab67616d0000485159c9bdb3d4a0ad82af7bc9de" alt="Album Cover" width="48" height="48" /> [One More Night - Verses GT Remix](https://open.spotify.com/track/31bqpqeqsjXGwwApVrA8sb) — KUČKA, Flume, Jacques Greene, Nosaj Thing, Verses GT
+1. <img src="https://i.scdn.co/image/ab67616d000048514af6e6f57f4c80d85611d8bf" alt="Album Cover" width="48" height="48" /> [En Forma](https://open.spotify.com/track/3YULPlrZVxe6T40gUP8E7w) — Hinds
+2. <img src="https://i.scdn.co/image/ab67616d00004851b9c31bc080dd46b38bbafce2" alt="Album Cover" width="48" height="48" /> [Ultimate](https://open.spotify.com/track/6R0GRYk2vs2XuBVemYK5YZ) — Denzel Curry
 <!--SPOTIFY_END-->
