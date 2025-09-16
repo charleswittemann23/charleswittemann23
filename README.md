@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-15 16:20:43 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-16 16:21:10 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048514af6e6f57f4c80d85611d8bf" alt="Album Cover" width="48" height="48" /> [En Forma](https://open.spotify.com/track/3YULPlrZVxe6T40gUP8E7w) — Hinds
-2. <img src="https://i.scdn.co/image/ab67616d00004851b9c31bc080dd46b38bbafce2" alt="Album Cover" width="48" height="48" /> [Ultimate](https://open.spotify.com/track/6R0GRYk2vs2XuBVemYK5YZ) — Denzel Curry
+1. <img src="https://i.scdn.co/image/ab67616d00004851e88cf0a11c6a92b0eca25159" alt="Album Cover" width="48" height="48" /> [So Heavy You Can't Float](https://open.spotify.com/track/2k8UbT5zSARHYTNUBLIgHC) — ESPRIT 空想, George Clanton
+2. <img src="https://i.scdn.co/image/ab67616d00004851f922300411db724163aa8eda" alt="Album Cover" width="48" height="48" /> [Take a Trip](https://open.spotify.com/track/1KbpVvPiLAt1Wsh5gr2YKM) — TV Girl, George Clanton
 <!--SPOTIFY_END-->
