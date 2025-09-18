@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-17 16:21:00 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-18 16:20:46 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851b35a093b0a2de6d1dce3e3d3" alt="Album Cover" width="48" height="48" /> [BLOW HENDRY](https://open.spotify.com/track/3mEbqCUJD1BjvrMfxmK3GZ) — Westside Gunn, MIKE
-2. <img src="https://i.scdn.co/image/ab67616d00004851b35a093b0a2de6d1dce3e3d3" alt="Album Cover" width="48" height="48" /> [DEMNA LEFT BALENCI](https://open.spotify.com/track/1RIWqarLq5ly7BwuQplYzQ) — Westside Gunn
+1. <img src="https://i.scdn.co/image/ab67616d000048516b219c8d8462bfe254a20469" alt="Album Cover" width="48" height="48" /> [MOJO JOJO](https://open.spotify.com/track/3WRUvGqySBZC6RkB5c2w1S) — Playboi Carti
+2. <img src="https://i.scdn.co/image/ab67616d000048516b219c8d8462bfe254a20469" alt="Album Cover" width="48" height="48" /> [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) — Playboi Carti
 <!--SPOTIFY_END-->
