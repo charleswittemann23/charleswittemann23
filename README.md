@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-18 16:20:46 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-20 16:17:46 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048516b219c8d8462bfe254a20469" alt="Album Cover" width="48" height="48" /> [MOJO JOJO](https://open.spotify.com/track/3WRUvGqySBZC6RkB5c2w1S) — Playboi Carti
-2. <img src="https://i.scdn.co/image/ab67616d000048516b219c8d8462bfe254a20469" alt="Album Cover" width="48" height="48" /> [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) — Playboi Carti
+1. <img src="https://i.scdn.co/image/ab67616d000048515ad8ab24fd5d0988af1f6fb7" alt="Album Cover" width="48" height="48" /> [Sun, I Rise](https://open.spotify.com/track/5yB32fa8zSMtOYlAcd2iHY) — McKinley Dixon, Angélica Garcia
+2. <img src="https://i.scdn.co/image/ab67616d00004851f2f78fdf667745983bb565a8" alt="Album Cover" width="48" height="48" /> [SONJE](https://open.spotify.com/track/7fwdaT4sij27QUYGfHShDh) — Mach-Hommy, Hephzibah
 <!--SPOTIFY_END-->
