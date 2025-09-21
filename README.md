@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-20 16:17:46 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-21 16:18:04 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048515ad8ab24fd5d0988af1f6fb7" alt="Album Cover" width="48" height="48" /> [Sun, I Rise](https://open.spotify.com/track/5yB32fa8zSMtOYlAcd2iHY) — McKinley Dixon, Angélica Garcia
-2. <img src="https://i.scdn.co/image/ab67616d00004851f2f78fdf667745983bb565a8" alt="Album Cover" width="48" height="48" /> [SONJE](https://open.spotify.com/track/7fwdaT4sij27QUYGfHShDh) — Mach-Hommy, Hephzibah
+1. <img src="https://i.scdn.co/image/ab67616d000048518af65a82cdd9104f19e4047b" alt="Album Cover" width="48" height="48" /> [Cowboy Nudes](https://open.spotify.com/track/5vtJPJsiwW5BZAYo8Nla0n) — Geese
+2. <img src="https://i.scdn.co/image/ab67616d00004851dd0ba010a69aaf99ea62fc74" alt="Album Cover" width="48" height="48" /> [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) — Portraits Of Tracy
 <!--SPOTIFY_END-->
