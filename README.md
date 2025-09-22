@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-21 16:18:04 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-22 16:21:20 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048518af65a82cdd9104f19e4047b" alt="Album Cover" width="48" height="48" /> [Cowboy Nudes](https://open.spotify.com/track/5vtJPJsiwW5BZAYo8Nla0n) — Geese
-2. <img src="https://i.scdn.co/image/ab67616d00004851dd0ba010a69aaf99ea62fc74" alt="Album Cover" width="48" height="48" /> [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) — Portraits Of Tracy
+1. <img src="https://i.scdn.co/image/ab67616d00004851a98a880137668227f3c1b238" alt="Album Cover" width="48" height="48" /> [BEAUTY AND THE BEAST](https://open.spotify.com/track/1FLskKiqnrOZdtNSRnC7Ng) — Ye, Kanye West
+2. <img src="https://i.scdn.co/image/ab67616d0000485137c2a47b8218f5c89eb20d99" alt="Album Cover" width="48" height="48" /> [LOSING YOUR MIND](https://open.spotify.com/track/3zUNCyezZQ7Wg2wYcsjGN4) — Ye, Kanye West
 <!--SPOTIFY_END-->
