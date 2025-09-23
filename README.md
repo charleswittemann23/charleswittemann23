@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-22 16:21:20 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-23 16:21:18 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851a98a880137668227f3c1b238" alt="Album Cover" width="48" height="48" /> [BEAUTY AND THE BEAST](https://open.spotify.com/track/1FLskKiqnrOZdtNSRnC7Ng) — Ye, Kanye West
-2. <img src="https://i.scdn.co/image/ab67616d0000485137c2a47b8218f5c89eb20d99" alt="Album Cover" width="48" height="48" /> [LOSING YOUR MIND](https://open.spotify.com/track/3zUNCyezZQ7Wg2wYcsjGN4) — Ye, Kanye West
+1. <img src="https://i.scdn.co/image/ab67616d00004851f3be564cb98f33ae968280f8" alt="Album Cover" width="48" height="48" /> [BITTEN BY MY LOVE VAR. XI](https://open.spotify.com/track/02RZUwOuwSiWciz1ZqeGtS) — Frog
+2. <img src="https://i.scdn.co/image/ab67616d00004851f3be564cb98f33ae968280f8" alt="Album Cover" width="48" height="48" /> [CAROLINE VAR. XIX](https://open.spotify.com/track/03KLijDo1lUv4kHhAiDnHe) — Frog
 <!--SPOTIFY_END-->
