@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-23 16:21:18 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-24 16:21:40 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851f3be564cb98f33ae968280f8" alt="Album Cover" width="48" height="48" /> [BITTEN BY MY LOVE VAR. XI](https://open.spotify.com/track/02RZUwOuwSiWciz1ZqeGtS) — Frog
-2. <img src="https://i.scdn.co/image/ab67616d00004851f3be564cb98f33ae968280f8" alt="Album Cover" width="48" height="48" /> [CAROLINE VAR. XIX](https://open.spotify.com/track/03KLijDo1lUv4kHhAiDnHe) — Frog
+1. <img src="https://i.scdn.co/image/ab67616d000048517c6f3c1072cea3ecd9b97838" alt="Album Cover" width="48" height="48" /> [Perfect (Smashing Pumpkins)](https://open.spotify.com/track/07XBPwrDPow99xbvq6cQe5) — Wednesday, MJ Lenderman
+2. <img src="https://i.scdn.co/image/ab67616d0000485136d40062a07cfb6e99f241da" alt="Album Cover" width="48" height="48" /> [Theres no such thing as england](https://open.spotify.com/track/6qwLKkyK51PTc4sDWftgcK) — Pollyfromthedirt
 <!--SPOTIFY_END-->
