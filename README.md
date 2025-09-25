@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-24 16:21:40 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-25 16:20:40 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048517c6f3c1072cea3ecd9b97838" alt="Album Cover" width="48" height="48" /> [Perfect (Smashing Pumpkins)](https://open.spotify.com/track/07XBPwrDPow99xbvq6cQe5) — Wednesday, MJ Lenderman
-2. <img src="https://i.scdn.co/image/ab67616d0000485136d40062a07cfb6e99f241da" alt="Album Cover" width="48" height="48" /> [Theres no such thing as england](https://open.spotify.com/track/6qwLKkyK51PTc4sDWftgcK) — Pollyfromthedirt
+1. <img src="https://i.scdn.co/image/ab67616d000048513674b77c17e857669ff1dfbe" alt="Album Cover" width="48" height="48" /> [dollaz n dollaz](https://open.spotify.com/track/0XNra5ANKQUUc1XNIMPNJ1) — jigitz, Lay Bankz
+2. <img src="https://i.scdn.co/image/ab67616d00004851bfe7b72ebc94ca36a9e5072f" alt="Album Cover" width="48" height="48" /> [ABC's](https://open.spotify.com/track/73P8YjW0PLirC8MygBp3hj) — MPH, AntsLive
 <!--SPOTIFY_END-->
