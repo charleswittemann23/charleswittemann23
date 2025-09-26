@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-25 16:20:40 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-26 16:20:37 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048513674b77c17e857669ff1dfbe" alt="Album Cover" width="48" height="48" /> [dollaz n dollaz](https://open.spotify.com/track/0XNra5ANKQUUc1XNIMPNJ1) — jigitz, Lay Bankz
-2. <img src="https://i.scdn.co/image/ab67616d00004851bfe7b72ebc94ca36a9e5072f" alt="Album Cover" width="48" height="48" /> [ABC's](https://open.spotify.com/track/73P8YjW0PLirC8MygBp3hj) — MPH, AntsLive
+1. <img src="https://i.scdn.co/image/ab67616d0000485138d88cdc66679c7fa561e5e3" alt="Album Cover" width="48" height="48" /> [The One I Want](https://open.spotify.com/track/0OYXUqRiO3CUXghhLyvJqM) — LEGATO
+2. <img src="https://i.scdn.co/image/ab67616d00004851eef1231340b1f14dde4816f0" alt="Album Cover" width="48" height="48" /> [Favourite One](https://open.spotify.com/track/3qw4k2xQV3RksI1Mr1kNe0) — Chris Lake, Black Lotus
 <!--SPOTIFY_END-->
