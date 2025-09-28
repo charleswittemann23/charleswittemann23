@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-27 16:18:09 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-28 16:17:25 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048514c9cc2828df2bb9f0827ba64" alt="Album Cover" width="48" height="48" /> [leave it all behind](https://open.spotify.com/track/0fu9Vvp8bOBtB1IEv7JHsB) — Rad Cat
-2. <img src="https://i.scdn.co/image/ab67616d000048511c6122e9805848d861b3f430" alt="Album Cover" width="48" height="48" /> [miserable all the time](https://open.spotify.com/track/6dqgA5KawNSuAUk2PLxF5r) — Rad Cat
+1. <img src="https://i.scdn.co/image/ab67616d00004851d7b2fb87f7316720422d2525" alt="Album Cover" width="48" height="48" /> [aint hard](https://open.spotify.com/track/6cF1WdjcCEdjS7aMq6kJDj) — Destroy Lonely
+2. <img src="https://i.scdn.co/image/ab67616d000048514c9cc2828df2bb9f0827ba64" alt="Album Cover" width="48" height="48" /> [leave it all behind](https://open.spotify.com/track/0fu9Vvp8bOBtB1IEv7JHsB) — Rad Cat
 <!--SPOTIFY_END-->
