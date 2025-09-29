@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-28 16:17:25 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-29 16:17:30 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851d7b2fb87f7316720422d2525" alt="Album Cover" width="48" height="48" /> [aint hard](https://open.spotify.com/track/6cF1WdjcCEdjS7aMq6kJDj) — Destroy Lonely
-2. <img src="https://i.scdn.co/image/ab67616d000048514c9cc2828df2bb9f0827ba64" alt="Album Cover" width="48" height="48" /> [leave it all behind](https://open.spotify.com/track/0fu9Vvp8bOBtB1IEv7JHsB) — Rad Cat
+1. <img src="https://i.scdn.co/image/ab67616d000048514b3c2967bf8ede16361aa25d" alt="Album Cover" width="48" height="48" /> [Walls Up](https://open.spotify.com/track/3d6Ix80taUaIzBojRIzVHs) — CARRTOONS, Erick the Architect
+2. <img src="https://i.scdn.co/image/ab67616d00004851fd660761527aad5ebaf12aba" alt="Album Cover" width="48" height="48" /> [brown sugar](https://open.spotify.com/track/2rEH4r3Z88dt0qFpvr8fjn) — redveil, Smino
 <!--SPOTIFY_END-->
