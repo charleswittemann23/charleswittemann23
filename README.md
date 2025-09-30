@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-29 16:17:30 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-30 16:21:18 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048514b3c2967bf8ede16361aa25d" alt="Album Cover" width="48" height="48" /> [Walls Up](https://open.spotify.com/track/3d6Ix80taUaIzBojRIzVHs) — CARRTOONS, Erick the Architect
-2. <img src="https://i.scdn.co/image/ab67616d00004851fd660761527aad5ebaf12aba" alt="Album Cover" width="48" height="48" /> [brown sugar](https://open.spotify.com/track/2rEH4r3Z88dt0qFpvr8fjn) — redveil, Smino
+1. <img src="https://i.scdn.co/image/ab67616d000048514304eafbf3516fa34b29b8e2" alt="Album Cover" width="48" height="48" /> [Landgrab](https://open.spotify.com/track/3pLwsRkN3XblUXuUUqPqFR) — MAVI, Earl Sweatshirt
+2. <img src="https://i.scdn.co/image/ab67616d00004851c5c6772d1d98b2d0f3a69e37" alt="Album Cover" width="48" height="48" /> [Everything is romantic](https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc) — Charli xcx
 <!--SPOTIFY_END-->
