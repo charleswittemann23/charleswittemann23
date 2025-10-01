@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-09-30 16:21:18 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-01 16:21:00 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048514304eafbf3516fa34b29b8e2" alt="Album Cover" width="48" height="48" /> [Landgrab](https://open.spotify.com/track/3pLwsRkN3XblUXuUUqPqFR) — MAVI, Earl Sweatshirt
-2. <img src="https://i.scdn.co/image/ab67616d00004851c5c6772d1d98b2d0f3a69e37" alt="Album Cover" width="48" height="48" /> [Everything is romantic](https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc) — Charli xcx
+1. <img src="https://i.scdn.co/image/ab67616d00004851696c76bdea1be8a1ece9f573" alt="Album Cover" width="48" height="48" /> [GO HARD](https://open.spotify.com/track/3XbJL25pekZFFv1pd8ytZe) — Joey Valence & Brae
+2. <img src="https://i.scdn.co/image/ab67616d00004851696c76bdea1be8a1ece9f573" alt="Album Cover" width="48" height="48" /> [MYSELF](https://open.spotify.com/track/4FkdvRVrTBi3LLszmtq0Gv) — Joey Valence & Brae
 <!--SPOTIFY_END-->
