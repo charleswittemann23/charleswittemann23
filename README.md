@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-01 16:21:00 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-02 16:20:26 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851696c76bdea1be8a1ece9f573" alt="Album Cover" width="48" height="48" /> [GO HARD](https://open.spotify.com/track/3XbJL25pekZFFv1pd8ytZe) — Joey Valence & Brae
-2. <img src="https://i.scdn.co/image/ab67616d00004851696c76bdea1be8a1ece9f573" alt="Album Cover" width="48" height="48" /> [MYSELF](https://open.spotify.com/track/4FkdvRVrTBi3LLszmtq0Gv) — Joey Valence & Brae
+1. <img src="https://i.scdn.co/image/ab67616d00004851583ce93dc89d84218f233ea7" alt="Album Cover" width="48" height="48" /> [Transportin'](https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn) — Kodak Black
+2. <img src="https://i.scdn.co/image/ab67616d00004851ef854fe1d04279372a96f3d6" alt="Album Cover" width="48" height="48" /> [E.B.I.T.D.A.](https://open.spotify.com/track/3J4lO2oyDMLEYGdHgRcJHW) — Clipse, Pharrell Williams, Pusha T, Malice
 <!--SPOTIFY_END-->
