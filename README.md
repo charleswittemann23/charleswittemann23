@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-02 16:20:26 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-03 16:19:51 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851583ce93dc89d84218f233ea7" alt="Album Cover" width="48" height="48" /> [Transportin'](https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn) — Kodak Black
-2. <img src="https://i.scdn.co/image/ab67616d00004851ef854fe1d04279372a96f3d6" alt="Album Cover" width="48" height="48" /> [E.B.I.T.D.A.](https://open.spotify.com/track/3J4lO2oyDMLEYGdHgRcJHW) — Clipse, Pharrell Williams, Pusha T, Malice
+1. <img src="https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38" alt="Album Cover" width="48" height="48" /> [Intro](https://open.spotify.com/track/3x94tRszQo5AJqaLCg6G8K) — Black Country, New Road
+2. <img src="https://i.scdn.co/image/ab67616d000048514a7f4cf67c5f1c07701846e6" alt="Album Cover" width="48" height="48" /> [Lights On](https://open.spotify.com/track/6BIxglmdOjzfDqdjokHobF) — MPH, AC Slater, Eloise Keeble
 <!--SPOTIFY_END-->
