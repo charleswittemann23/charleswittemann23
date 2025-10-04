@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-03 16:19:51 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-04 16:18:07 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38" alt="Album Cover" width="48" height="48" /> [Intro](https://open.spotify.com/track/3x94tRszQo5AJqaLCg6G8K) — Black Country, New Road
-2. <img src="https://i.scdn.co/image/ab67616d000048514a7f4cf67c5f1c07701846e6" alt="Album Cover" width="48" height="48" /> [Lights On](https://open.spotify.com/track/6BIxglmdOjzfDqdjokHobF) — MPH, AC Slater, Eloise Keeble
+1. <img src="https://i.scdn.co/image/ab67616d000048515f8d0856c8b7c5357dbb3bba" alt="Album Cover" width="48" height="48" /> [Lifetime](https://open.spotify.com/track/2QwJx6QhqqOqwE3mIoJ2td) — Erika de Casier
+2. <img src="https://i.scdn.co/image/ab67616d00004851a0d929dd9180ff1ec7faf32f" alt="Album Cover" width="48" height="48" /> [Cold Heart](https://open.spotify.com/track/5WRdonm8caliL2JA6fT2fL) — Nilüfer Yanya
 <!--SPOTIFY_END-->
