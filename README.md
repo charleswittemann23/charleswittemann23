@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-05 16:17:49 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-06 16:21:01 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Trinidad](https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K) — Geese
-2. <img src="https://i.scdn.co/image/ab67616d00004851ffcd862800451daec6e5cd9e" alt="Album Cover" width="48" height="48" /> [SPACE INVADER](https://open.spotify.com/track/3fPW4EhpRR6BwLRPDThNeg) — KAYTRANADA
+1. <img src="https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38" alt="Album Cover" width="48" height="48" /> [Intro](https://open.spotify.com/track/3x94tRszQo5AJqaLCg6G8K) — Black Country, New Road
+2. <img src="https://i.scdn.co/image/ab67616d0000485179cc56467c944a260be5c2a9" alt="Album Cover" width="48" height="48" /> [Reality TV Argument Bleeds](https://open.spotify.com/track/50RLmAQv8YOGDi5iexOjH3) — Wednesday
 <!--SPOTIFY_END-->
