@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-06 16:21:01 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-07 16:20:43 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38" alt="Album Cover" width="48" height="48" /> [Intro](https://open.spotify.com/track/3x94tRszQo5AJqaLCg6G8K) — Black Country, New Road
-2. <img src="https://i.scdn.co/image/ab67616d0000485179cc56467c944a260be5c2a9" alt="Album Cover" width="48" height="48" /> [Reality TV Argument Bleeds](https://open.spotify.com/track/50RLmAQv8YOGDi5iexOjH3) — Wednesday
+1. <img src="https://i.scdn.co/image/ab67616d000048511bfa23b13d0504fb90c37b39" alt="Album Cover" width="48" height="48" /> [scars](https://open.spotify.com/track/350l5Tkctw6RMcIdl7MlaS) — Baby Keem
+2. <img src="https://i.scdn.co/image/ab67616d000048511bfa23b13d0504fb90c37b39" alt="Album Cover" width="48" height="48" /> [lost souls](https://open.spotify.com/track/1h2IHrBJcZxB0XboJQpVWa) — Baby Keem
 <!--SPOTIFY_END-->
