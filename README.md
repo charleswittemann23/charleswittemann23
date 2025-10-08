@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-07 16:20:43 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-08 16:21:20 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048511bfa23b13d0504fb90c37b39" alt="Album Cover" width="48" height="48" /> [scars](https://open.spotify.com/track/350l5Tkctw6RMcIdl7MlaS) — Baby Keem
-2. <img src="https://i.scdn.co/image/ab67616d000048511bfa23b13d0504fb90c37b39" alt="Album Cover" width="48" height="48" /> [lost souls](https://open.spotify.com/track/1h2IHrBJcZxB0XboJQpVWa) — Baby Keem
+1. <img src="https://i.scdn.co/image/ab67616d00004851626910f846af7c277e209e72" alt="Album Cover" width="48" height="48" /> [Partly Get By](https://open.spotify.com/track/5u4C0rTo9aGye7kVMH02oL) — Horse Vision
+2. <img src="https://i.scdn.co/image/ab67616d00004851328fd2419bd4002918876bad" alt="Album Cover" width="48" height="48" /> [Days Incomplete](https://open.spotify.com/track/7hzXbAbf3okLa0kpb39tG9) — Fine
 <!--SPOTIFY_END-->
