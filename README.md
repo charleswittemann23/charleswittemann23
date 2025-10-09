@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-08 16:21:20 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-09 16:22:25 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851626910f846af7c277e209e72" alt="Album Cover" width="48" height="48" /> [Partly Get By](https://open.spotify.com/track/5u4C0rTo9aGye7kVMH02oL) — Horse Vision
-2. <img src="https://i.scdn.co/image/ab67616d00004851328fd2419bd4002918876bad" alt="Album Cover" width="48" height="48" /> [Days Incomplete](https://open.spotify.com/track/7hzXbAbf3okLa0kpb39tG9) — Fine
+1. <img src="https://i.scdn.co/image/ab67616d000048518cec7cdb9466a13036451f31" alt="Album Cover" width="48" height="48" /> [Medusa](https://open.spotify.com/track/3ei0xxgl2QNKR41fKWfTMN) — Boldy James, Sterling Toles
+2. <img src="https://i.scdn.co/image/ab67616d00004851229b41fb2ef66a42d2e52997" alt="Album Cover" width="48" height="48" /> [COKE OR DOPE?](https://open.spotify.com/track/2iThyJSfdWAxCaxWqx8sQa) — JPEGMAFIA
 <!--SPOTIFY_END-->
