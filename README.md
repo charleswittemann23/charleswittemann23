@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-09 16:22:25 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-10 16:21:00 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048518cec7cdb9466a13036451f31" alt="Album Cover" width="48" height="48" /> [Medusa](https://open.spotify.com/track/3ei0xxgl2QNKR41fKWfTMN) — Boldy James, Sterling Toles
-2. <img src="https://i.scdn.co/image/ab67616d00004851229b41fb2ef66a42d2e52997" alt="Album Cover" width="48" height="48" /> [COKE OR DOPE?](https://open.spotify.com/track/2iThyJSfdWAxCaxWqx8sQa) — JPEGMAFIA
+1. <img src="https://i.scdn.co/image/ab67616d000048511fd868fb45d4f7715bfb3a7b" alt="Album Cover" width="48" height="48" /> [Flimsy](https://open.spotify.com/track/05Q9VXhNXAyrsTHtTkuT3V) — King Krule
+2. <img src="https://i.scdn.co/image/ab67616d000048511fd868fb45d4f7715bfb3a7b" alt="Album Cover" width="48" height="48" /> [Empty Stomach Space Cadet](https://open.spotify.com/track/0cwE12SmWNLi8YNkoxmfGp) — King Krule
 <!--SPOTIFY_END-->
