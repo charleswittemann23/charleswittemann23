@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-10 16:21:00 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-11 16:18:00 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048511fd868fb45d4f7715bfb3a7b" alt="Album Cover" width="48" height="48" /> [Flimsy](https://open.spotify.com/track/05Q9VXhNXAyrsTHtTkuT3V) — King Krule
-2. <img src="https://i.scdn.co/image/ab67616d000048511fd868fb45d4f7715bfb3a7b" alt="Album Cover" width="48" height="48" /> [Empty Stomach Space Cadet](https://open.spotify.com/track/0cwE12SmWNLi8YNkoxmfGp) — King Krule
+1. <img src="https://i.scdn.co/image/ab67616d0000485172e302e411d314d782cd7d94" alt="Album Cover" width="48" height="48" /> [Still Riding](https://open.spotify.com/track/24lxj6jz97JPWQR5VKl0iZ) — Barry Can't Swim
+2. <img src="https://i.scdn.co/image/ab67616d000048519975e758f8df5f3704c521c7" alt="Album Cover" width="48" height="48" /> [Summer 2000 (Fcukers Remix)](https://open.spotify.com/track/2ddjbPbaOFMaM7Q7UKr7xI) — TV Girl, George Clanton, Fcukers
 <!--SPOTIFY_END-->
