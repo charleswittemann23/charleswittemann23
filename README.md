@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-12 16:18:34 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-13 16:20:47 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485172e302e411d314d782cd7d94" alt="Album Cover" width="48" height="48" /> [Still Riding](https://open.spotify.com/track/24lxj6jz97JPWQR5VKl0iZ) — Barry Can't Swim
-2. <img src="https://i.scdn.co/image/ab67616d000048519975e758f8df5f3704c521c7" alt="Album Cover" width="48" height="48" /> [Summer 2000 (Fcukers Remix)](https://open.spotify.com/track/2ddjbPbaOFMaM7Q7UKr7xI) — TV Girl, George Clanton, Fcukers
+1. <img src="https://i.scdn.co/image/ab67616d000048517a9109a9eea979b562879518" alt="Album Cover" width="48" height="48" /> [Grandmother](https://open.spotify.com/track/6ZKhQHAyi0eRwQgYNO08AI) — Big Thief, Laraaji
+2. <img src="https://i.scdn.co/image/ab67616d000048517a9109a9eea979b562879518" alt="Album Cover" width="48" height="48" /> [No Fear](https://open.spotify.com/track/0r3q5J2T2PSAkn1xkFpisa) — Big Thief
 <!--SPOTIFY_END-->
