@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-13 16:20:47 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-14 16:21:40 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048517a9109a9eea979b562879518" alt="Album Cover" width="48" height="48" /> [Grandmother](https://open.spotify.com/track/6ZKhQHAyi0eRwQgYNO08AI) — Big Thief, Laraaji
-2. <img src="https://i.scdn.co/image/ab67616d000048517a9109a9eea979b562879518" alt="Album Cover" width="48" height="48" /> [No Fear](https://open.spotify.com/track/0r3q5J2T2PSAkn1xkFpisa) — Big Thief
+1. <img src="https://i.scdn.co/image/ab67616d000048513f352787276077fe4530c5b5" alt="Album Cover" width="48" height="48" /> [Stateside + Groove Armada](https://open.spotify.com/track/6rLQ1gtRUGAqVOnB0dGmvB) — PinkPantheress, Groove Armada
+2. <img src="https://i.scdn.co/image/ab67616d000048513f352787276077fe4530c5b5" alt="Album Cover" width="48" height="48" /> [Stateside + Groove Armada](https://open.spotify.com/track/6rLQ1gtRUGAqVOnB0dGmvB) — PinkPantheress, Groove Armada
 <!--SPOTIFY_END-->
