@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-14 16:21:40 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-15 16:18:42 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048513f352787276077fe4530c5b5" alt="Album Cover" width="48" height="48" /> [Stateside + Groove Armada](https://open.spotify.com/track/6rLQ1gtRUGAqVOnB0dGmvB) — PinkPantheress, Groove Armada
-2. <img src="https://i.scdn.co/image/ab67616d000048513f352787276077fe4530c5b5" alt="Album Cover" width="48" height="48" /> [Stateside + Groove Armada](https://open.spotify.com/track/6rLQ1gtRUGAqVOnB0dGmvB) — PinkPantheress, Groove Armada
+1. <img src="https://i.scdn.co/image/ab67616d0000485119c446121fcfc0dc1f62b2d6" alt="Album Cover" width="48" height="48" /> [Animals - 2023 Remaster](https://open.spotify.com/track/67MsUuhhDdbYcXtEi4WrPs) — Big Thief
+2. <img src="https://i.scdn.co/image/ab67616d0000485119c446121fcfc0dc1f62b2d6" alt="Album Cover" width="48" height="48" /> [Velvet Ring - 2023 Remaster](https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP) — Big Thief
 <!--SPOTIFY_END-->
