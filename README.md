@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-15 16:18:42 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-16 16:22:12 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485119c446121fcfc0dc1f62b2d6" alt="Album Cover" width="48" height="48" /> [Animals - 2023 Remaster](https://open.spotify.com/track/67MsUuhhDdbYcXtEi4WrPs) — Big Thief
-2. <img src="https://i.scdn.co/image/ab67616d0000485119c446121fcfc0dc1f62b2d6" alt="Album Cover" width="48" height="48" /> [Velvet Ring - 2023 Remaster](https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP) — Big Thief
+1. <img src="https://i.scdn.co/image/ab67616d00004851b645da720452b64e5c0ca07f" alt="Album Cover" width="48" height="48" /> [It'll All Be Over - DJ Koze Remix - Radio Edit](https://open.spotify.com/track/7GFMKgqhOsaFL3k9g5vbLe) — Gerry Read, DJ Koze
+2. <img src="https://i.scdn.co/image/ab67616d0000485106ca7b28be5af019242a6d19" alt="Album Cover" width="48" height="48" /> [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) — nimino
 <!--SPOTIFY_END-->
