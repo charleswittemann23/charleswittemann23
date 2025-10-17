@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-16 16:22:12 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-17 16:20:58 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851b645da720452b64e5c0ca07f" alt="Album Cover" width="48" height="48" /> [It'll All Be Over - DJ Koze Remix - Radio Edit](https://open.spotify.com/track/7GFMKgqhOsaFL3k9g5vbLe) — Gerry Read, DJ Koze
-2. <img src="https://i.scdn.co/image/ab67616d0000485106ca7b28be5af019242a6d19" alt="Album Cover" width="48" height="48" /> [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) — nimino
+1. <img src="https://i.scdn.co/image/ab67616d00004851d40c0b6cc5b38c10643fbf8a" alt="Album Cover" width="48" height="48" /> [Super Nintendo](https://open.spotify.com/track/4Gjn7HN8TCr8p3g6YAemiO) — Armand Hammer, The Alchemist, billy woods, E L U C I D
+2. <img src="https://i.scdn.co/image/ab67616d00004851b2699b8ce0f1210c27758466" alt="Album Cover" width="48" height="48" /> [TARGET JOINT](https://open.spotify.com/track/2g3S9jyG9dAchzKCCvOXLw) — KAYTRANADA
 <!--SPOTIFY_END-->
