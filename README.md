@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-17 16:20:58 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-18 16:18:24 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851d40c0b6cc5b38c10643fbf8a" alt="Album Cover" width="48" height="48" /> [Super Nintendo](https://open.spotify.com/track/4Gjn7HN8TCr8p3g6YAemiO) — Armand Hammer, The Alchemist, billy woods, E L U C I D
-2. <img src="https://i.scdn.co/image/ab67616d00004851b2699b8ce0f1210c27758466" alt="Album Cover" width="48" height="48" /> [TARGET JOINT](https://open.spotify.com/track/2g3S9jyG9dAchzKCCvOXLw) — KAYTRANADA
+1. <img src="https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38" alt="Album Cover" width="48" height="48" /> [Intro](https://open.spotify.com/track/3x94tRszQo5AJqaLCg6G8K) — Black Country, New Road
+2. <img src="https://i.scdn.co/image/ab67616d000048513d2515260ef86fa09d10078e" alt="Album Cover" width="48" height="48" /> [eye2eye](https://open.spotify.com/track/4MvAYkzdJjzZnmmgTBXeai) — Tsu Nami
 <!--SPOTIFY_END-->
