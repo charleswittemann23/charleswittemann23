@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-19 16:18:31 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-20 16:21:29 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851b18fae872e1700b83e72a15b" alt="Album Cover" width="48" height="48" /> [Wristwatch](https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR) — MJ Lenderman
-2. <img src="https://i.scdn.co/image/ab67616d00004851b18fae872e1700b83e72a15b" alt="Album Cover" width="48" height="48" /> [Rudolph](https://open.spotify.com/track/0HJll1OUSh4FUrDUKG0ikX) — MJ Lenderman
+1. <img src="https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38" alt="Album Cover" width="48" height="48" /> [Haldern](https://open.spotify.com/track/4EVwKp8hDRmxrT6Dzu6aBc) — Black Country, New Road
+2. <img src="https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38" alt="Album Cover" width="48" height="48" /> [Mark’s Theme](https://open.spotify.com/track/0K4HD4meXy662mfS8Og0NU) — Black Country, New Road
 <!--SPOTIFY_END-->
