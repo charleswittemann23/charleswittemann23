@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-20 16:21:29 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-21 16:22:58 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38" alt="Album Cover" width="48" height="48" /> [Haldern](https://open.spotify.com/track/4EVwKp8hDRmxrT6Dzu6aBc) — Black Country, New Road
-2. <img src="https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38" alt="Album Cover" width="48" height="48" /> [Mark’s Theme](https://open.spotify.com/track/0K4HD4meXy662mfS8Og0NU) — Black Country, New Road
+1. <img src="https://i.scdn.co/image/ab67616d0000485184670a29dc9517abaa833144" alt="Album Cover" width="48" height="48" /> [violence iii](https://open.spotify.com/track/4WggnU7ZsbuYKiGHPEQYxI) — They Are Gutting a Body of Water
+2. <img src="https://i.scdn.co/image/ab67616d00004851019e874795e315fb783d2dc2" alt="Album Cover" width="48" height="48" /> [Simple Passion](https://open.spotify.com/track/2NwFo3IlJeza6AJsPt7l0e) — mark william lewis
 <!--SPOTIFY_END-->
