@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-21 16:22:58 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-22 16:23:07 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485184670a29dc9517abaa833144" alt="Album Cover" width="48" height="48" /> [violence iii](https://open.spotify.com/track/4WggnU7ZsbuYKiGHPEQYxI) — They Are Gutting a Body of Water
-2. <img src="https://i.scdn.co/image/ab67616d00004851019e874795e315fb783d2dc2" alt="Album Cover" width="48" height="48" /> [Simple Passion](https://open.spotify.com/track/2NwFo3IlJeza6AJsPt7l0e) — mark william lewis
+1. <img src="https://i.scdn.co/image/ab67616d00004851947a926195193c56d1dc45d8" alt="Album Cover" width="48" height="48" /> [Panic Emoji](https://open.spotify.com/track/7bcPVUa7HJFebVcvBhuFpf) — JPEGMAFIA
+2. <img src="https://i.scdn.co/image/ab67616d00004851947a926195193c56d1dc45d8" alt="Album Cover" width="48" height="48" /> [Libtard Anthem](https://open.spotify.com/track/3o11WzHhov1lbEhymSrwID) — JPEGMAFIA
 <!--SPOTIFY_END-->
