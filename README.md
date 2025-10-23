@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-22 16:23:07 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-23 16:21:52 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851947a926195193c56d1dc45d8" alt="Album Cover" width="48" height="48" /> [Panic Emoji](https://open.spotify.com/track/7bcPVUa7HJFebVcvBhuFpf) — JPEGMAFIA
-2. <img src="https://i.scdn.co/image/ab67616d00004851947a926195193c56d1dc45d8" alt="Album Cover" width="48" height="48" /> [Libtard Anthem](https://open.spotify.com/track/3o11WzHhov1lbEhymSrwID) — JPEGMAFIA
+1. <img src="https://i.scdn.co/image/ab67616d0000485110f5897279a10f749bc4716e" alt="Album Cover" width="48" height="48" /> [On the Fly](https://open.spotify.com/track/6x0b0IJW47OZPkEr166zib) — daniel hayn, Paul Grant, Jonny Tobin
+2. <img src="https://i.scdn.co/image/ab67616d00004851046317f88a72e4d0dc9b0d09" alt="Album Cover" width="48" height="48" /> [Woah](https://open.spotify.com/track/0maIb4eA5He1n7LTmyfyIL) — Resavoir
 <!--SPOTIFY_END-->
