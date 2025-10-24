@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-23 16:21:52 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-24 16:21:04 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485110f5897279a10f749bc4716e" alt="Album Cover" width="48" height="48" /> [On the Fly](https://open.spotify.com/track/6x0b0IJW47OZPkEr166zib) — daniel hayn, Paul Grant, Jonny Tobin
-2. <img src="https://i.scdn.co/image/ab67616d00004851046317f88a72e4d0dc9b0d09" alt="Album Cover" width="48" height="48" /> [Woah](https://open.spotify.com/track/0maIb4eA5He1n7LTmyfyIL) — Resavoir
+1. <img src="https://i.scdn.co/image/ab67616d000048519d9bf3fd5ba6d618d163b3f7" alt="Album Cover" width="48" height="48" /> [Watch For The View](https://open.spotify.com/track/1YxZJ9dgrOCa41kVaZe9bc) — Genevieve Artadi
+2. <img src="https://i.scdn.co/image/ab67616d00004851cf2d35957acb10c384a8f6cd" alt="Album Cover" width="48" height="48" /> [Around You](https://open.spotify.com/track/2ytfPhoqb8J66CGmO7v2O1) — Harrison
 <!--SPOTIFY_END-->
