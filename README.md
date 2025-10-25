@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-24 16:21:04 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-25 16:19:15 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048519d9bf3fd5ba6d618d163b3f7" alt="Album Cover" width="48" height="48" /> [Watch For The View](https://open.spotify.com/track/1YxZJ9dgrOCa41kVaZe9bc) — Genevieve Artadi
-2. <img src="https://i.scdn.co/image/ab67616d00004851cf2d35957acb10c384a8f6cd" alt="Album Cover" width="48" height="48" /> [Around You](https://open.spotify.com/track/2ytfPhoqb8J66CGmO7v2O1) — Harrison
+1. <img src="https://i.scdn.co/image/ab67616d000048512c44428ca69a7f8695b90d41" alt="Album Cover" width="48" height="48" /> [Manic!](https://open.spotify.com/track/7BGlBIWZnbe7iCj2qzolA3) — JPEGMAFIA
+2. <img src="https://i.scdn.co/image/ab67616d0000485172e302e411d314d782cd7d94" alt="Album Cover" width="48" height="48" /> [Still Riding](https://open.spotify.com/track/24lxj6jz97JPWQR5VKl0iZ) — Barry Can't Swim
 <!--SPOTIFY_END-->
