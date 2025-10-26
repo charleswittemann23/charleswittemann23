@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-25 16:19:15 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-26 16:19:16 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048512c44428ca69a7f8695b90d41" alt="Album Cover" width="48" height="48" /> [Manic!](https://open.spotify.com/track/7BGlBIWZnbe7iCj2qzolA3) — JPEGMAFIA
-2. <img src="https://i.scdn.co/image/ab67616d0000485172e302e411d314d782cd7d94" alt="Album Cover" width="48" height="48" /> [Still Riding](https://open.spotify.com/track/24lxj6jz97JPWQR5VKl0iZ) — Barry Can't Swim
+1. <img src="https://i.scdn.co/image/ab67616d000048517a21a301aa0eafc2ec9e8582" alt="Album Cover" width="48" height="48" /> [Human Happens](https://open.spotify.com/track/40ATtBjYoYuJxKGfrqJwJl) — Magdalena Bay
+2. <img src="https://i.scdn.co/image/ab67616d0000485172322236f76ad0fc1cd01cde" alt="Album Cover" width="48" height="48" /> [the beginning of the end](https://open.spotify.com/track/72WBTSGpoQntOOZd0ayWDq) — hemlocke springs
 <!--SPOTIFY_END-->
