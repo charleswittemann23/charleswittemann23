@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-26 16:19:16 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-27 16:22:35 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048517a21a301aa0eafc2ec9e8582" alt="Album Cover" width="48" height="48" /> [Human Happens](https://open.spotify.com/track/40ATtBjYoYuJxKGfrqJwJl) — Magdalena Bay
-2. <img src="https://i.scdn.co/image/ab67616d0000485172322236f76ad0fc1cd01cde" alt="Album Cover" width="48" height="48" /> [the beginning of the end](https://open.spotify.com/track/72WBTSGpoQntOOZd0ayWDq) — hemlocke springs
+1. <img src="https://i.scdn.co/image/ab67616d000048517a9109a9eea979b562879518" alt="Album Cover" width="48" height="48" /> [Double Infinity](https://open.spotify.com/track/4jdNbCXGGciAOLwAShbJ9Z) — Big Thief
+2. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Bow Down](https://open.spotify.com/track/5jR6zOQf3HtU2mifXWg6hE) — Geese
 <!--SPOTIFY_END-->
