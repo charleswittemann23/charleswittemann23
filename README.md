@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-27 16:22:35 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-28 16:23:36 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048517a9109a9eea979b562879518" alt="Album Cover" width="48" height="48" /> [Double Infinity](https://open.spotify.com/track/4jdNbCXGGciAOLwAShbJ9Z) — Big Thief
-2. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Bow Down](https://open.spotify.com/track/5jR6zOQf3HtU2mifXWg6hE) — Geese
+1. <img src="https://i.scdn.co/image/ab67616d000048518569040f689c3249eeb04345" alt="Album Cover" width="48" height="48" /> [SMiLE](https://open.spotify.com/track/1HJXdfuWc6IlKBMLtITaHD) — DOMi & JD BECK
+2. <img src="https://i.scdn.co/image/ab67616d000048518569040f689c3249eeb04345" alt="Album Cover" width="48" height="48" /> [SMiLE](https://open.spotify.com/track/1HJXdfuWc6IlKBMLtITaHD) — DOMi & JD BECK
 <!--SPOTIFY_END-->
