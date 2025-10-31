@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-30 16:22:08 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-31 16:21:48 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485126279b9515b543980f285a64" alt="Album Cover" width="48" height="48" /> [TV BOY](https://open.spotify.com/track/7miRKOmedto4eFGoIIxAC2) — Westside Gunn
-2. <img src="https://i.scdn.co/image/ab67616d0000485126279b9515b543980f285a64" alt="Album Cover" width="48" height="48" /> [RIP Bergdorf (feat. Mach-Hommy)](https://open.spotify.com/track/7vCevC6rerpiW4vbdUxGK3) — Westside Gunn, Mach-Hommy
+1. <img src="https://i.scdn.co/image/ab67616d00004851ed27ae29b50d5dbd9fd558a2" alt="Album Cover" width="48" height="48" /> [GREY ST](https://open.spotify.com/track/6pxCOI7odyZKoSYkDTP4K6) — Westside Gunn
+2. <img src="https://i.scdn.co/image/ab67616d00004851ed27ae29b50d5dbd9fd558a2" alt="Album Cover" width="48" height="48" /> [BABAS](https://open.spotify.com/track/5CKT9dbBt0IkyfDXTsAbzB) — Westside Gunn
 <!--SPOTIFY_END-->
