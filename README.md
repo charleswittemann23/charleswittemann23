@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-10-31 16:21:48 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-01 16:18:12 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851ed27ae29b50d5dbd9fd558a2" alt="Album Cover" width="48" height="48" /> [GREY ST](https://open.spotify.com/track/6pxCOI7odyZKoSYkDTP4K6) — Westside Gunn
-2. <img src="https://i.scdn.co/image/ab67616d00004851ed27ae29b50d5dbd9fd558a2" alt="Album Cover" width="48" height="48" /> [BABAS](https://open.spotify.com/track/5CKT9dbBt0IkyfDXTsAbzB) — Westside Gunn
+1. <img src="https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411" alt="Album Cover" width="48" height="48" /> [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) — Bad Bunny
+2. <img src="https://i.scdn.co/image/ab67616d00004851fffbc6bb8f405c2dacf8d64b" alt="Album Cover" width="48" height="48" /> [We Are The People - Shazam Remix](https://open.spotify.com/track/1GmTCaR9wtipTlzgDadvdx) — Empire Of The Sun, Shazam
 <!--SPOTIFY_END-->
