@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-01 16:18:12 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-02 16:18:32 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411" alt="Album Cover" width="48" height="48" /> [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) — Bad Bunny
-2. <img src="https://i.scdn.co/image/ab67616d00004851fffbc6bb8f405c2dacf8d64b" alt="Album Cover" width="48" height="48" /> [We Are The People - Shazam Remix](https://open.spotify.com/track/1GmTCaR9wtipTlzgDadvdx) — Empire Of The Sun, Shazam
+1. <img src="https://i.scdn.co/image/ab67616d000048514d9e6aeae491a4f5a7f77a5b" alt="Album Cover" width="48" height="48" /> [Black-Eyed Susan Climb](https://open.spotify.com/track/2mCezyDsL85GTUB8xHhkON) — Magdalena Bay
+2. <img src="https://i.scdn.co/image/ab67616d000048514d9e6aeae491a4f5a7f77a5b" alt="Album Cover" width="48" height="48" /> [Unoriginal](https://open.spotify.com/track/0k4qLmMUs7HOvGYtkljECk) — Magdalena Bay
 <!--SPOTIFY_END-->
