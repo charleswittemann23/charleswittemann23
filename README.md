@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-02 16:18:32 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-03 16:20:53 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048514d9e6aeae491a4f5a7f77a5b" alt="Album Cover" width="48" height="48" /> [Black-Eyed Susan Climb](https://open.spotify.com/track/2mCezyDsL85GTUB8xHhkON) — Magdalena Bay
-2. <img src="https://i.scdn.co/image/ab67616d000048514d9e6aeae491a4f5a7f77a5b" alt="Album Cover" width="48" height="48" /> [Unoriginal](https://open.spotify.com/track/0k4qLmMUs7HOvGYtkljECk) — Magdalena Bay
+1. <img src="https://i.scdn.co/image/ab67616d000048513c25e3c107bdf0a4f054bb68" alt="Album Cover" width="48" height="48" /> [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) — Fred again.., Amyl and The Sniffers
+2. <img src="https://i.scdn.co/image/ab67616d0000485174ceb14a20a12993330f5b57" alt="Album Cover" width="48" height="48" /> [OK OK](https://open.spotify.com/track/3nPwkr8RE4VfhF80fyDVXJ) — Fred again.., Danny Brown, BEAM, PARISI, JPEGMAFIA
 <!--SPOTIFY_END-->
