@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-03 16:20:53 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-04 16:21:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048513c25e3c107bdf0a4f054bb68" alt="Album Cover" width="48" height="48" /> [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) — Fred again.., Amyl and The Sniffers
-2. <img src="https://i.scdn.co/image/ab67616d0000485174ceb14a20a12993330f5b57" alt="Album Cover" width="48" height="48" /> [OK OK](https://open.spotify.com/track/3nPwkr8RE4VfhF80fyDVXJ) — Fred again.., Danny Brown, BEAM, PARISI, JPEGMAFIA
+1. <img src="https://i.scdn.co/image/ab67616d00004851f7e14cb2ea5d4360b5313003" alt="Album Cover" width="48" height="48" /> [the floor - fred remix](https://open.spotify.com/track/03g9zBj3bCqIuF7KvRw72z) — Skin On Skin, BEAM, Fred again..
+2. <img src="https://i.scdn.co/image/ab67616d000048517c3f3f711841059f4d81044c" alt="Album Cover" width="48" height="48" /> [Facilita](https://open.spotify.com/track/2VZ0ncmWdOyrsVKfc8fwa4) — Fred again.., Caribou, Menor Teteu
 <!--SPOTIFY_END-->
