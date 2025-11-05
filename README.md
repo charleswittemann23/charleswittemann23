@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-04 16:21:45 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-05 16:23:07 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851f7e14cb2ea5d4360b5313003" alt="Album Cover" width="48" height="48" /> [the floor - fred remix](https://open.spotify.com/track/03g9zBj3bCqIuF7KvRw72z) — Skin On Skin, BEAM, Fred again..
-2. <img src="https://i.scdn.co/image/ab67616d000048517c3f3f711841059f4d81044c" alt="Album Cover" width="48" height="48" /> [Facilita](https://open.spotify.com/track/2VZ0ncmWdOyrsVKfc8fwa4) — Fred again.., Caribou, Menor Teteu
+1. <img src="https://i.scdn.co/image/ab67616d0000485117734eeb912b943112ef461a" alt="Album Cover" width="48" height="48" /> [Tezeta](https://open.spotify.com/track/6DJ5dm6aDeobMcFq1WWj18) — Hailu Mergia, The Walias
+2. <img src="https://i.scdn.co/image/ab67616d000048511e6d7d967995ff8e6c9cf9cc" alt="Album Cover" width="48" height="48" /> [Handsup](https://open.spotify.com/track/3QT1t1UdF3A4ABV5BI5Yoz) — Mura Masa
 <!--SPOTIFY_END-->
