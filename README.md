@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-05 16:23:07 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-06 16:23:59 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485117734eeb912b943112ef461a" alt="Album Cover" width="48" height="48" /> [Tezeta](https://open.spotify.com/track/6DJ5dm6aDeobMcFq1WWj18) — Hailu Mergia, The Walias
-2. <img src="https://i.scdn.co/image/ab67616d000048511e6d7d967995ff8e6c9cf9cc" alt="Album Cover" width="48" height="48" /> [Handsup](https://open.spotify.com/track/3QT1t1UdF3A4ABV5BI5Yoz) — Mura Masa
+1. <img src="https://i.scdn.co/image/ab67616d00004851023f867f681febb140fdcc21" alt="Album Cover" width="48" height="48" /> [Rising Dawn](https://open.spotify.com/track/1hxLI2IXD93z5vGkcRIW2M) — Menahan Street Band
+2. <img src="https://i.scdn.co/image/ab67616d0000485162c814540b24f3521b90485e" alt="Album Cover" width="48" height="48" /> [Human Race](https://open.spotify.com/track/2DBr4d82hDGMr13smygEBj) — Human Race
 <!--SPOTIFY_END-->
