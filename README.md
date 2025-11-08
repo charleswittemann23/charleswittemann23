@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-07 16:18:32 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-08 16:19:11 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048519f58025ee4e7461ef77c708d" alt="Album Cover" width="48" height="48" /> [never felt](https://open.spotify.com/track/2ES5heUBvHazQzUKXgvZGT) — After Wes
-2. <img src="https://i.scdn.co/image/ab67616d00004851082abe7a44e733c04aa22e94" alt="Album Cover" width="48" height="48" /> [Shaking Things Up](https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu) — nimino
+1. <img src="https://i.scdn.co/image/ab67616d00004851960aad521ba3873752bd016f" alt="Album Cover" width="48" height="48" /> [Memento Mori](https://open.spotify.com/track/14FZvKr4HJKlAzf2SUSb3J) — Charlotte de Witte
+2. <img src="https://i.scdn.co/image/ab67616d00004851960aad521ba3873752bd016f" alt="Album Cover" width="48" height="48" /> [The Realm](https://open.spotify.com/track/5oUM6niJ1fzxxSTah13Osf) — Charlotte de Witte
 <!--SPOTIFY_END-->
