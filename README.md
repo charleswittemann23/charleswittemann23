@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-08 16:19:11 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-09 16:18:46 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851960aad521ba3873752bd016f" alt="Album Cover" width="48" height="48" /> [Memento Mori](https://open.spotify.com/track/14FZvKr4HJKlAzf2SUSb3J) — Charlotte de Witte
-2. <img src="https://i.scdn.co/image/ab67616d00004851960aad521ba3873752bd016f" alt="Album Cover" width="48" height="48" /> [The Realm](https://open.spotify.com/track/5oUM6niJ1fzxxSTah13Osf) — Charlotte de Witte
+1. <img src="https://i.scdn.co/image/ab67616d000048515901beed99be300628a1fb5d" alt="Album Cover" width="48" height="48" /> [HARDSTYLE 2](https://open.spotify.com/track/25E8dNd1xwaMRINstUPy1r) — Fred again.., KETTAMA, Shady Nasty
+2. <img src="https://i.scdn.co/image/ab67616d000048514bfd3b203425485e6954a305" alt="Album Cover" width="48" height="48" /> [heart of mine](https://open.spotify.com/track/4rpWnq5y3ExUhRyT5uCCkJ) — jigitz
 <!--SPOTIFY_END-->
