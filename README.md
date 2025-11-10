@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-09 16:18:46 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-10 16:23:49 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048515901beed99be300628a1fb5d" alt="Album Cover" width="48" height="48" /> [HARDSTYLE 2](https://open.spotify.com/track/25E8dNd1xwaMRINstUPy1r) — Fred again.., KETTAMA, Shady Nasty
-2. <img src="https://i.scdn.co/image/ab67616d000048514bfd3b203425485e6954a305" alt="Album Cover" width="48" height="48" /> [heart of mine](https://open.spotify.com/track/4rpWnq5y3ExUhRyT5uCCkJ) — jigitz
+1. <img src="https://i.scdn.co/image/ab67616d0000485104a531c53dc174c90cd67181" alt="Album Cover" width="48" height="48" /> [Cheap Hotel](https://open.spotify.com/track/6OI6VQxrwqTydvfgQ9bIAC) — FKA twigs
+2. <img src="https://i.scdn.co/image/ab67616d00004851696d4405302ff4b95dad5c75" alt="Album Cover" width="48" height="48" /> [Miss Understood](https://open.spotify.com/track/7emOUo5DMccU8cg5X4uG79) — Headache, Vegyn
 <!--SPOTIFY_END-->
