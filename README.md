@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-10 16:23:49 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-11 16:22:55 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485104a531c53dc174c90cd67181" alt="Album Cover" width="48" height="48" /> [Cheap Hotel](https://open.spotify.com/track/6OI6VQxrwqTydvfgQ9bIAC) — FKA twigs
-2. <img src="https://i.scdn.co/image/ab67616d00004851696d4405302ff4b95dad5c75" alt="Album Cover" width="48" height="48" /> [Miss Understood](https://open.spotify.com/track/7emOUo5DMccU8cg5X4uG79) — Headache, Vegyn
+1. <img src="https://i.scdn.co/image/ab67616d000048519b06b390cacc1762dee26aba" alt="Album Cover" width="48" height="48" /> [Tell Me](https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv) — Sassy 009, Blood Orange
+2. <img src="https://i.scdn.co/image/ab67616d00004851a871bc3a84418ad1240a5d4e" alt="Album Cover" width="48" height="48" /> [Tayla (every night)](https://open.spotify.com/track/6XmfCIEMyRqpsKMkuNKlQD) — Fred again..
 <!--SPOTIFY_END-->
