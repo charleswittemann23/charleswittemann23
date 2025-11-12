@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-11 16:22:55 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-12 16:24:19 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048519b06b390cacc1762dee26aba" alt="Album Cover" width="48" height="48" /> [Tell Me](https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv) — Sassy 009, Blood Orange
-2. <img src="https://i.scdn.co/image/ab67616d00004851a871bc3a84418ad1240a5d4e" alt="Album Cover" width="48" height="48" /> [Tayla (every night)](https://open.spotify.com/track/6XmfCIEMyRqpsKMkuNKlQD) — Fred again..
+1. <img src="https://i.scdn.co/image/ab67616d00004851f236586010b87748668d8ca8" alt="Album Cover" width="48" height="48" /> [I Don’t Wanna](https://open.spotify.com/track/7qkScg9F6NUKFxfX16qtWb) — Fcukers
+2. <img src="https://i.scdn.co/image/ab67616d00004851078b6cc632c7bb0031209802" alt="Album Cover" width="48" height="48" /> [A BUG'S LIFE](https://open.spotify.com/track/1D7qrNAEbZ0G4oR6YZTvFK) — Sudan Archives
 <!--SPOTIFY_END-->
