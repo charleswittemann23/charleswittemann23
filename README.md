@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-12 16:24:19 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-13 16:21:52 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851f236586010b87748668d8ca8" alt="Album Cover" width="48" height="48" /> [I Don’t Wanna](https://open.spotify.com/track/7qkScg9F6NUKFxfX16qtWb) — Fcukers
-2. <img src="https://i.scdn.co/image/ab67616d00004851078b6cc632c7bb0031209802" alt="Album Cover" width="48" height="48" /> [A BUG'S LIFE](https://open.spotify.com/track/1D7qrNAEbZ0G4oR6YZTvFK) — Sudan Archives
+1. <img src="https://i.scdn.co/image/ab67616d00004851ceaa166820862c7892dfef30" alt="Album Cover" width="48" height="48" /> [Embers (feat Liv.e & Venna)](https://open.spotify.com/track/4SRY0aXM7Sb3HTqgxG0cWr) — Navy Blue, Liv.e, Venna
+2. <img src="https://i.scdn.co/image/ab67616d00004851c54028b0ef2f2f569fb3df42" alt="Album Cover" width="48" height="48" /> [Krazy World](https://open.spotify.com/track/6wqt7M2wbw2XWAtCqqAfmA) — King Geedorah
 <!--SPOTIFY_END-->
