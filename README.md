@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-13 16:21:52 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-14 16:22:59 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851ceaa166820862c7892dfef30" alt="Album Cover" width="48" height="48" /> [Embers (feat Liv.e & Venna)](https://open.spotify.com/track/4SRY0aXM7Sb3HTqgxG0cWr) — Navy Blue, Liv.e, Venna
-2. <img src="https://i.scdn.co/image/ab67616d00004851c54028b0ef2f2f569fb3df42" alt="Album Cover" width="48" height="48" /> [Krazy World](https://open.spotify.com/track/6wqt7M2wbw2XWAtCqqAfmA) — King Geedorah
+1. <img src="https://i.scdn.co/image/ab67616d000048510dea455846b0633093676c60" alt="Album Cover" width="48" height="48" /> [HARD](https://open.spotify.com/track/5AzO8bswSqsYtJIfVA2BqX) — FKA twigs
+2. <img src="https://i.scdn.co/image/ab67616d000048510dea455846b0633093676c60" alt="Album Cover" width="48" height="48" /> [Wild And Alone (feat. PinkPantheress)](https://open.spotify.com/track/4AvachE4yZUjWBBub9t8aT) — FKA twigs, PinkPantheress
 <!--SPOTIFY_END-->
