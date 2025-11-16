@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-15 16:19:03 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-16 16:19:34 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485133a0de5ba4212bb59daa313e" alt="Album Cover" width="48" height="48" /> [The Dare](https://open.spotify.com/track/2qQE3Bp2W7esCvAlu5DsOQ) — FKA twigs
-2. <img src="https://i.scdn.co/image/ab67616d000048510dea455846b0633093676c60" alt="Album Cover" width="48" height="48" /> [Lost All My Friends](https://open.spotify.com/track/4ssHISvyc7GBJSNjtGXFCL) — FKA twigs
+1. <img src="https://i.scdn.co/image/ab67616d00004851c8b9c77321a155e42b4cb32d" alt="Album Cover" width="48" height="48" /> [⁠Beto’s Horns - Ezra Collective remix](https://open.spotify.com/track/5w6S07fmLF0qfbUk2IyQzg) — Fred again.., CA7RIEL & Paco Amoroso, Ezra Collective
+2. <img src="https://i.scdn.co/image/ab67616d00004851c8b9c77321a155e42b4cb32d" alt="Album Cover" width="48" height="48" /> [Beto’s Horns - fred remix](https://open.spotify.com/track/23loNjKp3yxyc7NTuwphrn) — Fred again.., CA7RIEL & Paco Amoroso
 <!--SPOTIFY_END-->
