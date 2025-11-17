@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-16 16:19:34 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-17 16:24:28 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851c8b9c77321a155e42b4cb32d" alt="Album Cover" width="48" height="48" /> [⁠Beto’s Horns - Ezra Collective remix](https://open.spotify.com/track/5w6S07fmLF0qfbUk2IyQzg) — Fred again.., CA7RIEL & Paco Amoroso, Ezra Collective
-2. <img src="https://i.scdn.co/image/ab67616d00004851c8b9c77321a155e42b4cb32d" alt="Album Cover" width="48" height="48" /> [Beto’s Horns - fred remix](https://open.spotify.com/track/23loNjKp3yxyc7NTuwphrn) — Fred again.., CA7RIEL & Paco Amoroso
+1. <img src="https://i.scdn.co/image/ab67616d00004851b07c257800c1e82a6dbcc7d0" alt="Album Cover" width="48" height="48" /> [JOSH BISHOP INTRO](https://open.spotify.com/track/5kfc8uyf0y18gGdF2bEiMV) — Westside Gunn
+2. <img src="https://i.scdn.co/image/ab67616d00004851620da7d64ba9c2e8e02ea232" alt="Album Cover" width="48" height="48" /> [$payforhaiti (feat. Mach-Hommy)](https://open.spotify.com/track/5G1Xj9wn0TZRf7TSbiIY8M) — KAYTRANADA, Mach-Hommy
 <!--SPOTIFY_END-->
