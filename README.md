@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-17 16:24:28 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-18 16:24:52 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851b07c257800c1e82a6dbcc7d0" alt="Album Cover" width="48" height="48" /> [JOSH BISHOP INTRO](https://open.spotify.com/track/5kfc8uyf0y18gGdF2bEiMV) — Westside Gunn
-2. <img src="https://i.scdn.co/image/ab67616d00004851620da7d64ba9c2e8e02ea232" alt="Album Cover" width="48" height="48" /> [$payforhaiti (feat. Mach-Hommy)](https://open.spotify.com/track/5G1Xj9wn0TZRf7TSbiIY8M) — KAYTRANADA, Mach-Hommy
+1. <img src="https://i.scdn.co/image/ab67616d000048515bf33b9f7af2d33e6558d8b4" alt="Album Cover" width="48" height="48" /> [Too Slow (All Night)](https://open.spotify.com/track/4ywDQlrX9XdJB19bvl3cvU) — Eliza Rose, Oppidan
+2. <img src="https://i.scdn.co/image/ab67616d00004851931d69a70a8a79826be5ed27" alt="Album Cover" width="48" height="48" /> [Waiting So Long](https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8) — Daphni, Caribou
 <!--SPOTIFY_END-->
