@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-18 16:24:52 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-19 16:24:09 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048515bf33b9f7af2d33e6558d8b4" alt="Album Cover" width="48" height="48" /> [Too Slow (All Night)](https://open.spotify.com/track/4ywDQlrX9XdJB19bvl3cvU) — Eliza Rose, Oppidan
-2. <img src="https://i.scdn.co/image/ab67616d00004851931d69a70a8a79826be5ed27" alt="Album Cover" width="48" height="48" /> [Waiting So Long](https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8) — Daphni, Caribou
+1. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [Battery Death](https://open.spotify.com/track/2XGJUQGZQXr5pHH11AL9oG) — Ninajirachi
+2. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [Infohazard](https://open.spotify.com/track/6CfromGdojo0R0vlgA7iU8) — Ninajirachi
 <!--SPOTIFY_END-->
