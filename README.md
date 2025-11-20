@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-19 16:24:09 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-20 16:23:18 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [Battery Death](https://open.spotify.com/track/2XGJUQGZQXr5pHH11AL9oG) — Ninajirachi
-2. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [Infohazard](https://open.spotify.com/track/6CfromGdojo0R0vlgA7iU8) — Ninajirachi
+1. <img src="https://i.scdn.co/image/ab67616d000048519e71ede183a1fd981b6d231f" alt="Album Cover" width="48" height="48" /> [The Joy is Ours](https://open.spotify.com/track/01LCIX0nhCVR6W1nOmggeC) — Headache, Vegyn
+2. <img src="https://i.scdn.co/image/ab67616d000048519e71ede183a1fd981b6d231f" alt="Album Cover" width="48" height="48" /> [Dodge This!](https://open.spotify.com/track/7tmW6t2l9JS3QYtrhaEsqZ) — Headache, Vegyn
 <!--SPOTIFY_END-->
