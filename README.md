@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-20 16:23:18 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-21 16:22:36 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048519e71ede183a1fd981b6d231f" alt="Album Cover" width="48" height="48" /> [The Joy is Ours](https://open.spotify.com/track/01LCIX0nhCVR6W1nOmggeC) — Headache, Vegyn
-2. <img src="https://i.scdn.co/image/ab67616d000048519e71ede183a1fd981b6d231f" alt="Album Cover" width="48" height="48" /> [Dodge This!](https://open.spotify.com/track/7tmW6t2l9JS3QYtrhaEsqZ) — Headache, Vegyn
+1. <img src="https://i.scdn.co/image/ab67616d00004851493ee1d0b3081d11949c6265" alt="Album Cover" width="48" height="48" /> [Gospel](https://open.spotify.com/track/4RWVxi0XsnEwZYPZGP3wlh) — Jean Dawson
+2. <img src="https://i.scdn.co/image/ab67616d00004851493ee1d0b3081d11949c6265" alt="Album Cover" width="48" height="48" /> [Rock A Bye Baby](https://open.spotify.com/track/6rIjA3RB5za85KEibAK4jC) — Jean Dawson
 <!--SPOTIFY_END-->
