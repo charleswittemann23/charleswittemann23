@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-21 16:22:36 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-22 16:19:51 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851493ee1d0b3081d11949c6265" alt="Album Cover" width="48" height="48" /> [Gospel](https://open.spotify.com/track/4RWVxi0XsnEwZYPZGP3wlh) — Jean Dawson
-2. <img src="https://i.scdn.co/image/ab67616d00004851493ee1d0b3081d11949c6265" alt="Album Cover" width="48" height="48" /> [Rock A Bye Baby](https://open.spotify.com/track/6rIjA3RB5za85KEibAK4jC) — Jean Dawson
+1. <img src="https://i.scdn.co/image/ab67616d0000485198b686f898dc32b58158993e" alt="Album Cover" width="48" height="48" /> [Beto’s Horns - fred remix](https://open.spotify.com/track/23loNjKp3yxyc7NTuwphrn) — Fred again.., CA7RIEL & Paco Amoroso
+2. <img src="https://i.scdn.co/image/ab67616d00004851b92c4fc6db2b93ee78e4efd2" alt="Album Cover" width="48" height="48" /> [Charlie kirk](https://open.spotify.com/track/2vVC13ZmL6gwdaNWOMAQs4) — kj2ugly
 <!--SPOTIFY_END-->
