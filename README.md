@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-22 16:19:51 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-23 16:20:00 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485198b686f898dc32b58158993e" alt="Album Cover" width="48" height="48" /> [Beto’s Horns - fred remix](https://open.spotify.com/track/23loNjKp3yxyc7NTuwphrn) — Fred again.., CA7RIEL & Paco Amoroso
-2. <img src="https://i.scdn.co/image/ab67616d00004851b92c4fc6db2b93ee78e4efd2" alt="Album Cover" width="48" height="48" /> [Charlie kirk](https://open.spotify.com/track/2vVC13ZmL6gwdaNWOMAQs4) — kj2ugly
+1. <img src="https://i.scdn.co/image/ab67616d00004851cebf2c62431e43fefd124a3a" alt="Album Cover" width="48" height="48" /> [Mucky town](https://open.spotify.com/track/0Yn4YGe3qxFR9SU8LelYef) — Pollyfromthedirt
+2. <img src="https://i.scdn.co/image/ab67616d0000485198b686f898dc32b58158993e" alt="Album Cover" width="48" height="48" /> [⁠Beto’s Horns - Ezra Collective remix](https://open.spotify.com/track/5w6S07fmLF0qfbUk2IyQzg) — Fred again.., CA7RIEL & Paco Amoroso, Ezra Collective
 <!--SPOTIFY_END-->
