@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-23 16:20:00 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-24 16:20:33 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851cebf2c62431e43fefd124a3a" alt="Album Cover" width="48" height="48" /> [Mucky town](https://open.spotify.com/track/0Yn4YGe3qxFR9SU8LelYef) — Pollyfromthedirt
-2. <img src="https://i.scdn.co/image/ab67616d0000485198b686f898dc32b58158993e" alt="Album Cover" width="48" height="48" /> [⁠Beto’s Horns - Ezra Collective remix](https://open.spotify.com/track/5w6S07fmLF0qfbUk2IyQzg) — Fred again.., CA7RIEL & Paco Amoroso, Ezra Collective
+1. <img src="https://i.scdn.co/image/ab67616d000048510dea455846b0633093676c60" alt="Album Cover" width="48" height="48" /> [Piece Of Mine](https://open.spotify.com/track/7HKtWDMF8zfIvxccWJjIPP) — FKA twigs
+2. <img src="https://i.scdn.co/image/ab67616d000048510dea455846b0633093676c60" alt="Album Cover" width="48" height="48" /> [Sushi](https://open.spotify.com/track/0hHDMvLvoJh8gYbJIi182A) — FKA twigs
 <!--SPOTIFY_END-->
