@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-24 16:20:33 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-25 16:24:42 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048510dea455846b0633093676c60" alt="Album Cover" width="48" height="48" /> [Piece Of Mine](https://open.spotify.com/track/7HKtWDMF8zfIvxccWJjIPP) — FKA twigs
-2. <img src="https://i.scdn.co/image/ab67616d000048510dea455846b0633093676c60" alt="Album Cover" width="48" height="48" /> [Sushi](https://open.spotify.com/track/0hHDMvLvoJh8gYbJIi182A) — FKA twigs
+1. <img src="https://i.scdn.co/image/ab67616d0000485198b686f898dc32b58158993e" alt="Album Cover" width="48" height="48" /> [Beto’s Horns - fred remix](https://open.spotify.com/track/23loNjKp3yxyc7NTuwphrn) — Fred again.., CA7RIEL & Paco Amoroso
+2. <img src="https://i.scdn.co/image/ab67616d0000485126279b9515b543980f285a64" alt="Album Cover" width="48" height="48" /> [Forest Lawn (feat. 2 Chainz & Armani Caesar)](https://open.spotify.com/track/1NQP4rYbAnw21eAfU4RSK3) — Westside Gunn, 2 Chainz, Armani Caesar
 <!--SPOTIFY_END-->
