@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-25 16:24:42 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-26 16:23:11 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485198b686f898dc32b58158993e" alt="Album Cover" width="48" height="48" /> [Beto’s Horns - fred remix](https://open.spotify.com/track/23loNjKp3yxyc7NTuwphrn) — Fred again.., CA7RIEL & Paco Amoroso
-2. <img src="https://i.scdn.co/image/ab67616d0000485126279b9515b543980f285a64" alt="Album Cover" width="48" height="48" /> [Forest Lawn (feat. 2 Chainz & Armani Caesar)](https://open.spotify.com/track/1NQP4rYbAnw21eAfU4RSK3) — Westside Gunn, 2 Chainz, Armani Caesar
+1. <img src="https://i.scdn.co/image/ab67616d0000485173681b6455c1f7112b7a3854" alt="Album Cover" width="48" height="48" /> [スポーツマン - 2019 Remastering](https://open.spotify.com/track/7wK3vFraZXIjVxOqObajAL) — Haruomi Hosono
+2. <img src="https://i.scdn.co/image/ab67616d000048517f073a643f427db13ea969bf" alt="Album Cover" width="48" height="48" /> [Crescent Sun](https://open.spotify.com/track/39JJtFlJeAjGe0KwAvej7S) — A. G. Cook
 <!--SPOTIFY_END-->
