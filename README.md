@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-26 16:23:11 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-27 16:22:11 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485173681b6455c1f7112b7a3854" alt="Album Cover" width="48" height="48" /> [スポーツマン - 2019 Remastering](https://open.spotify.com/track/7wK3vFraZXIjVxOqObajAL) — Haruomi Hosono
-2. <img src="https://i.scdn.co/image/ab67616d000048517f073a643f427db13ea969bf" alt="Album Cover" width="48" height="48" /> [Crescent Sun](https://open.spotify.com/track/39JJtFlJeAjGe0KwAvej7S) — A. G. Cook
+1. <img src="https://i.scdn.co/image/ab67616d00004851772613c0749e97abf3b9d035" alt="Album Cover" width="48" height="48" /> [What You See](https://open.spotify.com/track/3YG8OpxeR9AZSAEkRR66xH) — Danny Brown, Quadeca
+2. <img src="https://i.scdn.co/image/ab67616d00004851772613c0749e97abf3b9d035" alt="Album Cover" width="48" height="48" /> [Green Light](https://open.spotify.com/track/7HQqlyTnavA97mX9h8TNRy) — Danny Brown, Frost Children
 <!--SPOTIFY_END-->
