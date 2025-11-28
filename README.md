@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-27 16:22:11 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-28 16:22:13 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851772613c0749e97abf3b9d035" alt="Album Cover" width="48" height="48" /> [What You See](https://open.spotify.com/track/3YG8OpxeR9AZSAEkRR66xH) — Danny Brown, Quadeca
-2. <img src="https://i.scdn.co/image/ab67616d00004851772613c0749e97abf3b9d035" alt="Album Cover" width="48" height="48" /> [Green Light](https://open.spotify.com/track/7HQqlyTnavA97mX9h8TNRy) — Danny Brown, Frost Children
+1. <img src="https://i.scdn.co/image/ab67616d00004851772613c0749e97abf3b9d035" alt="Album Cover" width="48" height="48" /> [Baby](https://open.spotify.com/track/0B8GZ9M3tZSiFuIkhFqcEO) — Danny Brown, underscores
+2. <img src="https://i.scdn.co/image/ab67616d00004851772613c0749e97abf3b9d035" alt="Album Cover" width="48" height="48" /> [Baby](https://open.spotify.com/track/0B8GZ9M3tZSiFuIkhFqcEO) — Danny Brown, underscores
 <!--SPOTIFY_END-->
