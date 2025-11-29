@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-28 16:22:13 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-29 16:20:26 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851772613c0749e97abf3b9d035" alt="Album Cover" width="48" height="48" /> [Baby](https://open.spotify.com/track/0B8GZ9M3tZSiFuIkhFqcEO) — Danny Brown, underscores
-2. <img src="https://i.scdn.co/image/ab67616d00004851772613c0749e97abf3b9d035" alt="Album Cover" width="48" height="48" /> [Baby](https://open.spotify.com/track/0B8GZ9M3tZSiFuIkhFqcEO) — Danny Brown, underscores
+1. <img src="https://i.scdn.co/image/ab67616d000048519e71ede183a1fd981b6d231f" alt="Album Cover" width="48" height="48" /> [Dodge This!](https://open.spotify.com/track/7tmW6t2l9JS3QYtrhaEsqZ) — Headache, Vegyn
+2. <img src="https://i.scdn.co/image/ab67616d000048519e71ede183a1fd981b6d231f" alt="Album Cover" width="48" height="48" /> [I Appreciate You](https://open.spotify.com/track/32o6lh8To65xPSBPCtJGsL) — Headache, Vegyn
 <!--SPOTIFY_END-->
