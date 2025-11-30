@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-29 16:20:26 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-30 16:20:30 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048519e71ede183a1fd981b6d231f" alt="Album Cover" width="48" height="48" /> [Dodge This!](https://open.spotify.com/track/7tmW6t2l9JS3QYtrhaEsqZ) — Headache, Vegyn
-2. <img src="https://i.scdn.co/image/ab67616d000048519e71ede183a1fd981b6d231f" alt="Album Cover" width="48" height="48" /> [I Appreciate You](https://open.spotify.com/track/32o6lh8To65xPSBPCtJGsL) — Headache, Vegyn
+1. <img src="https://i.scdn.co/image/ab67616d0000485198b686f898dc32b58158993e" alt="Album Cover" width="48" height="48" /> [Beto’s Horns - fred remix](https://open.spotify.com/track/23loNjKp3yxyc7NTuwphrn) — Fred again.., CA7RIEL & Paco Amoroso
+2. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Husbands](https://open.spotify.com/track/0xATIfA17cJDb9pYAuw70Y) — Geese
 <!--SPOTIFY_END-->
