@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-11-30 16:20:30 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-01 16:26:19 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485198b686f898dc32b58158993e" alt="Album Cover" width="48" height="48" /> [Beto’s Horns - fred remix](https://open.spotify.com/track/23loNjKp3yxyc7NTuwphrn) — Fred again.., CA7RIEL & Paco Amoroso
-2. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Husbands](https://open.spotify.com/track/0xATIfA17cJDb9pYAuw70Y) — Geese
+1. <img src="https://i.scdn.co/image/ab67616d00004851a58f24895a30f87929c3b4bf" alt="Album Cover" width="48" height="48" /> [BerwynGesaffNeighbours](https://open.spotify.com/track/6jwVoWGfJHITzouOzgf6Qv) — Fred again.., BERWYN
+2. <img src="https://i.scdn.co/image/ab67616d0000485114ed6f5625ea349c7bda4181" alt="Album Cover" width="48" height="48" /> [either on or off the drugs](https://open.spotify.com/track/3EWaU5exMayFzQMkIfTX7w) — JPEGMAFIA
 <!--SPOTIFY_END-->
