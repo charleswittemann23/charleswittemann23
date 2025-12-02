@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-01 16:26:19 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-02 16:25:40 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851a58f24895a30f87929c3b4bf" alt="Album Cover" width="48" height="48" /> [BerwynGesaffNeighbours](https://open.spotify.com/track/6jwVoWGfJHITzouOzgf6Qv) — Fred again.., BERWYN
-2. <img src="https://i.scdn.co/image/ab67616d0000485114ed6f5625ea349c7bda4181" alt="Album Cover" width="48" height="48" /> [either on or off the drugs](https://open.spotify.com/track/3EWaU5exMayFzQMkIfTX7w) — JPEGMAFIA
+1. <img src="https://i.scdn.co/image/ab67616d000048513674b77c17e857669ff1dfbe" alt="Album Cover" width="48" height="48" /> [let me go* pt 2](https://open.spotify.com/track/6rlIST66eL6pBc6znNRytz) — jigitz
+2. <img src="https://i.scdn.co/image/ab67616d000048519e71ede183a1fd981b6d231f" alt="Album Cover" width="48" height="48" /> [Wholesale Anthem](https://open.spotify.com/track/76amMtyRHVVa2mpIuclM9l) — Headache, Vegyn
 <!--SPOTIFY_END-->
