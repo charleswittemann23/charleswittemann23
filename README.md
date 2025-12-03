@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-02 16:25:40 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-03 16:26:48 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048513674b77c17e857669ff1dfbe" alt="Album Cover" width="48" height="48" /> [let me go* pt 2](https://open.spotify.com/track/6rlIST66eL6pBc6znNRytz) — jigitz
-2. <img src="https://i.scdn.co/image/ab67616d000048519e71ede183a1fd981b6d231f" alt="Album Cover" width="48" height="48" /> [Wholesale Anthem](https://open.spotify.com/track/76amMtyRHVVa2mpIuclM9l) — Headache, Vegyn
+1. <img src="https://i.scdn.co/image/ab67616d0000485179cc56467c944a260be5c2a9" alt="Album Cover" width="48" height="48" /> [Phish Pepsi](https://open.spotify.com/track/5ksAxcBX7eirDDHSYM5FoM) — Wednesday, Advance Base
+2. <img src="https://i.scdn.co/image/ab67616d00004851ea5cea785aab2932281b90a5" alt="Album Cover" width="48" height="48" /> [Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY) — Labi Siffre
 <!--SPOTIFY_END-->
