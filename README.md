@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-03 16:26:48 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-04 16:27:11 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485179cc56467c944a260be5c2a9" alt="Album Cover" width="48" height="48" /> [Phish Pepsi](https://open.spotify.com/track/5ksAxcBX7eirDDHSYM5FoM) — Wednesday, Advance Base
-2. <img src="https://i.scdn.co/image/ab67616d00004851ea5cea785aab2932281b90a5" alt="Album Cover" width="48" height="48" /> [Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY) — Labi Siffre
+1. <img src="https://i.scdn.co/image/ab67616d000048514b10d0325d3f46b212091eaa" alt="Album Cover" width="48" height="48" /> [Technologic](https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE) — Daft Punk
+2. <img src="https://i.scdn.co/image/ab67616d0000485198b686f898dc32b58158993e" alt="Album Cover" width="48" height="48" /> [Beto’s Horns - fred remix](https://open.spotify.com/track/23loNjKp3yxyc7NTuwphrn) — Fred again.., CA7RIEL & Paco Amoroso
 <!--SPOTIFY_END-->
