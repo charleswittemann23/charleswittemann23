@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-04 16:27:11 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-05 16:23:15 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048514b10d0325d3f46b212091eaa" alt="Album Cover" width="48" height="48" /> [Technologic](https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE) — Daft Punk
-2. <img src="https://i.scdn.co/image/ab67616d0000485198b686f898dc32b58158993e" alt="Album Cover" width="48" height="48" /> [Beto’s Horns - fred remix](https://open.spotify.com/track/23loNjKp3yxyc7NTuwphrn) — Fred again.., CA7RIEL & Paco Amoroso
+1. <img src="https://i.scdn.co/image/ab67616d00004851755b26e3af91368d71a150ab" alt="Album Cover" width="48" height="48" /> [Sticky](https://open.spotify.com/track/3Si0hc3hxlehGK53jYjgVF) — FKA twigs
+2. <img src="https://i.scdn.co/image/ab67616d00004851755b26e3af91368d71a150ab" alt="Album Cover" width="48" height="48" /> [Eusexua](https://open.spotify.com/track/6TeKbncyK62smlAvPy1dNa) — FKA twigs
 <!--SPOTIFY_END-->
