@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-05 16:23:15 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-06 16:20:47 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851755b26e3af91368d71a150ab" alt="Album Cover" width="48" height="48" /> [Sticky](https://open.spotify.com/track/3Si0hc3hxlehGK53jYjgVF) — FKA twigs
-2. <img src="https://i.scdn.co/image/ab67616d00004851755b26e3af91368d71a150ab" alt="Album Cover" width="48" height="48" /> [Eusexua](https://open.spotify.com/track/6TeKbncyK62smlAvPy1dNa) — FKA twigs
+1. <img src="https://i.scdn.co/image/ab67616d00004851e58724521fe7e84276b4c373" alt="Album Cover" width="48" height="48" /> [Posing In Bondage](https://open.spotify.com/track/33qgZ7mWvlH95efOGQqfzZ) — Japanese Breakfast
+2. <img src="https://i.scdn.co/image/ab67616d0000485186011cee37f1842374d971aa" alt="Album Cover" width="48" height="48" /> [cellophane](https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P) — FKA twigs
 <!--SPOTIFY_END-->
