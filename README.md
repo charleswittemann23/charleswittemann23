@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-07 16:20:16 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-08 16:25:11 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485186011cee37f1842374d971aa" alt="Album Cover" width="48" height="48" /> [cellophane](https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P) — FKA twigs
-2. <img src="https://i.scdn.co/image/ab67616d0000485186011cee37f1842374d971aa" alt="Album Cover" width="48" height="48" /> [fallen alien](https://open.spotify.com/track/2uZkWDubNphtNJxUbvCLd7) — FKA twigs
+1. <img src="https://i.scdn.co/image/ab67616d00004851281b57bfec5391971863c05a" alt="Album Cover" width="48" height="48" /> [Holding On](https://open.spotify.com/track/4RjwMyr4D2W4py79Heop9l) — Tirzah
+2. <img src="https://i.scdn.co/image/ab67616d00004851a0f6c3db43eee55220df0818" alt="Album Cover" width="48" height="48" /> [MIXTAPE LINER NOTES VAR. VII](https://open.spotify.com/track/3tCQYKRJTGtkwDt0xMKRx5) — Frog
 <!--SPOTIFY_END-->
