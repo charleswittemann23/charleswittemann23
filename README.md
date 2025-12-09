@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-08 16:25:11 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-09 16:25:20 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851281b57bfec5391971863c05a" alt="Album Cover" width="48" height="48" /> [Holding On](https://open.spotify.com/track/4RjwMyr4D2W4py79Heop9l) — Tirzah
-2. <img src="https://i.scdn.co/image/ab67616d00004851a0f6c3db43eee55220df0818" alt="Album Cover" width="48" height="48" /> [MIXTAPE LINER NOTES VAR. VII](https://open.spotify.com/track/3tCQYKRJTGtkwDt0xMKRx5) — Frog
+1. <img src="https://i.scdn.co/image/ab67616d00004851960aad521ba3873752bd016f" alt="Album Cover" width="48" height="48" /> [The Realm](https://open.spotify.com/track/5oUM6niJ1fzxxSTah13Osf) — Charlotte de Witte
+2. <img src="https://i.scdn.co/image/ab67616d00004851b5a8a6acd021d307281eaa8c" alt="Album Cover" width="48" height="48" /> [Ambery](https://open.spotify.com/track/14Ep3bdoDg3mPdODORkXG8) — Fred again.., Floating Points
 <!--SPOTIFY_END-->
