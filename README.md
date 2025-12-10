@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-09 16:25:20 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-10 16:25:44 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851960aad521ba3873752bd016f" alt="Album Cover" width="48" height="48" /> [The Realm](https://open.spotify.com/track/5oUM6niJ1fzxxSTah13Osf) — Charlotte de Witte
-2. <img src="https://i.scdn.co/image/ab67616d00004851b5a8a6acd021d307281eaa8c" alt="Album Cover" width="48" height="48" /> [Ambery](https://open.spotify.com/track/14Ep3bdoDg3mPdODORkXG8) — Fred again.., Floating Points
+1. <img src="https://i.scdn.co/image/ab67616d00004851926f43e7cce571e62720fd46" alt="Album Cover" width="48" height="48" /> [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) — Bruno Mars
+2. <img src="https://i.scdn.co/image/ab67616d00004851a1a30cf13d406a0d5d33ae53" alt="Album Cover" width="48" height="48" /> [tears in the club (feat. the weeknd)](https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg) — FKA twigs, The Weeknd
 <!--SPOTIFY_END-->
