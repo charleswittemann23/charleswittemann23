@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-11 16:27:56 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-12 16:23:02 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048514bfd3b203425485e6954a305" alt="Album Cover" width="48" height="48" /> [first time](https://open.spotify.com/track/0TEe8itQHTRTAv7bLS7P09) — jigitz
-2. <img src="https://i.scdn.co/image/ab67616d000048514bfd3b203425485e6954a305" alt="Album Cover" width="48" height="48" /> [see u](https://open.spotify.com/track/40T6JiPlSWFwzvl80Jai5i) — jigitz
+1. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Trinidad](https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K) — Geese
+2. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Long Island City Here I Come](https://open.spotify.com/track/1oevydxCBM8J6aGHKymgl1) — Geese
 <!--SPOTIFY_END-->
