@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-12 16:23:02 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-13 16:21:08 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Trinidad](https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K) — Geese
-2. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Long Island City Here I Come](https://open.spotify.com/track/1oevydxCBM8J6aGHKymgl1) — Geese
+1. <img src="https://i.scdn.co/image/ab67616d00004851539023dfaf4a520b1d01bf3c" alt="Album Cover" width="48" height="48" /> [Will Be](https://open.spotify.com/track/5s9y389pXgZFY5CZonz51R) — De La Soul, Yummy Bingham
+2. <img src="https://i.scdn.co/image/ab67616d00004851539023dfaf4a520b1d01bf3c" alt="Album Cover" width="48" height="48" /> [Good Health](https://open.spotify.com/track/6Sy4UjUKZfjx75QCcVmYnq) — De La Soul
 <!--SPOTIFY_END-->
