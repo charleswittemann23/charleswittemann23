@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-14 16:20:41 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-15 16:28:04 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048516496141d1ecdcb3f2ce310ce" alt="Album Cover" width="48" height="48" /> [BODY BAG BENNY](https://open.spotify.com/track/6nMydmDIDUwVw4sChYeOpK) — Westside Gunn, Stove God Cooks, Benny The Butcher
-2. <img src="https://i.scdn.co/image/ab67616d000048516496141d1ecdcb3f2ce310ce" alt="Album Cover" width="48" height="48" /> [MACEDONIA](https://open.spotify.com/track/5y3uVytggicCj0b7hYSPLN) — Westside Gunn
+1. <img src="https://i.scdn.co/image/ab67616d00004851d65c4773bc5061fd27facc5b" alt="Album Cover" width="48" height="48" /> [YUKON](https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl) — Justin Bieber
+2. <img src="https://i.scdn.co/image/ab67616d00004851d65c4773bc5061fd27facc5b" alt="Album Cover" width="48" height="48" /> [YUKON](https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl) — Justin Bieber
 <!--SPOTIFY_END-->
