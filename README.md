@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-15 16:28:04 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-16 16:26:37 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851d65c4773bc5061fd27facc5b" alt="Album Cover" width="48" height="48" /> [YUKON](https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl) — Justin Bieber
-2. <img src="https://i.scdn.co/image/ab67616d00004851d65c4773bc5061fd27facc5b" alt="Album Cover" width="48" height="48" /> [YUKON](https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl) — Justin Bieber
+1. <img src="https://i.scdn.co/image/ab67616d00004851a36c77d6ac2f035af76e13d2" alt="Album Cover" width="48" height="48" /> [Amherst Station](https://open.spotify.com/track/5Rf8APWCj5VFj3n5SUX8qe) — Westside Gunn
+2. <img src="https://i.scdn.co/image/ab67616d00004851b07c257800c1e82a6dbcc7d0" alt="Album Cover" width="48" height="48" /> [EDDIE BAUER](https://open.spotify.com/track/43G6wmFj2MrQcbHlmLpPEy) — Westside Gunn
 <!--SPOTIFY_END-->
