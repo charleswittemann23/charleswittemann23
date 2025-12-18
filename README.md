@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-17 16:25:54 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-18 16:27:24 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485119c446121fcfc0dc1f62b2d6" alt="Album Cover" width="48" height="48" /> [Paul - 2023 Remaster](https://open.spotify.com/track/5CBqLg9XdeEHcknJX0fZIJ) — Big Thief
-2. <img src="https://i.scdn.co/image/ab67616d00004851a6e4196a01e935da6659fa39" alt="Album Cover" width="48" height="48" /> [Slow Jam](https://open.spotify.com/track/7mnug6FnByIxbrvXYsJbCL) — Pulp
+1. <img src="https://i.scdn.co/image/ab67616d00004851608c444310857c06bdc65361" alt="Album Cover" width="48" height="48" /> [Time Escaping](https://open.spotify.com/track/32k3OLmeIWe93KY0QzMmZX) — Big Thief
+2. <img src="https://i.scdn.co/image/ab67616d00004851608c444310857c06bdc65361" alt="Album Cover" width="48" height="48" /> [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) — Big Thief
 <!--SPOTIFY_END-->
