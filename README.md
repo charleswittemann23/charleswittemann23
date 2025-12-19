@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-18 16:27:24 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-19 16:24:01 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851608c444310857c06bdc65361" alt="Album Cover" width="48" height="48" /> [Time Escaping](https://open.spotify.com/track/32k3OLmeIWe93KY0QzMmZX) — Big Thief
-2. <img src="https://i.scdn.co/image/ab67616d00004851608c444310857c06bdc65361" alt="Album Cover" width="48" height="48" /> [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) — Big Thief
+1. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [iPod Touch](https://open.spotify.com/track/1xqT27jSG1Y15vOXfsV0gv) — Ninajirachi
+2. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [London Song](https://open.spotify.com/track/42a9PusvgFnyH0WgdCn6PV) — Ninajirachi
 <!--SPOTIFY_END-->
