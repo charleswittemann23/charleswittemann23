@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-19 16:24:01 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-20 16:21:32 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [iPod Touch](https://open.spotify.com/track/1xqT27jSG1Y15vOXfsV0gv) — Ninajirachi
-2. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [London Song](https://open.spotify.com/track/42a9PusvgFnyH0WgdCn6PV) — Ninajirachi
+1. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [All At Once](https://open.spotify.com/track/5ddKhEInw4xkOYzI6KIXsG) — Ninajirachi
+2. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [Battery Death](https://open.spotify.com/track/2XGJUQGZQXr5pHH11AL9oG) — Ninajirachi
 <!--SPOTIFY_END-->
