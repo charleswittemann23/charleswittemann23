@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-20 16:21:32 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-21 16:21:07 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [All At Once](https://open.spotify.com/track/5ddKhEInw4xkOYzI6KIXsG) — Ninajirachi
-2. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [Battery Death](https://open.spotify.com/track/2XGJUQGZQXr5pHH11AL9oG) — Ninajirachi
+1. <img src="https://i.scdn.co/image/ab67616d00004851bf6d27f2f6f8a208de3b5b89" alt="Album Cover" width="48" height="48" /> [Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K) — ear
+2. <img src="https://i.scdn.co/image/ab67616d0000485163ac10424ab5394a6453ca56" alt="Album Cover" width="48" height="48" /> [Fuck My Computer - Frost Children Remix](https://open.spotify.com/track/4msZzTP3dJlqmHRhUb4v3f) — Ninajirachi, Frost Children
 <!--SPOTIFY_END-->
