@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-21 16:21:07 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-22 16:23:40 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851bf6d27f2f6f8a208de3b5b89" alt="Album Cover" width="48" height="48" /> [Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K) — ear
-2. <img src="https://i.scdn.co/image/ab67616d0000485163ac10424ab5394a6453ca56" alt="Album Cover" width="48" height="48" /> [Fuck My Computer - Frost Children Remix](https://open.spotify.com/track/4msZzTP3dJlqmHRhUb4v3f) — Ninajirachi, Frost Children
+1. <img src="https://i.scdn.co/image/ab67616d00004851712b49f6c9d425fd6033e218" alt="Album Cover" width="48" height="48" /> [Heathcliff](https://open.spotify.com/track/4Q5Tw8eOylSLI9DvYrbQoO) — Snocaps, Waxahatchee, Allison Crutchfield
+2. <img src="https://i.scdn.co/image/ab67616d00004851a340dd4ade66fa7f790eb880" alt="Album Cover" width="48" height="48" /> [Miffed It](https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P) — Way Dynamic
 <!--SPOTIFY_END-->
