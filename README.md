@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-22 16:23:40 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-23 16:24:57 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851712b49f6c9d425fd6033e218" alt="Album Cover" width="48" height="48" /> [Heathcliff](https://open.spotify.com/track/4Q5Tw8eOylSLI9DvYrbQoO) — Snocaps, Waxahatchee, Allison Crutchfield
-2. <img src="https://i.scdn.co/image/ab67616d00004851a340dd4ade66fa7f790eb880" alt="Album Cover" width="48" height="48" /> [Miffed It](https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P) — Way Dynamic
+1. <img src="https://i.scdn.co/image/ab67616d000048511d285a375aa21c823f9b053f" alt="Album Cover" width="48" height="48" /> [So In Love With You - Full Intention Mix Version](https://open.spotify.com/track/6Vja9QrWtd6ZGKIcziBQjg) — Duke
+2. <img src="https://i.scdn.co/image/ab67616d0000485144a21bdb6c1364be205aadf5" alt="Album Cover" width="48" height="48" /> [Sushi](https://open.spotify.com/track/0hHDMvLvoJh8gYbJIi182A) — FKA twigs
 <!--SPOTIFY_END-->
