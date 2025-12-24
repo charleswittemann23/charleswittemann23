@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-23 16:24:57 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-24 16:23:06 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048511d285a375aa21c823f9b053f" alt="Album Cover" width="48" height="48" /> [So In Love With You - Full Intention Mix Version](https://open.spotify.com/track/6Vja9QrWtd6ZGKIcziBQjg) — Duke
-2. <img src="https://i.scdn.co/image/ab67616d0000485144a21bdb6c1364be205aadf5" alt="Album Cover" width="48" height="48" /> [Sushi](https://open.spotify.com/track/0hHDMvLvoJh8gYbJIi182A) — FKA twigs
+1. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Taxes](https://open.spotify.com/track/5cbDTZG8lBJqVVa2zqROPI) — Geese
+2. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Bow Down](https://open.spotify.com/track/5jR6zOQf3HtU2mifXWg6hE) — Geese
 <!--SPOTIFY_END-->
