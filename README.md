@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-25 16:23:12 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-26 16:21:40 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Long Island City Here I Come](https://open.spotify.com/track/1oevydxCBM8J6aGHKymgl1) — Geese
-2. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Taxes](https://open.spotify.com/track/5cbDTZG8lBJqVVa2zqROPI) — Geese
+1. <img src="https://i.scdn.co/image/ab67616d000048514118e6b9fb53e63113aa0a9f" alt="Album Cover" width="48" height="48" /> [you open my eyes](https://open.spotify.com/track/6JlgY81Bi3yodMMT1ooZsN) — Tennyson
+2. <img src="https://i.scdn.co/image/ab67616d00004851bf6d27f2f6f8a208de3b5b89" alt="Album Cover" width="48" height="48" /> [Aim](https://open.spotify.com/track/4po0BRTseMisI5YnOlLhlk) — ear
 <!--SPOTIFY_END-->
