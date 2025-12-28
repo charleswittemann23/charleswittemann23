@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-27 16:22:04 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-28 16:22:21 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851c020ef666dab40650242501c" alt="Album Cover" width="48" height="48" /> [Nice Day](https://open.spotify.com/track/6Fkkhw1f2pmOIOSm0d7c1W) — Magdalena Bay
-2. <img src="https://i.scdn.co/image/ab67616d00004851c020ef666dab40650242501c" alt="Album Cover" width="48" height="48" /> [Nice Day](https://open.spotify.com/track/6Fkkhw1f2pmOIOSm0d7c1W) — Magdalena Bay
+1. <img src="https://i.scdn.co/image/ab67616d00004851ed0ff9e3da245987111fc904" alt="Album Cover" width="48" height="48" /> [London Foxes](https://open.spotify.com/track/66QxAmSRT2GKceep57uq2q) — Infinity Song
+2. <img src="https://i.scdn.co/image/ab67616d000048516963e098c52733db9753031c" alt="Album Cover" width="48" height="48" /> [Modern Lust](https://open.spotify.com/track/6AZgwt8kSepsA72j64Ttjx) — Oneohtrix Point Never
 <!--SPOTIFY_END-->
