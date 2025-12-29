@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-28 16:22:21 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-29 16:23:31 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851ed0ff9e3da245987111fc904" alt="Album Cover" width="48" height="48" /> [London Foxes](https://open.spotify.com/track/66QxAmSRT2GKceep57uq2q) — Infinity Song
-2. <img src="https://i.scdn.co/image/ab67616d000048516963e098c52733db9753031c" alt="Album Cover" width="48" height="48" /> [Modern Lust](https://open.spotify.com/track/6AZgwt8kSepsA72j64Ttjx) — Oneohtrix Point Never
+1. <img src="https://i.scdn.co/image/ab67616d000048516496141d1ecdcb3f2ce310ce" alt="Album Cover" width="48" height="48" /> [MACEDONIA](https://open.spotify.com/track/5y3uVytggicCj0b7hYSPLN) — Westside Gunn
+2. <img src="https://i.scdn.co/image/ab67616d000048519db0b19fa174ea309a29278a" alt="Album Cover" width="48" height="48" /> [So What If I'm A Freak](https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N) — Snow Strippers
 <!--SPOTIFY_END-->
