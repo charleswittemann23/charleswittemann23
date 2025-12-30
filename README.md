@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-29 16:23:31 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-30 16:24:50 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048516496141d1ecdcb3f2ce310ce" alt="Album Cover" width="48" height="48" /> [MACEDONIA](https://open.spotify.com/track/5y3uVytggicCj0b7hYSPLN) — Westside Gunn
-2. <img src="https://i.scdn.co/image/ab67616d000048519db0b19fa174ea309a29278a" alt="Album Cover" width="48" height="48" /> [So What If I'm A Freak](https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N) — Snow Strippers
+1. <img src="https://i.scdn.co/image/ab67616d00004851130dc7d9ac00cb8948006dda" alt="Album Cover" width="48" height="48" /> [Hip-Notic Lady](https://open.spotify.com/track/5fgVnAzG1x12EAhree6bpx) — Future Flight
+2. <img src="https://i.scdn.co/image/ab67616d00004851583ce93dc89d84218f233ea7" alt="Album Cover" width="48" height="48" /> [Transportin'](https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn) — Kodak Black
 <!--SPOTIFY_END-->
