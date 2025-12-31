@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-30 16:24:50 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2025-12-31 16:23:41 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851130dc7d9ac00cb8948006dda" alt="Album Cover" width="48" height="48" /> [Hip-Notic Lady](https://open.spotify.com/track/5fgVnAzG1x12EAhree6bpx) — Future Flight
-2. <img src="https://i.scdn.co/image/ab67616d00004851583ce93dc89d84218f233ea7" alt="Album Cover" width="48" height="48" /> [Transportin'](https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn) — Kodak Black
+1. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [ฅ^•ﻌ•^ฅ](https://open.spotify.com/track/0qubDCNLgEKECDhRSq7Q38) — Ninajirachi
+2. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) — Ninajirachi
 <!--SPOTIFY_END-->
