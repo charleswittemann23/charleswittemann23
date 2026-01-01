@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- To do: add spotify web-player/listening to now
+
 -->
 
 <h2> Languages and Tools I Use</h2>
@@ -34,9 +34,8 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://www.linkedin.com/in/charles-wittemann/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=charleswittemann23&show_icons=true&locale=en&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
+
 
 
 
@@ -46,3 +45,4 @@ Here are some ideas to get you started:
 1. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [ฅ^•ﻌ•^ฅ](https://open.spotify.com/track/0qubDCNLgEKECDhRSq7Q38) — Ninajirachi
 2. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) — Ninajirachi
 <!--SPOTIFY_END-->
+![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
