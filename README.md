@@ -32,8 +32,24 @@ Here are some ideas to get you started:
 <h2>Where to find me</h2>
 <p>
 <a target="_blank" href="https://www.linkedin.com/in/charles-wittemann/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<a
+  href="https://charles-wittemann.vercel.app"
+  target="_blank"
+  rel="noopener noreferrer"
+  class="inline-flex items-center gap-3 rounded-lg bg-black px-5 py-3 text-base font-semibold text-white transition hover:bg-neutral-800"
+>
+  <img
+    src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png"
+    alt="Vercel"
+    class="h-5 w-5 invert"
+    height = "20"
+    width = "20"
+  />
+  View Portfolio
+</a>
 
-<a href="https://charles-wittemann.vercel.app"><h5>Portfolio Page</h5></a>
+
+
 
 
 
