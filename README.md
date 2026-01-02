@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-02 01:14:52 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-02 16:22:54 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485144a21bdb6c1364be205aadf5" alt="Album Cover" width="48" height="48" /> [Sushi](https://open.spotify.com/track/0hHDMvLvoJh8gYbJIi182A) — FKA twigs
-2. <img src="https://i.scdn.co/image/ab67616d00004851c020ef666dab40650242501c" alt="Album Cover" width="48" height="48" /> [Nice Day](https://open.spotify.com/track/6Fkkhw1f2pmOIOSm0d7c1W) — Magdalena Bay
+1. <img src="https://i.scdn.co/image/ab67616d000048514738aa171569052376f162fe" alt="Album Cover" width="48" height="48" /> [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) — Cameron Winter
+2. <img src="https://i.scdn.co/image/ab67616d0000485144a21bdb6c1364be205aadf5" alt="Album Cover" width="48" height="48" /> [Sushi](https://open.spotify.com/track/0hHDMvLvoJh8gYbJIi182A) — FKA twigs
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
