@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-03 16:22:12 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-04 16:21:56 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851c020ef666dab40650242501c" alt="Album Cover" width="48" height="48" /> [Nice Day](https://open.spotify.com/track/6Fkkhw1f2pmOIOSm0d7c1W) — Magdalena Bay
-2. <img src="https://i.scdn.co/image/ab67616d00004851c020ef666dab40650242501c" alt="Album Cover" width="48" height="48" /> [This Is The World (I Made It For You)](https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ) — Magdalena Bay
+1. <img src="https://i.scdn.co/image/ab67616d000048516496141d1ecdcb3f2ce310ce" alt="Album Cover" width="48" height="48" /> [BODY BAG BENNY](https://open.spotify.com/track/6nMydmDIDUwVw4sChYeOpK) — Westside Gunn, Stove God Cooks, Benny The Butcher
+2. <img src="https://i.scdn.co/image/ab67616d000048516496141d1ecdcb3f2ce310ce" alt="Album Cover" width="48" height="48" /> [DONT BE BRUEL](https://open.spotify.com/track/6DuGhDZ8ql1FsqaEiAcZXy) — Westside Gunn, Stove God Cooks
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
