@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-04 16:21:56 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-05 16:24:56 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048516496141d1ecdcb3f2ce310ce" alt="Album Cover" width="48" height="48" /> [BODY BAG BENNY](https://open.spotify.com/track/6nMydmDIDUwVw4sChYeOpK) — Westside Gunn, Stove God Cooks, Benny The Butcher
-2. <img src="https://i.scdn.co/image/ab67616d000048516496141d1ecdcb3f2ce310ce" alt="Album Cover" width="48" height="48" /> [DONT BE BRUEL](https://open.spotify.com/track/6DuGhDZ8ql1FsqaEiAcZXy) — Westside Gunn, Stove God Cooks
+1. <img src="https://i.scdn.co/image/ab67616d00004851fa7758eaaa80d0562c051714" alt="Album Cover" width="48" height="48" /> [BLUH BLUH BLUH](https://open.spotify.com/track/7eFwA9VIRjH2OvnrcRNqw0) — _BY.ALEXANDER
+2. <img src="https://i.scdn.co/image/ab67616d00004851fa7758eaaa80d0562c051714" alt="Album Cover" width="48" height="48" /> [DEAR DAD](https://open.spotify.com/track/7gZdwSYKKLizvDX4AMdoG5) — _BY.ALEXANDER
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
