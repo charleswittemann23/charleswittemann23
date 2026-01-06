@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-05 16:24:56 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-06 16:25:53 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851fa7758eaaa80d0562c051714" alt="Album Cover" width="48" height="48" /> [BLUH BLUH BLUH](https://open.spotify.com/track/7eFwA9VIRjH2OvnrcRNqw0) — _BY.ALEXANDER
-2. <img src="https://i.scdn.co/image/ab67616d00004851fa7758eaaa80d0562c051714" alt="Album Cover" width="48" height="48" /> [DEAR DAD](https://open.spotify.com/track/7gZdwSYKKLizvDX4AMdoG5) — _BY.ALEXANDER
+1. <img src="https://i.scdn.co/image/ab67616d000048517339f7e95927d4b823189f62" alt="Album Cover" width="48" height="48" /> [Death & Romance](https://open.spotify.com/track/7DscWF0Zc73WJM6oByq17m) — Magdalena Bay
+2. <img src="https://i.scdn.co/image/ab67616d00004851193c2fafdce8f116b5ca0a78" alt="Album Cover" width="48" height="48" /> [Sexy to Someone](https://open.spotify.com/track/3awweDjWIuXNMogMClJnvE) — Clairo
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
