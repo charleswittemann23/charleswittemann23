@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-07 16:28:06 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-08 16:27:27 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048516382f06498259682f91cf981" alt="Album Cover" width="48" height="48" /> [Rumble](https://open.spotify.com/track/74fmYjFwt9CqEFAh8ybeBD) — Skrillex, Fred again.., Flowdan
-2. <img src="https://i.scdn.co/image/ab67616d00004851c8ced8a4d6b6b61eb592f3dd" alt="Album Cover" width="48" height="48" /> [Wassup](https://open.spotify.com/track/1bjTEsJdDdbuA5JsdRRxhP) — A$AP Rocky
+1. <img src="https://i.scdn.co/image/ab67616d0000485179cc56467c944a260be5c2a9" alt="Album Cover" width="48" height="48" /> [Wound Up Here (By Holdin On)](https://open.spotify.com/track/5b7XNPJbJV5ncuFGoh9ZJy) — Wednesday
+2. <img src="https://i.scdn.co/image/ab67616d0000485179cc56467c944a260be5c2a9" alt="Album Cover" width="48" height="48" /> [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) — Wednesday
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
