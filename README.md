@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-08 16:27:27 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-09 16:25:23 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485179cc56467c944a260be5c2a9" alt="Album Cover" width="48" height="48" /> [Wound Up Here (By Holdin On)](https://open.spotify.com/track/5b7XNPJbJV5ncuFGoh9ZJy) — Wednesday
-2. <img src="https://i.scdn.co/image/ab67616d0000485179cc56467c944a260be5c2a9" alt="Album Cover" width="48" height="48" /> [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) — Wednesday
+1. <img src="https://i.scdn.co/image/ab67616d000048512f9e981ef2f67e481a6bac03" alt="Album Cover" width="48" height="48" /> [pokemon](https://open.spotify.com/track/0XMO3PiZ4gtXRvIJCgHsLl) — Wet Leg
+2. <img src="https://i.scdn.co/image/ab67616d00004851e02a1debf276767e6ac7ded1" alt="Album Cover" width="48" height="48" /> [Holo Boy](https://open.spotify.com/track/4rfo0unv0qr6MVAQCsuJAV) — This Is Lorelei
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
