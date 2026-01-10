@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-09 16:25:23 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-10 16:21:50 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048512f9e981ef2f67e481a6bac03" alt="Album Cover" width="48" height="48" /> [pokemon](https://open.spotify.com/track/0XMO3PiZ4gtXRvIJCgHsLl) — Wet Leg
-2. <img src="https://i.scdn.co/image/ab67616d00004851e02a1debf276767e6ac7ded1" alt="Album Cover" width="48" height="48" /> [Holo Boy](https://open.spotify.com/track/4rfo0unv0qr6MVAQCsuJAV) — This Is Lorelei
+1. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [Sing Good](https://open.spotify.com/track/3n2t35gDOHQS0NMtxKKkZq) — Ninajirachi
+2. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [Battery Death](https://open.spotify.com/track/2XGJUQGZQXr5pHH11AL9oG) — Ninajirachi
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
