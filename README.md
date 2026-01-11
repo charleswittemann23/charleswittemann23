@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-10 16:21:50 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-11 16:21:53 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [Sing Good](https://open.spotify.com/track/3n2t35gDOHQS0NMtxKKkZq) — Ninajirachi
-2. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [Battery Death](https://open.spotify.com/track/2XGJUQGZQXr5pHH11AL9oG) — Ninajirachi
+1. <img src="https://i.scdn.co/image/ab67616d00004851fea83429583e80a5f30c1f1d" alt="Album Cover" width="48" height="48" /> [Middleage(d) Humanoid](https://open.spotify.com/track/4uo629ooW4wzrrDvQorIv2) — Viagra Boys
+2. <img src="https://i.scdn.co/image/ab67616d00004851fea83429583e80a5f30c1f1d" alt="Album Cover" width="48" height="48" /> [Therapy II](https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln) — Viagra Boys
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
