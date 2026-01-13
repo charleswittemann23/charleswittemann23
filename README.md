@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-12 16:25:06 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-13 16:29:02 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048518ec8e5fb201572f6b3039d8a" alt="Album Cover" width="48" height="48" /> [..FEISTY](https://open.spotify.com/track/0aXembK4QS3tJl5qv5sIrA) — Fred again.., BIA
-2. <img src="https://i.scdn.co/image/ab67616d00004851d61bcbfe780790ca9f4c5dfe" alt="Album Cover" width="48" height="48" /> [BUST DOWN (feat. TiaCorine)](https://open.spotify.com/track/38KUOtXulnQmigscma1lpg) — Joey Valence & Brae, TiaCorine
+1. <img src="https://i.scdn.co/image/ab67616d00004851443eb0dae317749d6d565be8" alt="Album Cover" width="48" height="48" /> [Brain Cells](https://open.spotify.com/track/3u8xjJetEp4fvVmijjzPBE) — Chance the Rapper
+2. <img src="https://i.scdn.co/image/ab67616d00004851443eb0dae317749d6d565be8" alt="Album Cover" width="48" height="48" /> [Windows](https://open.spotify.com/track/7oAoaynpcxBEHDgg7XQfxd) — Chance the Rapper, Alex Wiley, Akenya
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
