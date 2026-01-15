@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-14 16:28:02 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-15 16:32:47 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048510a1b96bb8276ba8def63dea0" alt="Album Cover" width="48" height="48" /> [Bon Bon](https://open.spotify.com/track/3WTRcCC2An6PVqvGBHCGoi) — Fcukers
-2. <img src="https://i.scdn.co/image/ab67616d000048510a1b96bb8276ba8def63dea0" alt="Album Cover" width="48" height="48" /> [I Like It Like That](https://open.spotify.com/track/7ioeGejbJkxTzkoyqwPEIQ) — Fcukers
+1. <img src="https://i.scdn.co/image/ab67616d000048517f073a643f427db13ea969bf" alt="Album Cover" width="48" height="48" /> [Britpop](https://open.spotify.com/track/6yYnmUYPdTM2ExnJpBKMOT) — A. G. Cook
+2. <img src="https://i.scdn.co/image/ab67616d00004851a9a27a58bf3a945e6524d05a" alt="Album Cover" width="48" height="48" /> [Dread - The Moment (The Score)](https://open.spotify.com/track/5ZKBECkEwYHm4J3c1NRedu) — A. G. Cook
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
