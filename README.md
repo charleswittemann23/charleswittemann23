@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-15 16:32:47 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-16 16:26:10 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048517f073a643f427db13ea969bf" alt="Album Cover" width="48" height="48" /> [Britpop](https://open.spotify.com/track/6yYnmUYPdTM2ExnJpBKMOT) — A. G. Cook
-2. <img src="https://i.scdn.co/image/ab67616d00004851a9a27a58bf3a945e6524d05a" alt="Album Cover" width="48" height="48" /> [Dread - The Moment (The Score)](https://open.spotify.com/track/5ZKBECkEwYHm4J3c1NRedu) — A. G. Cook
+1. <img src="https://i.scdn.co/image/ab67616d00004851be35d523672e13da3debc413" alt="Album Cover" width="48" height="48" /> [ORDER OF PROTECTION](https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp) — A$AP Rocky
+2. <img src="https://i.scdn.co/image/ab67616d00004851bf26b3f697a7d4a039a6e3a9" alt="Album Cover" width="48" height="48" /> [Medicine for Horses](https://open.spotify.com/track/3HIoSF8128M5EbJnJTkEQB) — Viagra Boys
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
