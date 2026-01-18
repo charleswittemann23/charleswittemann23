@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-17 16:20:53 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-18 16:21:57 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048510a1b96bb8276ba8def63dea0" alt="Album Cover" width="48" height="48" /> [L.U.C.K.Y](https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs) — Fcukers
-2. <img src="https://i.scdn.co/image/ab67616d000048510c4a6506bebaad3fc2b07610" alt="Album Cover" width="48" height="48" /> [Wall of Sound](https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD) — Charli xcx
+1. <img src="https://i.scdn.co/image/ab67616d00004851cbd32c267bbd7131928dd6be" alt="Album Cover" width="48" height="48" /> [Glory Black](https://open.spotify.com/track/6E6g94L9v7DM9jLFCm9T98) — sunn O)))
+2. <img src="https://i.scdn.co/image/ab67616d0000485176c9b9e34a3a87891dbf6ba2" alt="Album Cover" width="48" height="48" /> [Hours Were the Birds](https://open.spotify.com/track/5H87LbORbaiDnHLK5jv3iV) — Adrianne Lenker
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
