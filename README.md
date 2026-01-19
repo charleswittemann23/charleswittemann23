@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-18 16:21:57 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-19 16:26:53 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851cbd32c267bbd7131928dd6be" alt="Album Cover" width="48" height="48" /> [Glory Black](https://open.spotify.com/track/6E6g94L9v7DM9jLFCm9T98) — sunn O)))
-2. <img src="https://i.scdn.co/image/ab67616d0000485176c9b9e34a3a87891dbf6ba2" alt="Album Cover" width="48" height="48" /> [Hours Were the Birds](https://open.spotify.com/track/5H87LbORbaiDnHLK5jv3iV) — Adrianne Lenker
+1. <img src="https://i.scdn.co/image/ab67616d000048511c08f68bdfd2f24e84acf7a2" alt="Album Cover" width="48" height="48" /> [Peppas (feat. Black Star)](https://open.spotify.com/track/0bKg2V6xY47U5UCU7QuoAX) — Westside Gunn, Black Star
+2. <img src="https://i.scdn.co/image/ab67616d000048511c08f68bdfd2f24e84acf7a2" alt="Album Cover" width="48" height="48" /> [Shootouts In Soho (feat. A$AP Rocky & Stove God Cooks)](https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC) — Westside Gunn, A$AP Rocky, Stove God Cooks
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
