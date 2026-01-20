@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-19 16:26:53 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-20 16:33:01 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048511c08f68bdfd2f24e84acf7a2" alt="Album Cover" width="48" height="48" /> [Peppas (feat. Black Star)](https://open.spotify.com/track/0bKg2V6xY47U5UCU7QuoAX) — Westside Gunn, Black Star
-2. <img src="https://i.scdn.co/image/ab67616d000048511c08f68bdfd2f24e84acf7a2" alt="Album Cover" width="48" height="48" /> [Shootouts In Soho (feat. A$AP Rocky & Stove God Cooks)](https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC) — Westside Gunn, A$AP Rocky, Stove God Cooks
+1. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [All I Am](https://open.spotify.com/track/3CbF4eluvVhJ9v0axMj2Rk) — Ninajirachi
+2. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [ฅ^•ﻌ•^ฅ](https://open.spotify.com/track/0qubDCNLgEKECDhRSq7Q38) — Ninajirachi
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
