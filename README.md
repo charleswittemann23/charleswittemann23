@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-20 16:33:01 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-21 16:42:20 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [All I Am](https://open.spotify.com/track/3CbF4eluvVhJ9v0axMj2Rk) — Ninajirachi
-2. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [ฅ^•ﻌ•^ฅ](https://open.spotify.com/track/0qubDCNLgEKECDhRSq7Q38) — Ninajirachi
+1. <img src="https://i.scdn.co/image/ab67616d000048518ec8e5fb201572f6b3039d8a" alt="Album Cover" width="48" height="48" /> [..FEISTY](https://open.spotify.com/track/0aXembK4QS3tJl5qv5sIrA) — Fred again.., BIA
+2. <img src="https://i.scdn.co/image/ab67616d00004851772613c0749e97abf3b9d035" alt="Album Cover" width="48" height="48" /> [Baby](https://open.spotify.com/track/0B8GZ9M3tZSiFuIkhFqcEO) — Danny Brown, underscores
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
