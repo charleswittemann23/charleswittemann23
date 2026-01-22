@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-21 16:42:20 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-22 16:33:28 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048518ec8e5fb201572f6b3039d8a" alt="Album Cover" width="48" height="48" /> [..FEISTY](https://open.spotify.com/track/0aXembK4QS3tJl5qv5sIrA) — Fred again.., BIA
-2. <img src="https://i.scdn.co/image/ab67616d00004851772613c0749e97abf3b9d035" alt="Album Cover" width="48" height="48" /> [Baby](https://open.spotify.com/track/0B8GZ9M3tZSiFuIkhFqcEO) — Danny Brown, underscores
+1. <img src="https://i.scdn.co/image/ab67616d00004851a340dd4ade66fa7f790eb880" alt="Album Cover" width="48" height="48" /> [Miffed It](https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P) — Way Dynamic
+2. <img src="https://i.scdn.co/image/ab67616d000048518af65a82cdd9104f19e4047b" alt="Album Cover" width="48" height="48" /> [Crusades](https://open.spotify.com/track/1m6aehT6ZJkTG89OkV7lAo) — Geese
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
