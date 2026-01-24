@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-23 16:27:51 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-24 16:22:03 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851539023dfaf4a520b1d01bf3c" alt="Album Cover" width="48" height="48" /> [Good Health](https://open.spotify.com/track/6Sy4UjUKZfjx75QCcVmYnq) — De La Soul
-2. <img src="https://i.scdn.co/image/ab67616d00004851539023dfaf4a520b1d01bf3c" alt="Album Cover" width="48" height="48" /> [Sunny Storms](https://open.spotify.com/track/4fNILUVpDDiTWsSz82q5pY) — De La Soul
+1. <img src="https://i.scdn.co/image/ab67616d00004851d2d315b5ba706ec3f5b5f2ba" alt="Album Cover" width="48" height="48" /> [SOLO STEPPIN CRETE BOY](https://open.spotify.com/track/7CIvyuVoWcY0LgUYa1aR5J) — Lil Yachty
+2. <img src="https://i.scdn.co/image/ab67616d00004851a29bd588f4caf84bd4cd6f8b" alt="Album Cover" width="48" height="48" /> [No Vacancy](https://open.spotify.com/track/2MZFUhF9RZeCdUSR2wGEuQ) — Westside Gunn
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
