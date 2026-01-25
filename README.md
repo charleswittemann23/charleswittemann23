@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-24 16:22:03 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-25 16:23:11 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851d2d315b5ba706ec3f5b5f2ba" alt="Album Cover" width="48" height="48" /> [SOLO STEPPIN CRETE BOY](https://open.spotify.com/track/7CIvyuVoWcY0LgUYa1aR5J) — Lil Yachty
-2. <img src="https://i.scdn.co/image/ab67616d00004851a29bd588f4caf84bd4cd6f8b" alt="Album Cover" width="48" height="48" /> [No Vacancy](https://open.spotify.com/track/2MZFUhF9RZeCdUSR2wGEuQ) — Westside Gunn
+1. <img src="https://i.scdn.co/image/ab67616d00004851b8171a2edbb9944274686560" alt="Album Cover" width="48" height="48" /> [youth+](https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo) — Jean Dawson
+2. <img src="https://i.scdn.co/image/ab67616d0000485181cb3dd12fefe772797c938b" alt="Album Cover" width="48" height="48" /> [LIT EFFECT [Feat. Bktherula & LAZER DIM 700]](https://open.spotify.com/track/4sJFW6APhXl5v7idGF3QWd) — Denzel Curry, The Scythe, Bktherula, LAZER DIM 700
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
