@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-25 16:23:11 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-26 16:31:54 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851b8171a2edbb9944274686560" alt="Album Cover" width="48" height="48" /> [youth+](https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo) — Jean Dawson
-2. <img src="https://i.scdn.co/image/ab67616d0000485181cb3dd12fefe772797c938b" alt="Album Cover" width="48" height="48" /> [LIT EFFECT [Feat. Bktherula & LAZER DIM 700]](https://open.spotify.com/track/4sJFW6APhXl5v7idGF3QWd) — Denzel Curry, The Scythe, Bktherula, LAZER DIM 700
+1. <img src="https://i.scdn.co/image/ab67616d00004851d7bae4ad0b91f65e0dd910c8" alt="Album Cover" width="48" height="48" /> [Pudgy (with Lil Uzi Vert)](https://open.spotify.com/track/4oebzB09U8UoYtNnS6vTjt) — Smino, Lil Uzi Vert
+2. <img src="https://i.scdn.co/image/ab67616d00004851d7bae4ad0b91f65e0dd910c8" alt="Album Cover" width="48" height="48" /> [Settle Down (with Cory Henry, Ravyn Lenae)](https://open.spotify.com/track/48FaBfZfSV5i3PjEqtDNzs) — Smino, Cory Henry, Ravyn Lenae
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
