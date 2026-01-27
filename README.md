@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-26 16:31:54 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-27 16:28:15 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851d7bae4ad0b91f65e0dd910c8" alt="Album Cover" width="48" height="48" /> [Pudgy (with Lil Uzi Vert)](https://open.spotify.com/track/4oebzB09U8UoYtNnS6vTjt) — Smino, Lil Uzi Vert
-2. <img src="https://i.scdn.co/image/ab67616d00004851d7bae4ad0b91f65e0dd910c8" alt="Album Cover" width="48" height="48" /> [Settle Down (with Cory Henry, Ravyn Lenae)](https://open.spotify.com/track/48FaBfZfSV5i3PjEqtDNzs) — Smino, Cory Henry, Ravyn Lenae
+1. <img src="https://i.scdn.co/image/ab67616d000048513fea2c4a6c34050f80c14b68" alt="Album Cover" width="48" height="48" /> [House featuring John Cale](https://open.spotify.com/track/6lYUgmE829m06SMC6tG3qD) — Charli xcx, John Cale
+2. <img src="https://i.scdn.co/image/ab67616d00004851c8c9101cc251207fa4808414" alt="Album Cover" width="48" height="48" /> [scared](https://open.spotify.com/track/01yF1BLklq3Hq4C1zHuJlk) — Fred again.., Young Thug
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
