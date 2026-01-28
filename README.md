@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-27 16:28:15 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-28 16:34:29 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048513fea2c4a6c34050f80c14b68" alt="Album Cover" width="48" height="48" /> [House featuring John Cale](https://open.spotify.com/track/6lYUgmE829m06SMC6tG3qD) — Charli xcx, John Cale
-2. <img src="https://i.scdn.co/image/ab67616d00004851c8c9101cc251207fa4808414" alt="Album Cover" width="48" height="48" /> [scared](https://open.spotify.com/track/01yF1BLklq3Hq4C1zHuJlk) — Fred again.., Young Thug
+1. <img src="https://i.scdn.co/image/ab67616d00004851c020ef666dab40650242501c" alt="Album Cover" width="48" height="48" /> [This Is The World (I Made It For You)](https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ) — Magdalena Bay
+2. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) — Ninajirachi
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
