@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-28 16:34:29 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-29 16:41:14 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851c020ef666dab40650242501c" alt="Album Cover" width="48" height="48" /> [This Is The World (I Made It For You)](https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ) — Magdalena Bay
-2. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) — Ninajirachi
+1. <img src="https://i.scdn.co/image/ab67616d00004851bb256d736f02de9b8aea514d" alt="Album Cover" width="48" height="48" /> [MANDELA](https://open.spotify.com/track/6c6Zew86HScHTYayivzpMC) — Westside Gunn
+2. <img src="https://i.scdn.co/image/ab67616d00004851bb256d736f02de9b8aea514d" alt="Album Cover" width="48" height="48" /> [POWER HOUSE HOBBS](https://open.spotify.com/track/1I1RJ84D8vThYvUTRPQM0W) — Westside Gunn, Benny The Butcher
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
