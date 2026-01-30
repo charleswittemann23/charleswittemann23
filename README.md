@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-29 16:41:14 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-30 16:36:39 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851bb256d736f02de9b8aea514d" alt="Album Cover" width="48" height="48" /> [MANDELA](https://open.spotify.com/track/6c6Zew86HScHTYayivzpMC) — Westside Gunn
-2. <img src="https://i.scdn.co/image/ab67616d00004851bb256d736f02de9b8aea514d" alt="Album Cover" width="48" height="48" /> [POWER HOUSE HOBBS](https://open.spotify.com/track/1I1RJ84D8vThYvUTRPQM0W) — Westside Gunn, Benny The Butcher
+1. <img src="https://i.scdn.co/image/ab67616d00004851ae3d42f4945d2a17f8b516a5" alt="Album Cover" width="48" height="48" /> [Mr. Sunshine](https://open.spotify.com/track/4bq7qmT3Ib02QbKC6vcnBj) — Joanna
+2. <img src="https://i.scdn.co/image/ab67616d00004851ae3d42f4945d2a17f8b516a5" alt="Album Cover" width="48" height="48" /> [Weather Vane](https://open.spotify.com/track/2wxJBkqpC1RUwFkvUIE0nX) — Joanna
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
