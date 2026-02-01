@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-01-31 16:24:59 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-01 16:26:50 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851539023dfaf4a520b1d01bf3c" alt="Album Cover" width="48" height="48" /> [The Silent Life Of A Truth](https://open.spotify.com/track/2jQ80sSMyQvHaGkM8bV47Q) — De La Soul
-2. <img src="https://i.scdn.co/image/ab67616d00004851539023dfaf4a520b1d01bf3c" alt="Album Cover" width="48" height="48" /> [Patty Cake](https://open.spotify.com/track/7ogDiunTbdW2641oOlogTy) — De La Soul
+1. <img src="https://i.scdn.co/image/ab67616d00004851bf26b3f697a7d4a039a6e3a9" alt="Album Cover" width="48" height="48" /> [Pyramid of Health](https://open.spotify.com/track/7lExkbenXgL24heVOcOXa2) — Viagra Boys
+2. <img src="https://i.scdn.co/image/ab67616d000048519d80686b1e05b4c9560a982d" alt="Album Cover" width="48" height="48" /> [Rumble](https://open.spotify.com/track/6fnApgKdg9gwe109QuktUn) — Skrillex, Fred again.., Flowdan
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
