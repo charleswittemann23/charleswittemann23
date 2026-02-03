@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-02 16:37:33 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-03 16:50:50 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851e9c0c7255ac40aa40d29bfb3" alt="Album Cover" width="48" height="48" /> [Immaterial](https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO) — SOPHIE
-2. <img src="https://i.scdn.co/image/ab67616d00004851e04b8c0b83df4247f25ac979" alt="Album Cover" width="48" height="48" /> [ฅ^•ﻌ•^ฅ](https://open.spotify.com/track/0qubDCNLgEKECDhRSq7Q38) — Ninajirachi
+1. <img src="https://i.scdn.co/image/ab67616d0000485127b7133c976e8ae6c3add683" alt="Album Cover" width="48" height="48" /> [NO TRESPASSING](https://open.spotify.com/track/6mX62cQIRBfHeYTlqM3ZGB) — A$AP Rocky
+2. <img src="https://i.scdn.co/image/ab67616d0000485127b7133c976e8ae6c3add683" alt="Album Cover" width="48" height="48" /> [STAY HERE 4 LIFE (feat. Brent Faiyaz)](https://open.spotify.com/track/38e4Y5iUy6zRTm3SbSFgPC) — A$AP Rocky, Brent Faiyaz
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
