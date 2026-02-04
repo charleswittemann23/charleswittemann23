@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-03 16:50:50 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-04 16:43:35 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485127b7133c976e8ae6c3add683" alt="Album Cover" width="48" height="48" /> [NO TRESPASSING](https://open.spotify.com/track/6mX62cQIRBfHeYTlqM3ZGB) — A$AP Rocky
-2. <img src="https://i.scdn.co/image/ab67616d0000485127b7133c976e8ae6c3add683" alt="Album Cover" width="48" height="48" /> [STAY HERE 4 LIFE (feat. Brent Faiyaz)](https://open.spotify.com/track/38e4Y5iUy6zRTm3SbSFgPC) — A$AP Rocky, Brent Faiyaz
+1. <img src="https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411" alt="Album Cover" width="48" height="48" /> [VeLDÁ](https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE) — Bad Bunny, Omar Courtz, Dei V
+2. <img src="https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411" alt="Album Cover" width="48" height="48" /> [WELTiTA](https://open.spotify.com/track/5WEF0icHWmAZBBMglBd599) — Bad Bunny, Chuwi
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
