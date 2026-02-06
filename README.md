@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-05 16:43:55 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-06 16:41:20 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851ef854fe1d04279372a96f3d6" alt="Album Cover" width="48" height="48" /> [Ace Trumpets](https://open.spotify.com/track/1JvQhXD5FxkK2GjHCyFmZa) — Clipse, Pusha T, Malice
-2. <img src="https://i.scdn.co/image/ab67616d00004851ef854fe1d04279372a96f3d6" alt="Album Cover" width="48" height="48" /> [So Be It](https://open.spotify.com/track/0xaQ86cGRgcF8wwP1SkXsb) — Clipse, Pusha T, Malice
+1. <img src="https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411" alt="Album Cover" width="48" height="48" /> [VOY A LLeVARTE PA PR](https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ) — Bad Bunny
+2. <img src="https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411" alt="Album Cover" width="48" height="48" /> [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) — Bad Bunny
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
