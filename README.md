@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-06 16:41:20 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-07 16:27:29 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411" alt="Album Cover" width="48" height="48" /> [VOY A LLeVARTE PA PR](https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ) — Bad Bunny
-2. <img src="https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411" alt="Album Cover" width="48" height="48" /> [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) — Bad Bunny
+1. <img src="https://i.scdn.co/image/ab67616d0000485176c9b9e34a3a87891dbf6ba2" alt="Album Cover" width="48" height="48" /> [Butterfly](https://open.spotify.com/track/3vCnY9Ix4VWOaHhv4qIU5B) — Adrianne Lenker
+2. <img src="https://i.scdn.co/image/ab67616d0000485176c9b9e34a3a87891dbf6ba2" alt="Album Cover" width="48" height="48" /> [Indiana](https://open.spotify.com/track/0KHCEaiT5GV9XuoHIyjX0L) — Adrianne Lenker
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
