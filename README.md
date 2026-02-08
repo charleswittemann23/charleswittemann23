@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-07 16:27:29 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-08 16:28:03 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485176c9b9e34a3a87891dbf6ba2" alt="Album Cover" width="48" height="48" /> [Butterfly](https://open.spotify.com/track/3vCnY9Ix4VWOaHhv4qIU5B) — Adrianne Lenker
-2. <img src="https://i.scdn.co/image/ab67616d0000485176c9b9e34a3a87891dbf6ba2" alt="Album Cover" width="48" height="48" /> [Indiana](https://open.spotify.com/track/0KHCEaiT5GV9XuoHIyjX0L) — Adrianne Lenker
+1. <img src="https://i.scdn.co/image/ab67616d000048515a3cfea06bd542ea962a8482" alt="Album Cover" width="48" height="48" /> [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) — Slow Pulp
+2. <img src="https://i.scdn.co/image/ab67616d00004851452734fc18ad0cd05db9aea5" alt="Album Cover" width="48" height="48" /> [Captains Flat](https://open.spotify.com/track/5Aueq9Aii18prdITRbm8Zf) — Hana Stretton
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
