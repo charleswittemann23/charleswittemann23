@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-08 16:28:03 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-09 17:19:13 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048515a3cfea06bd542ea962a8482" alt="Album Cover" width="48" height="48" /> [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) — Slow Pulp
-2. <img src="https://i.scdn.co/image/ab67616d00004851452734fc18ad0cd05db9aea5" alt="Album Cover" width="48" height="48" /> [Captains Flat](https://open.spotify.com/track/5Aueq9Aii18prdITRbm8Zf) — Hana Stretton
+1. <img src="https://i.scdn.co/image/ab67616d0000485180788f104c780412212e97e3" alt="Album Cover" width="48" height="48" /> [Only You (with Burna Boy)](https://open.spotify.com/track/0nn0Z1o1WI01pB7oEPiJeE) — J. Cole, Burna Boy
+2. <img src="https://i.scdn.co/image/ab67616d00004851ffe1051161e74eb8d22f63f0" alt="Album Cover" width="48" height="48" /> [It Goes On](https://open.spotify.com/track/3iYtD6u6jRyA86UwKjUGic) — Lexa Gates
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
