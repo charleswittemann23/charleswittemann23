@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-09 17:19:13 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-10 17:00:07 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485180788f104c780412212e97e3" alt="Album Cover" width="48" height="48" /> [Only You (with Burna Boy)](https://open.spotify.com/track/0nn0Z1o1WI01pB7oEPiJeE) — J. Cole, Burna Boy
-2. <img src="https://i.scdn.co/image/ab67616d00004851ffe1051161e74eb8d22f63f0" alt="Album Cover" width="48" height="48" /> [It Goes On](https://open.spotify.com/track/3iYtD6u6jRyA86UwKjUGic) — Lexa Gates
+1. <img src="https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619" alt="Album Cover" width="48" height="48" /> [Tuition](https://open.spotify.com/track/3kw29NreyBGyArNmYARr63) — Don Toliver
+2. <img src="https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619" alt="Album Cover" width="48" height="48" /> [Call Back](https://open.spotify.com/track/16yVaWo0Gmvs2wlnmJbcH7) — Don Toliver
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
