@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-10 17:00:07 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-11 17:02:23 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619" alt="Album Cover" width="48" height="48" /> [Tuition](https://open.spotify.com/track/3kw29NreyBGyArNmYARr63) — Don Toliver
-2. <img src="https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619" alt="Album Cover" width="48" height="48" /> [Call Back](https://open.spotify.com/track/16yVaWo0Gmvs2wlnmJbcH7) — Don Toliver
+1. <img src="https://i.scdn.co/image/ab67616d000048511d87832deceba9add583fe7f" alt="Album Cover" width="48" height="48" /> [scared](https://open.spotify.com/track/01yF1BLklq3Hq4C1zHuJlk) — Fred again.., Young Thug
+2. <img src="https://i.scdn.co/image/ab67616d000048517fc269d38c41256bf827ace9" alt="Album Cover" width="48" height="48" /> [I Did This To Myself](https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7) — Thundercat, Lil Yachty, Flying Lotus
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
