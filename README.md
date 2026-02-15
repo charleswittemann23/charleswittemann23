@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-14 16:26:32 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-15 16:27:56 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619" alt="Album Cover" width="48" height="48" /> [All The Signs (feat. Teezo Touchdown)](https://open.spotify.com/track/3Hb28pse82bhnmW9sjTahL) — Don Toliver, Teezo Touchdown
-2. <img src="https://i.scdn.co/image/ab67616d00004851772613c0749e97abf3b9d035" alt="Album Cover" width="48" height="48" /> [Green Light](https://open.spotify.com/track/7HQqlyTnavA97mX9h8TNRy) — Danny Brown, Frost Children
+1. <img src="https://i.scdn.co/image/ab67616d0000485155e0331fa38c9fb698ca1a0a" alt="Album Cover" width="48" height="48" /> [Lights Burn Dimmer](https://open.spotify.com/track/0ABgQEAsfdvwtOyCe113lt) — Fred again.., Jamie T
+2. <img src="https://i.scdn.co/image/ab67616d000048511d87832deceba9add583fe7f" alt="Album Cover" width="48" height="48" /> [scared](https://open.spotify.com/track/01yF1BLklq3Hq4C1zHuJlk) — Fred again.., Young Thug
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
