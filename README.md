@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-16 16:40:27 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-17 16:55:27 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048519b9b36b0e22870b9f542d937" alt="Album Cover" width="48" height="48" /> [Lose Yourself to Dance (feat. Pharrell Williams)](https://open.spotify.com/track/5CMjjywI0eZMixPeqNd75R) — Daft Punk, Pharrell Williams
-2. <img src="https://i.scdn.co/image/ab67616d00004851443eb0dae317749d6d565be8" alt="Album Cover" width="48" height="48" /> [14,400 Minutes](https://open.spotify.com/track/2C4qO9u7TFMm4gt5MReyAD) — Chance the Rapper
+1. <img src="https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4" alt="Album Cover" width="48" height="48" /> [Chains of Love](https://open.spotify.com/track/77qLAmRzMPetmXywybpH15) — Charli xcx
+2. <img src="https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4" alt="Album Cover" width="48" height="48" /> [Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA) — Charli xcx
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
