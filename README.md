@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-17 16:55:27 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-18 17:00:50 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4" alt="Album Cover" width="48" height="48" /> [Chains of Love](https://open.spotify.com/track/77qLAmRzMPetmXywybpH15) — Charli xcx
-2. <img src="https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4" alt="Album Cover" width="48" height="48" /> [Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA) — Charli xcx
+1. <img src="https://i.scdn.co/image/ab67616d0000485114b5583615b195556a3882ac" alt="Album Cover" width="48" height="48" /> [Baddy On The Floor](https://open.spotify.com/track/79gWc6dZ1dXH7rC67DTunz) — Jamie xx, Honey Dijon
+2. <img src="https://i.scdn.co/image/ab67616d00004851ccf86bb7392c0fb706237293" alt="Album Cover" width="48" height="48" /> [Tunes Since '89](https://open.spotify.com/track/2Xzgc9BFT2oONrZcD4EW1Y) — KING BOOO!
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
