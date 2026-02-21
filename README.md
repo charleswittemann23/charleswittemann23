@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-20 16:36:01 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-21 16:26:05 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485108a27a15cf37664f0dab6ab7" alt="Album Cover" width="48" height="48" /> [I am not a Lyricist](https://open.spotify.com/track/76uwSqRmmSfRZVocIceH1b) — Baby Keem
-2. <img src="https://i.scdn.co/image/ab67616d0000485108a27a15cf37664f0dab6ab7" alt="Album Cover" width="48" height="48" /> [House Money](https://open.spotify.com/track/5Th1SPySWgYlkXXC6wLMwL) — Baby Keem
+1. <img src="https://i.scdn.co/image/ab67616d0000485108a27a15cf37664f0dab6ab7" alt="Album Cover" width="48" height="48" /> [No Blame](https://open.spotify.com/track/4OiF7pHMapELmWxgwShCbK) — Baby Keem
+2. <img src="https://i.scdn.co/image/ab67616d0000485108a27a15cf37664f0dab6ab7" alt="Album Cover" width="48" height="48" /> [Dramatic Girl (feat. Che Ecru)](https://open.spotify.com/track/05gychGDaYtqT3sWQhZydb) — Baby Keem, Che Ecru
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
