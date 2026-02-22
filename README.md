@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-21 16:26:05 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-22 16:27:51 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485108a27a15cf37664f0dab6ab7" alt="Album Cover" width="48" height="48" /> [No Blame](https://open.spotify.com/track/4OiF7pHMapELmWxgwShCbK) — Baby Keem
-2. <img src="https://i.scdn.co/image/ab67616d0000485108a27a15cf37664f0dab6ab7" alt="Album Cover" width="48" height="48" /> [Dramatic Girl (feat. Che Ecru)](https://open.spotify.com/track/05gychGDaYtqT3sWQhZydb) — Baby Keem, Che Ecru
+1. <img src="https://i.scdn.co/image/ab67616d0000485108a27a15cf37664f0dab6ab7" alt="Album Cover" width="48" height="48" /> [No Security](https://open.spotify.com/track/4LGFc5Vv5YlqTvWIa37CbG) — Baby Keem
+2. <img src="https://i.scdn.co/image/ab67616d00004851539023dfaf4a520b1d01bf3c" alt="Album Cover" width="48" height="48" /> [Day In The Sun (Gettin' wit U)](https://open.spotify.com/track/6ZRGFzQRNrdU9BCd7DgUNf) — De La Soul, Q-Tip, Yummy Bingham
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
