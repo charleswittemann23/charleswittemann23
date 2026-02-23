@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-22 16:27:51 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-23 16:54:38 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485108a27a15cf37664f0dab6ab7" alt="Album Cover" width="48" height="48" /> [No Security](https://open.spotify.com/track/4LGFc5Vv5YlqTvWIa37CbG) — Baby Keem
-2. <img src="https://i.scdn.co/image/ab67616d00004851539023dfaf4a520b1d01bf3c" alt="Album Cover" width="48" height="48" /> [Day In The Sun (Gettin' wit U)](https://open.spotify.com/track/6ZRGFzQRNrdU9BCd7DgUNf) — De La Soul, Q-Tip, Yummy Bingham
+1. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Half Real](https://open.spotify.com/track/0t5EGxGtcu4voodQuS9me4) — Geese
+2. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [100 Horses](https://open.spotify.com/track/2JENu7srINnXlZC6JtLyEA) — Geese
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
