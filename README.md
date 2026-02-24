@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-23 16:54:38 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-24 17:04:00 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Half Real](https://open.spotify.com/track/0t5EGxGtcu4voodQuS9me4) — Geese
-2. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [100 Horses](https://open.spotify.com/track/2JENu7srINnXlZC6JtLyEA) — Geese
+1. <img src="https://i.scdn.co/image/ab67616d00004851838e79a9ad425bb5e7d6150c" alt="Album Cover" width="48" height="48" /> [It Gets Better - Forever Mix](https://open.spotify.com/track/5fEg39wxUxNG9Ig5cFpWlc) — KETTAMA
+2. <img src="https://i.scdn.co/image/ab67616d0000485114b5583615b195556a3882ac" alt="Album Cover" width="48" height="48" /> [All You Children](https://open.spotify.com/track/3cfgisz6DhZmooQk08P4Eu) — Jamie xx, The Avalanches
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
