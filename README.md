@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-25 17:05:29 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-26 16:55:46 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048515a35f2e251ca9b379ba75dec" alt="Album Cover" width="48" height="48" /> [Dont shoot now](https://open.spotify.com/track/01XXj3UB4e96fb7FY3yOMw) — Pollyfromthedirt
-2. <img src="https://i.scdn.co/image/ab67616d0000485108a27a15cf37664f0dab6ab7" alt="Album Cover" width="48" height="48" /> [Circus Circus Free$tyle](https://open.spotify.com/track/5waTXjl4V7YBw1Bo4CsjlM) — Baby Keem
+1. <img src="https://i.scdn.co/image/ab67616d000048512be7e3160b7f3df91c239e97" alt="Album Cover" width="48" height="48" /> [Jungle](https://open.spotify.com/track/3BKkroNdTKfNijLG9oHW7c) — Fred again..
+2. <img src="https://i.scdn.co/image/ab67616d00004851eec105edd0a1345582ea275a" alt="Album Cover" width="48" height="48" /> [flex fm (freddit) feat. Future, Lil Yachty, Playboi Carti](https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9) — Joy Orbison, Lil Yachty, Future, Playboi Carti
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
