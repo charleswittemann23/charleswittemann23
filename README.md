@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-27 16:38:05 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-02-28 16:23:51 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851dad3b299a0831d5f08979b54" alt="Album Cover" width="48" height="48" /> [RIGHT NOW (feat. Stove God Cooks & Jadakiss)](https://open.spotify.com/track/4f7r6dRgC7e8XSoKHD1UpL) — Westside Gunn, Stove God Cooks, Jadakiss
-2. <img src="https://i.scdn.co/image/ab67616d000048512602b00b6e1c090b26bb888b" alt="Album Cover" width="48" height="48" /> [Empty Pages](https://open.spotify.com/track/4Dsfjmjaa8DQ4fM5xR6Bhu) — Larry June, Curren$y, The Alchemist
+1. <img src="https://i.scdn.co/image/ab67616d000048515c722571b4538055919b93cc" alt="Album Cover" width="48" height="48" /> [The Difference](https://open.spotify.com/track/5kJ4BWZ9Y1qFIwwTbMIxYX) — Flume, Toro y Moi
+2. <img src="https://i.scdn.co/image/ab67616d00004851d7bae4ad0b91f65e0dd910c8" alt="Album Cover" width="48" height="48" /> [Blu Billy](https://open.spotify.com/track/5nawCvOyPcckdnVNVGxGM9) — Smino
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
