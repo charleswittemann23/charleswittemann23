@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-01 16:24:58 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-02 16:42:36 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048511cc6f24606517f854014ca69" alt="Album Cover" width="48" height="48" /> [Nothing Left](https://open.spotify.com/track/0Sq6JK9kyC4MQa3KrJj5CB) — Bruno Mars
-2. <img src="https://i.scdn.co/image/ab67616d000048511cc6f24606517f854014ca69" alt="Album Cover" width="48" height="48" /> [Something Serious](https://open.spotify.com/track/0PV4VQCmE6Ujssr1bnswdF) — Bruno Mars
+1. <img src="https://i.scdn.co/image/ab67616d000048515190dccf3c9f0aa380e21182" alt="Album Cover" width="48" height="48" /> [One More Time](https://open.spotify.com/track/0WAgGbetFXixNoMXh2tNdd) — Charlie Graff
+2. <img src="https://i.scdn.co/image/ab67616d00004851c718e0f746b0f671fd92421e" alt="Album Cover" width="48" height="48" /> [BELEZA PULA](https://open.spotify.com/track/63dLm0BUpepXeFIfZ0OKEL) — Masayoshi Takanaka
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
