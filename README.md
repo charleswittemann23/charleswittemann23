@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-03 16:43:24 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-04 16:40:55 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485108a27a15cf37664f0dab6ab7" alt="Album Cover" width="48" height="48" /> [No Security](https://open.spotify.com/track/4LGFc5Vv5YlqTvWIa37CbG) — Baby Keem
-2. <img src="https://i.scdn.co/image/ab67616d000048513a04f5ced79fae23afa4adb0" alt="Album Cover" width="48" height="48" /> [if you wanna party, come over to my house](https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O) — Fcukers
+1. <img src="https://i.scdn.co/image/ab67616d000048512602b00b6e1c090b26bb888b" alt="Album Cover" width="48" height="48" /> [Drive Alone](https://open.spotify.com/track/52O0lWLhF9VoOVACnlnAnS) — Larry June, Curren$y, The Alchemist
+2. <img src="https://i.scdn.co/image/ab67616d000048512602b00b6e1c090b26bb888b" alt="Album Cover" width="48" height="48" /> [Everything Allocated](https://open.spotify.com/track/5ohaehTCqi0VyCQuDmCc6x) — Larry June, Curren$y, The Alchemist
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
