@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-05 18:01:46 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-06 16:38:29 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485108a27a15cf37664f0dab6ab7" alt="Album Cover" width="48" height="48" /> [$ex Appeal (feat. Too $hort)](https://open.spotify.com/track/2N1D5t5zkvlNElbH9q0vBv) — Baby Keem, Too $hort
-2. <img src="https://i.scdn.co/image/ab67616d000048512be7e3160b7f3df91c239e97" alt="Album Cover" width="48" height="48" /> [Lights Burn Dimmer](https://open.spotify.com/track/2kH5fiDaoj2Tn4hBRXSYjQ) — Fred again.., Jamie T
+1. <img src="https://i.scdn.co/image/ab67616d0000485174959140f550b11049c18a38" alt="Album Cover" width="48" height="48" /> [Ready, Steady, Go!](https://open.spotify.com/track/0i4qKfuKJ3juUsEwnJAxk3) — Harry Styles
+2. <img src="https://i.scdn.co/image/ab67616d0000485174959140f550b11049c18a38" alt="Album Cover" width="48" height="48" /> [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) — Harry Styles
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
