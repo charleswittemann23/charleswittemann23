@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-07 16:25:10 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-08 16:26:19 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851cf58b16e3d4eef0e0cef3492" alt="Album Cover" width="48" height="48" /> [Winny - Lil Silva remix](https://open.spotify.com/track/19XMuLjTWkoHoxgqzQM0HV) — Lil Silva, Fred again.., Sammy Virji, Winny
-2. <img src="https://i.scdn.co/image/ab67616d00004851cf58b16e3d4eef0e0cef3492" alt="Album Cover" width="48" height="48" /> [solo - KETTAMA remix](https://open.spotify.com/track/38s5FDNYihNd7EK7cyObNh) — KETTAMA, Fred again.., Blanco
+1. <img src="https://i.scdn.co/image/ab67616d0000485174959140f550b11049c18a38" alt="Album Cover" width="48" height="48" /> [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) — Harry Styles
+2. <img src="https://i.scdn.co/image/ab67616d0000485174959140f550b11049c18a38" alt="Album Cover" width="48" height="48" /> [Season 2 Weight Loss](https://open.spotify.com/track/6GteP2UCnpHRWSZTL63QHe) — Harry Styles
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
