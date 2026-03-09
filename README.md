@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-08 16:26:19 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-09 16:54:43 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485174959140f550b11049c18a38" alt="Album Cover" width="48" height="48" /> [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) — Harry Styles
-2. <img src="https://i.scdn.co/image/ab67616d0000485174959140f550b11049c18a38" alt="Album Cover" width="48" height="48" /> [Season 2 Weight Loss](https://open.spotify.com/track/6GteP2UCnpHRWSZTL63QHe) — Harry Styles
+1. <img src="https://i.scdn.co/image/ab67616d00004851a38d14a5fbd7ab265c5b8d26" alt="Album Cover" width="48" height="48" /> [scared](https://open.spotify.com/track/3kCwjDP4DJZG9gWQDuaoqj) — Fred again.., Young Thug
+2. <img src="https://i.scdn.co/image/ab67616d00004851a38d14a5fbd7ab265c5b8d26" alt="Album Cover" width="48" height="48" /> [Lights Burn Dimmer](https://open.spotify.com/track/4ugki9ppD2OmHok48sRJy8) — Fred again.., Jamie T
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
