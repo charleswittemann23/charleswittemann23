@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-09 16:54:43 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-10 16:54:15 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851a38d14a5fbd7ab265c5b8d26" alt="Album Cover" width="48" height="48" /> [scared](https://open.spotify.com/track/3kCwjDP4DJZG9gWQDuaoqj) — Fred again.., Young Thug
-2. <img src="https://i.scdn.co/image/ab67616d00004851a38d14a5fbd7ab265c5b8d26" alt="Album Cover" width="48" height="48" /> [Lights Burn Dimmer](https://open.spotify.com/track/4ugki9ppD2OmHok48sRJy8) — Fred again.., Jamie T
+1. <img src="https://i.scdn.co/image/ab67616d00004851869f7cf031b24df4dbb1f778" alt="Album Cover" width="48" height="48" /> [Typewrite Lesson](https://open.spotify.com/track/2JEZdhsjF848Elx2XO3onI) — Cornelius
+2. <img src="https://i.scdn.co/image/ab67616d00004851de825e6f087f44e3b2297645" alt="Album Cover" width="48" height="48" /> [Falling](https://open.spotify.com/track/43tkPQscsEOhXxf3rECI5X) — Frost Children
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
