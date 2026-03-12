@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-11 16:49:56 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-12 16:56:43 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851311e0fe4039a66fcf79fa354" alt="Album Cover" width="48" height="48" /> [The Lorax (feat. billy woods)](https://open.spotify.com/track/4vZRjqFrbNhnDU3v1dKYsR) — E L U C I D, Sebb Bash, billy woods
-2. <img src="https://i.scdn.co/image/ab67616d00004851a38d14a5fbd7ab265c5b8d26" alt="Album Cover" width="48" height="48" /> [Lights Burn Dimmer](https://open.spotify.com/track/4ugki9ppD2OmHok48sRJy8) — Fred again.., Jamie T
+1. <img src="https://i.scdn.co/image/ab67616d00004851539023dfaf4a520b1d01bf3c" alt="Album Cover" width="48" height="48" /> [YUHDONTSTOP](https://open.spotify.com/track/5WZJNU64Q0tePivgh8ThDU) — De La Soul
+2. <img src="https://i.scdn.co/image/ab67616d00004851b4b2f31921c8665026be4fd4" alt="Album Cover" width="48" height="48" /> [Albright Knox (feat. Chase)](https://open.spotify.com/track/3vUlSDNSd2YKf0uhrPvTCM) — Westside Gunn, Chase Anthony
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
