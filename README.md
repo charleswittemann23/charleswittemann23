@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-12 16:56:43 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-13 16:37:29 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851539023dfaf4a520b1d01bf3c" alt="Album Cover" width="48" height="48" /> [YUHDONTSTOP](https://open.spotify.com/track/5WZJNU64Q0tePivgh8ThDU) — De La Soul
-2. <img src="https://i.scdn.co/image/ab67616d00004851b4b2f31921c8665026be4fd4" alt="Album Cover" width="48" height="48" /> [Albright Knox (feat. Chase)](https://open.spotify.com/track/3vUlSDNSd2YKf0uhrPvTCM) — Westside Gunn, Chase Anthony
+1. <img src="https://i.scdn.co/image/ab67616d00004851539023dfaf4a520b1d01bf3c" alt="Album Cover" width="48" height="48" /> [Patty Cake](https://open.spotify.com/track/7ogDiunTbdW2641oOlogTy) — De La Soul
+2. <img src="https://i.scdn.co/image/ab67616d00004851539023dfaf4a520b1d01bf3c" alt="Album Cover" width="48" height="48" /> [Different World](https://open.spotify.com/track/498dCusAEOiqPrnhtUyYBm) — De La Soul, Gina Loring
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
