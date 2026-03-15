@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-14 16:28:51 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-15 16:29:57 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485179cc56467c944a260be5c2a9" alt="Album Cover" width="48" height="48" /> [Elderberry Wine](https://open.spotify.com/track/00lSB9CSyOcsxKVtbPbniL) — Wednesday
-2. <img src="https://i.scdn.co/image/ab67616d0000485179cc56467c944a260be5c2a9" alt="Album Cover" width="48" height="48" /> [Wound Up Here (By Holdin On)](https://open.spotify.com/track/5b7XNPJbJV5ncuFGoh9ZJy) — Wednesday
+1. <img src="https://i.scdn.co/image/ab67616d000048511145a91fb01b492374bc77e6" alt="Album Cover" width="48" height="48" /> [HARDSTYLE 2 - Lou Nour remix](https://open.spotify.com/track/6pchBuurwh7xlNiUrntam4) — Lou Nour, SICARIA, Fred again.., KETTAMA, Shady Nasty
+2. <img src="https://i.scdn.co/image/ab67616d00004851539023dfaf4a520b1d01bf3c" alt="Album Cover" width="48" height="48" /> [YUHDONTSTOP](https://open.spotify.com/track/5WZJNU64Q0tePivgh8ThDU) — De La Soul
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
