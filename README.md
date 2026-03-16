@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-15 16:29:57 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-16 16:58:52 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048511145a91fb01b492374bc77e6" alt="Album Cover" width="48" height="48" /> [HARDSTYLE 2 - Lou Nour remix](https://open.spotify.com/track/6pchBuurwh7xlNiUrntam4) — Lou Nour, SICARIA, Fred again.., KETTAMA, Shady Nasty
-2. <img src="https://i.scdn.co/image/ab67616d00004851539023dfaf4a520b1d01bf3c" alt="Album Cover" width="48" height="48" /> [YUHDONTSTOP](https://open.spotify.com/track/5WZJNU64Q0tePivgh8ThDU) — De La Soul
+1. <img src="https://i.scdn.co/image/ab67616d0000485110a0cafaeaf22de1a6946ff8" alt="Album Cover" width="48" height="48" /> [Lilac Wine](https://open.spotify.com/track/6Ub872kT1aJKYj2PQr8Y2f) — Arooj Aftab, Beck, War Child Records
+2. <img src="https://i.scdn.co/image/ab67616d0000485110a0cafaeaf22de1a6946ff8" alt="Album Cover" width="48" height="48" /> [Strangers](https://open.spotify.com/track/2cLjmhezy7CVKMTRAOcnEx) — Black Country, New Road, War Child Records
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
