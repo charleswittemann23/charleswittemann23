@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-16 16:58:52 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-17 17:01:27 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485110a0cafaeaf22de1a6946ff8" alt="Album Cover" width="48" height="48" /> [Lilac Wine](https://open.spotify.com/track/6Ub872kT1aJKYj2PQr8Y2f) — Arooj Aftab, Beck, War Child Records
-2. <img src="https://i.scdn.co/image/ab67616d0000485110a0cafaeaf22de1a6946ff8" alt="Album Cover" width="48" height="48" /> [Strangers](https://open.spotify.com/track/2cLjmhezy7CVKMTRAOcnEx) — Black Country, New Road, War Child Records
+1. <img src="https://i.scdn.co/image/ab67616d0000485131646844acc328f1aac59fea" alt="Album Cover" width="48" height="48" /> [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) — Jack Harlow
+2. <img src="https://i.scdn.co/image/ab67616d000048511b9885cf9460818202b35e0e" alt="Album Cover" width="48" height="48" /> [ThunderWave](https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A) — Thundercat, WILLOW
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
