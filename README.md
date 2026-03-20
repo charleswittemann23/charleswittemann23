@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-19 16:55:34 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-20 16:40:31 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485131646844acc328f1aac59fea" alt="Album Cover" width="48" height="48" /> [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) — Jack Harlow
-2. <img src="https://i.scdn.co/image/ab67616d000048511b9885cf9460818202b35e0e" alt="Album Cover" width="48" height="48" /> [ThunderWave](https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A) — Thundercat, WILLOW
+1. <img src="https://i.scdn.co/image/ab67616d000048519a1d1c7a700965166d61b78e" alt="Album Cover" width="48" height="48" /> [push the pipe](https://open.spotify.com/track/7wcpX1bxNyZ1L4pUlwvKn8) — Joey Valence & Brae
+2. <img src="https://i.scdn.co/image/ab67616d000048519a1d1c7a700965166d61b78e" alt="Album Cover" width="48" height="48" /> [friends](https://open.spotify.com/track/40jI6IP9dbRfFUmNaGWTaY) — Joey Valence & Brae
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
