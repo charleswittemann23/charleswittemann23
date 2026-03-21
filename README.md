@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-20 16:40:31 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-21 16:27:11 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048519a1d1c7a700965166d61b78e" alt="Album Cover" width="48" height="48" /> [push the pipe](https://open.spotify.com/track/7wcpX1bxNyZ1L4pUlwvKn8) — Joey Valence & Brae
-2. <img src="https://i.scdn.co/image/ab67616d000048519a1d1c7a700965166d61b78e" alt="Album Cover" width="48" height="48" /> [friends](https://open.spotify.com/track/40jI6IP9dbRfFUmNaGWTaY) — Joey Valence & Brae
+1. <img src="https://i.scdn.co/image/ab67616d00004851814b3b56864bb7d9ebfcdbf2" alt="Album Cover" width="48" height="48" /> [FLYGOD DiD](https://open.spotify.com/track/1vAs9iA3hNL9ctMlmuD3HT) — Westside Gunn, AA Rashid
+2. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [100 Horses](https://open.spotify.com/track/2JENu7srINnXlZC6JtLyEA) — Geese
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
