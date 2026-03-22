@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-21 16:27:11 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-22 16:27:58 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851814b3b56864bb7d9ebfcdbf2" alt="Album Cover" width="48" height="48" /> [FLYGOD DiD](https://open.spotify.com/track/1vAs9iA3hNL9ctMlmuD3HT) — Westside Gunn, AA Rashid
-2. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [100 Horses](https://open.spotify.com/track/2JENu7srINnXlZC6JtLyEA) — Geese
+1. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Long Island City Here I Come](https://open.spotify.com/track/1oevydxCBM8J6aGHKymgl1) — Geese
+2. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Taxes](https://open.spotify.com/track/5cbDTZG8lBJqVVa2zqROPI) — Geese
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
