@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-22 16:27:58 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-23 16:54:52 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Long Island City Here I Come](https://open.spotify.com/track/1oevydxCBM8J6aGHKymgl1) — Geese
-2. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Taxes](https://open.spotify.com/track/5cbDTZG8lBJqVVa2zqROPI) — Geese
+1. <img src="https://i.scdn.co/image/ab67616d00004851afb8f9cd2c7ac65007db79ec" alt="Album Cover" width="48" height="48" /> [NO FUTURE /dear freedom](https://open.spotify.com/track/0EIs7pR3Cc87fLbupE8PDn) — _BY.ALEXANDER
+2. <img src="https://i.scdn.co/image/ab67616d00004851afb8f9cd2c7ac65007db79ec" alt="Album Cover" width="48" height="48" /> [KING KONG FEAT HAWA & THEO CROKER](https://open.spotify.com/track/1Qthn23wXlXEeS0nA0GFbU) — _BY.ALEXANDER, HAWA, Theo Croker
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
