@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-23 16:54:52 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-24 16:57:53 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851afb8f9cd2c7ac65007db79ec" alt="Album Cover" width="48" height="48" /> [NO FUTURE /dear freedom](https://open.spotify.com/track/0EIs7pR3Cc87fLbupE8PDn) — _BY.ALEXANDER
-2. <img src="https://i.scdn.co/image/ab67616d00004851afb8f9cd2c7ac65007db79ec" alt="Album Cover" width="48" height="48" /> [KING KONG FEAT HAWA & THEO CROKER](https://open.spotify.com/track/1Qthn23wXlXEeS0nA0GFbU) — _BY.ALEXANDER, HAWA, Theo Croker
+1. <img src="https://i.scdn.co/image/ab67616d00004851f81572e9a17c58d81b0f70e9" alt="Album Cover" width="48" height="48" /> [Hollywood Forever Cemetery Sings](https://open.spotify.com/track/3O30ywyRk6EKT68sBvVqOP) — Father John Misty
+2. <img src="https://i.scdn.co/image/ab67616d00004851f81572e9a17c58d81b0f70e9" alt="Album Cover" width="48" height="48" /> [Nancy From Now On](https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i) — Father John Misty
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
