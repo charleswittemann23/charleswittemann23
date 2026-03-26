@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-25 16:59:47 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-26 16:58:22 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485196e32f92f2f14652b6fd20f9" alt="Album Cover" width="48" height="48" /> [NOT DA 2 (feat. Lil Yachty, KARRAHBOOO)](https://open.spotify.com/track/4sy34zVp9lhb0ozhuRhAKj) — Concrete Boys, Lil Yachty, KARRAHBOOO
-2. <img src="https://i.scdn.co/image/ab67616d00004851d189461df3535824961e4019" alt="Album Cover" width="48" height="48" /> [Sentry (feat. MIKE)](https://open.spotify.com/track/48gtujiZ77wSZ29aWZe84V) — Earl Sweatshirt, The Alchemist, MIKE
+1. <img src="https://i.scdn.co/image/ab67616d00004851218dbf6b64c35229da4f5fec" alt="Album Cover" width="48" height="48" /> [Seabird](https://open.spotify.com/track/6YhfY5OwDZAr6zYGZuooSS) — Ellie O'Neill
+2. <img src="https://i.scdn.co/image/ab67616d0000485119a243d51e25e7b729d0ccb2" alt="Album Cover" width="48" height="48" /> [God Between Us](https://open.spotify.com/track/7GSK8MRtB6y2iqkFqlAUfE) — Emma Louise
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
