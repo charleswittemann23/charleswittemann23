@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-28 16:31:17 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-29 16:33:02 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485186b7c80f34422c3c287f698e" alt="Album Cover" width="48" height="48" /> [Getaway](https://open.spotify.com/track/54YvXQzjpfQee9u3YKg8Ls) — Fcukers
-2. <img src="https://i.scdn.co/image/ab67616d0000485186b7c80f34422c3c287f698e" alt="Album Cover" width="48" height="48" /> [Lonely](https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox) — Fcukers
+1. <img src="https://i.scdn.co/image/ab67616d0000485176c9b9e34a3a87891dbf6ba2" alt="Album Cover" width="48" height="48" /> [Hours Were the Birds](https://open.spotify.com/track/5H87LbORbaiDnHLK5jv3iV) — Adrianne Lenker
+2. <img src="https://i.scdn.co/image/ab67616d00004851539023dfaf4a520b1d01bf3c" alt="Album Cover" width="48" height="48" /> [The Package](https://open.spotify.com/track/02WYUqxhFKrmsfXeguqlvW) — De La Soul
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
