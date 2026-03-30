@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-29 16:33:02 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-30 16:53:36 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485176c9b9e34a3a87891dbf6ba2" alt="Album Cover" width="48" height="48" /> [Hours Were the Birds](https://open.spotify.com/track/5H87LbORbaiDnHLK5jv3iV) — Adrianne Lenker
-2. <img src="https://i.scdn.co/image/ab67616d00004851539023dfaf4a520b1d01bf3c" alt="Album Cover" width="48" height="48" /> [The Package](https://open.spotify.com/track/02WYUqxhFKrmsfXeguqlvW) — De La Soul
+1. <img src="https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d" alt="Album Cover" width="48" height="48" /> [WHATEVER WORKS](https://open.spotify.com/track/7GVuAK4EmYP7gvlXA4JXqU) — Kanye West, Ye
+2. <img src="https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d" alt="Album Cover" width="48" height="48" /> [PUNCH DRUNK](https://open.spotify.com/track/4bWZz15GR1EE8E8x23rDWV) — Kanye West, Ye
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
