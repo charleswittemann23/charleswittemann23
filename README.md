@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-30 16:53:36 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-31 16:54:41 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d" alt="Album Cover" width="48" height="48" /> [WHATEVER WORKS](https://open.spotify.com/track/7GVuAK4EmYP7gvlXA4JXqU) — Kanye West, Ye
-2. <img src="https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d" alt="Album Cover" width="48" height="48" /> [PUNCH DRUNK](https://open.spotify.com/track/4bWZz15GR1EE8E8x23rDWV) — Kanye West, Ye
+1. <img src="https://i.scdn.co/image/ab67616d000048517096302e941475f3e2649fc2" alt="Album Cover" width="48" height="48" /> [Dope Shit (feat. Maha Adachi Earth)](https://open.spotify.com/track/2IkbYmNCtfC6tB1u6nd5Dn) — Jill Scott, Maha Adachi Earth
+2. <img src="https://i.scdn.co/image/ab67616d000048512a7db835b912dc5014bd37f4" alt="Album Cover" width="48" height="48" /> [FML](https://open.spotify.com/track/30Zcjs7pgEkmJA1lEbGSWT) — Kanye West
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
