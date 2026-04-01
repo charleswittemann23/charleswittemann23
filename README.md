@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-03-31 16:54:41 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-01 16:52:01 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048517096302e941475f3e2649fc2" alt="Album Cover" width="48" height="48" /> [Dope Shit (feat. Maha Adachi Earth)](https://open.spotify.com/track/2IkbYmNCtfC6tB1u6nd5Dn) — Jill Scott, Maha Adachi Earth
-2. <img src="https://i.scdn.co/image/ab67616d000048512a7db835b912dc5014bd37f4" alt="Album Cover" width="48" height="48" /> [FML](https://open.spotify.com/track/30Zcjs7pgEkmJA1lEbGSWT) — Kanye West
+1. <img src="https://i.scdn.co/image/ab67616d00004851608c444310857c06bdc65361" alt="Album Cover" width="48" height="48" /> [Certainty](https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd) — Big Thief
+2. <img src="https://i.scdn.co/image/ab67616d00004851608c444310857c06bdc65361" alt="Album Cover" width="48" height="48" /> [Spud Infinity](https://open.spotify.com/track/3Q6VfeIZ1bTjWiNe2Or4LQ) — Big Thief
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
