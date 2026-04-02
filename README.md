@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-01 16:52:01 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-02 16:54:11 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851608c444310857c06bdc65361" alt="Album Cover" width="48" height="48" /> [Certainty](https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd) — Big Thief
-2. <img src="https://i.scdn.co/image/ab67616d00004851608c444310857c06bdc65361" alt="Album Cover" width="48" height="48" /> [Spud Infinity](https://open.spotify.com/track/3Q6VfeIZ1bTjWiNe2Or4LQ) — Big Thief
+1. <img src="https://i.scdn.co/image/ab67616d00004851b0d8ae626c03195293535af1" alt="Album Cover" width="48" height="48" /> [Can I Mend It?](https://open.spotify.com/track/10DdThCoROsMPrKprE1XWq) — Buck Meek
+2. <img src="https://i.scdn.co/image/ab67616d00004851b0d8ae626c03195293535af1" alt="Album Cover" width="48" height="48" /> [Pretty Flowers](https://open.spotify.com/track/5A1hTxWAETAHviK0E8HPbM) — Buck Meek
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
