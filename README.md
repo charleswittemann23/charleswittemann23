@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-03 16:37:32 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-04 16:33:15 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048515d6505356d39c9ec421d489b" alt="Album Cover" width="48" height="48" /> [Pozole](https://open.spotify.com/track/5kXTARsaWzaOFF0L5OTbaK) — Thundercat
-2. <img src="https://i.scdn.co/image/ab67616d000048515d6505356d39c9ec421d489b" alt="Album Cover" width="48" height="48" /> [ThunderWave](https://open.spotify.com/track/3woOFPXLeBqlrEz9z214qH) — Thundercat, WILLOW
+1. <img src="https://i.scdn.co/image/ab67616d00004851838e79a9ad425bb5e7d6150c" alt="Album Cover" width="48" height="48" /> [It Gets Better - Forever Mix](https://open.spotify.com/track/5fEg39wxUxNG9Ig5cFpWlc) — KETTAMA
+2. <img src="https://i.scdn.co/image/ab67616d000048516d2f2182adead0df38242936" alt="Album Cover" width="48" height="48" /> [I'm God](https://open.spotify.com/track/2nzfebt7eoKpUNNsDVWJ1Y) — Southbound
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
