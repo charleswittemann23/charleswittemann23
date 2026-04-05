@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-04 16:33:15 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-05 16:33:53 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851838e79a9ad425bb5e7d6150c" alt="Album Cover" width="48" height="48" /> [It Gets Better - Forever Mix](https://open.spotify.com/track/5fEg39wxUxNG9Ig5cFpWlc) — KETTAMA
-2. <img src="https://i.scdn.co/image/ab67616d000048516d2f2182adead0df38242936" alt="Album Cover" width="48" height="48" /> [I'm God](https://open.spotify.com/track/2nzfebt7eoKpUNNsDVWJ1Y) — Southbound
+1. <img src="https://i.scdn.co/image/ab67616d000048517a9109a9eea979b562879518" alt="Album Cover" width="48" height="48" /> [No Fear](https://open.spotify.com/track/0r3q5J2T2PSAkn1xkFpisa) — Big Thief
+2. <img src="https://i.scdn.co/image/ab67616d000048517a9109a9eea979b562879518" alt="Album Cover" width="48" height="48" /> [Double Infinity](https://open.spotify.com/track/4jdNbCXGGciAOLwAShbJ9Z) — Big Thief
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
