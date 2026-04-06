@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-05 16:33:53 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-06 16:43:23 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048517a9109a9eea979b562879518" alt="Album Cover" width="48" height="48" /> [No Fear](https://open.spotify.com/track/0r3q5J2T2PSAkn1xkFpisa) — Big Thief
-2. <img src="https://i.scdn.co/image/ab67616d000048517a9109a9eea979b562879518" alt="Album Cover" width="48" height="48" /> [Double Infinity](https://open.spotify.com/track/4jdNbCXGGciAOLwAShbJ9Z) — Big Thief
+1. <img src="https://i.scdn.co/image/ab67616d00004851ea42191f549dce4d9c8ecd1a" alt="Album Cover" width="48" height="48" /> [A Love Supreme, Pt. I – Acknowledgement](https://open.spotify.com/track/0CLbmkYmQIWiEwnsbOkLpd) — John Coltrane
+2. <img src="https://i.scdn.co/image/ab67616d00004851ea42191f549dce4d9c8ecd1a" alt="Album Cover" width="48" height="48" /> [A Love Supreme, Pt. I – Acknowledgement](https://open.spotify.com/track/0CLbmkYmQIWiEwnsbOkLpd) — John Coltrane
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
