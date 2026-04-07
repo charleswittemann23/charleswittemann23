@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-06 16:43:23 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-07 16:55:49 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851ea42191f549dce4d9c8ecd1a" alt="Album Cover" width="48" height="48" /> [A Love Supreme, Pt. I – Acknowledgement](https://open.spotify.com/track/0CLbmkYmQIWiEwnsbOkLpd) — John Coltrane
-2. <img src="https://i.scdn.co/image/ab67616d00004851ea42191f549dce4d9c8ecd1a" alt="Album Cover" width="48" height="48" /> [A Love Supreme, Pt. I – Acknowledgement](https://open.spotify.com/track/0CLbmkYmQIWiEwnsbOkLpd) — John Coltrane
+1. <img src="https://i.scdn.co/image/ab67616d00004851cab898cdda3ee7d1e9b25646" alt="Album Cover" width="48" height="48" /> [Bodyfeeling](https://open.spotify.com/track/1hXtXrkP0n04Cx5DUyQNdX) — underscores
+2. <img src="https://i.scdn.co/image/ab67616d000048512645b86a7cb131edf7224777" alt="Album Cover" width="48" height="48" /> [Mike & Melissa](https://open.spotify.com/track/1EYU6IqrE9xOcxYIMMAn1f) — Mouseatouille
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
