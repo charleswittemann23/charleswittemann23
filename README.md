@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-07 16:55:49 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-08 16:58:49 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851cab898cdda3ee7d1e9b25646" alt="Album Cover" width="48" height="48" /> [Bodyfeeling](https://open.spotify.com/track/1hXtXrkP0n04Cx5DUyQNdX) — underscores
-2. <img src="https://i.scdn.co/image/ab67616d000048512645b86a7cb131edf7224777" alt="Album Cover" width="48" height="48" /> [Mike & Melissa](https://open.spotify.com/track/1EYU6IqrE9xOcxYIMMAn1f) — Mouseatouille
+1. <img src="https://i.scdn.co/image/ab67616d00004851611ea3fb281f7956ffd33b77" alt="Album Cover" width="48" height="48" /> [Blue Train](https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7) — John Coltrane
+2. <img src="https://i.scdn.co/image/ab67616d000048516935c144867ee781f60be813" alt="Album Cover" width="48" height="48" /> [Mi Cosa - Take 1](https://open.spotify.com/track/0XtacS0xmGwfrLbPyKlGJF) — Wes Montgomery Trio
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
