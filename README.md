@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-08 16:58:49 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-09 17:04:50 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851611ea3fb281f7956ffd33b77" alt="Album Cover" width="48" height="48" /> [Blue Train](https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7) — John Coltrane
-2. <img src="https://i.scdn.co/image/ab67616d000048516935c144867ee781f60be813" alt="Album Cover" width="48" height="48" /> [Mi Cosa - Take 1](https://open.spotify.com/track/0XtacS0xmGwfrLbPyKlGJF) — Wes Montgomery Trio
+1. <img src="https://i.scdn.co/image/ab67616d00004851309ae95ef92cb8b068e7ce52" alt="Album Cover" width="48" height="48" /> [That Old Feeling](https://open.spotify.com/track/2d64G7VaZdHQuAquz5HQNu) — Chet Baker
+2. <img src="https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d" alt="Album Cover" width="48" height="48" /> [FATHER (feat. Travis Scott)](https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms) — Kanye West, Ye, Travis Scott
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
