@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-09 17:04:50 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-10 16:52:12 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851309ae95ef92cb8b068e7ce52" alt="Album Cover" width="48" height="48" /> [That Old Feeling](https://open.spotify.com/track/2d64G7VaZdHQuAquz5HQNu) — Chet Baker
-2. <img src="https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d" alt="Album Cover" width="48" height="48" /> [FATHER (feat. Travis Scott)](https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms) — Kanye West, Ye, Travis Scott
+1. <img src="https://i.scdn.co/image/ab67616d00004851cab898cdda3ee7d1e9b25646" alt="Album Cover" width="48" height="48" /> [Lovefield](https://open.spotify.com/track/6rIsZ4WR4aENaUXOcLEfR0) — underscores
+2. <img src="https://i.scdn.co/image/ab67616d00004851cab898cdda3ee7d1e9b25646" alt="Album Cover" width="48" height="48" /> [Innuendo (I Get U)](https://open.spotify.com/track/1D84CoKziCbQw6NWVxorq4) — underscores
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
