@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-10 16:52:12 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-11 16:34:22 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851cab898cdda3ee7d1e9b25646" alt="Album Cover" width="48" height="48" /> [Lovefield](https://open.spotify.com/track/6rIsZ4WR4aENaUXOcLEfR0) — underscores
-2. <img src="https://i.scdn.co/image/ab67616d00004851cab898cdda3ee7d1e9b25646" alt="Album Cover" width="48" height="48" /> [Innuendo (I Get U)](https://open.spotify.com/track/1D84CoKziCbQw6NWVxorq4) — underscores
+1. <img src="https://i.scdn.co/image/ab67616d000048515d6505356d39c9ec421d489b" alt="Album Cover" width="48" height="48" /> [A.D.D. Through the Roof](https://open.spotify.com/track/4iQXnle34foF0YR3ieJgwx) — Thundercat
+2. <img src="https://i.scdn.co/image/ab67616d000048515d6505356d39c9ec421d489b" alt="Album Cover" width="48" height="48" /> [Pozole](https://open.spotify.com/track/5kXTARsaWzaOFF0L5OTbaK) — Thundercat
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
