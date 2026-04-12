@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-11 16:34:22 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-12 16:36:15 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048515d6505356d39c9ec421d489b" alt="Album Cover" width="48" height="48" /> [A.D.D. Through the Roof](https://open.spotify.com/track/4iQXnle34foF0YR3ieJgwx) — Thundercat
-2. <img src="https://i.scdn.co/image/ab67616d000048515d6505356d39c9ec421d489b" alt="Album Cover" width="48" height="48" /> [Pozole](https://open.spotify.com/track/5kXTARsaWzaOFF0L5OTbaK) — Thundercat
+1. <img src="https://i.scdn.co/image/ab67616d00004851ea42191f549dce4d9c8ecd1a" alt="Album Cover" width="48" height="48" /> [A Love Supreme, Pt. IV - Psalm](https://open.spotify.com/track/5FLQmLjjeNIuC8U5mDnXC8) — John Coltrane
+2. <img src="https://i.scdn.co/image/ab67616d00004851ea42191f549dce4d9c8ecd1a" alt="Album Cover" width="48" height="48" /> [A Love Supreme, Pt. III - Pursuance](https://open.spotify.com/track/0jHEixPAoSopOP75j2iTX9) — John Coltrane
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
