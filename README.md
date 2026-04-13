@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-12 16:36:15 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-13 17:01:51 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851ea42191f549dce4d9c8ecd1a" alt="Album Cover" width="48" height="48" /> [A Love Supreme, Pt. IV - Psalm](https://open.spotify.com/track/5FLQmLjjeNIuC8U5mDnXC8) — John Coltrane
-2. <img src="https://i.scdn.co/image/ab67616d00004851ea42191f549dce4d9c8ecd1a" alt="Album Cover" width="48" height="48" /> [A Love Supreme, Pt. III - Pursuance](https://open.spotify.com/track/0jHEixPAoSopOP75j2iTX9) — John Coltrane
+1. <img src="https://i.scdn.co/image/ab67616d00004851cab898cdda3ee7d1e9b25646" alt="Album Cover" width="48" height="48" /> [Music](https://open.spotify.com/track/6gPbjxlebqkFyCaLY4SRVm) — underscores
+2. <img src="https://i.scdn.co/image/ab67616d00004851cab898cdda3ee7d1e9b25646" alt="Album Cover" width="48" height="48" /> [Tell Me (U Want It)](https://open.spotify.com/track/2fIv98BZ6NdkeYLZAvNzP7) — underscores
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
