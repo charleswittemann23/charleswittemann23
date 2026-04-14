@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-13 17:01:51 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-14 17:04:05 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851cab898cdda3ee7d1e9b25646" alt="Album Cover" width="48" height="48" /> [Music](https://open.spotify.com/track/6gPbjxlebqkFyCaLY4SRVm) — underscores
-2. <img src="https://i.scdn.co/image/ab67616d00004851cab898cdda3ee7d1e9b25646" alt="Album Cover" width="48" height="48" /> [Tell Me (U Want It)](https://open.spotify.com/track/2fIv98BZ6NdkeYLZAvNzP7) — underscores
+1. <img src="https://i.scdn.co/image/ab67616d0000485130a635de2bb0caa4e26f6abb" alt="Album Cover" width="48" height="48" /> [A BOY IS A GUN*](https://open.spotify.com/track/1nXZnTALNXiPlvXotqHm66) — Tyler, The Creator
+2. <img src="https://i.scdn.co/image/ab67616d00004851f81572e9a17c58d81b0f70e9" alt="Album Cover" width="48" height="48" /> [I'm Writing a Novel](https://open.spotify.com/track/2gUwnJ5cpl40TSlqmjfqAC) — Father John Misty
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
