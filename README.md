@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-14 17:04:05 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-15 17:01:03 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485130a635de2bb0caa4e26f6abb" alt="Album Cover" width="48" height="48" /> [A BOY IS A GUN*](https://open.spotify.com/track/1nXZnTALNXiPlvXotqHm66) — Tyler, The Creator
-2. <img src="https://i.scdn.co/image/ab67616d00004851f81572e9a17c58d81b0f70e9" alt="Album Cover" width="48" height="48" /> [I'm Writing a Novel](https://open.spotify.com/track/2gUwnJ5cpl40TSlqmjfqAC) — Father John Misty
+1. <img src="https://i.scdn.co/image/ab67616d000048512853bfc72a2ce5ddc6ed2f0d" alt="Album Cover" width="48" height="48" /> [Jettin'](https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv) — Digable Planets
+2. <img src="https://i.scdn.co/image/ab67616d000048512853bfc72a2ce5ddc6ed2f0d" alt="Album Cover" width="48" height="48" /> [Dog It](https://open.spotify.com/track/6Mbm86B4joMLyCncLCESCG) — Digable Planets
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
