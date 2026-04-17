@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-16 17:11:30 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-17 16:53:15 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048515d6505356d39c9ec421d489b" alt="Album Cover" width="48" height="48" /> [Funny Friends](https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc) — Thundercat, A$AP Rocky
-2. <img src="https://i.scdn.co/image/ab67616d0000485113454a4e338624732da313d1" alt="Album Cover" width="48" height="48" /> [(E)ntertain](https://open.spotify.com/track/1JTkouBWn80ZMsab8mfnl5) — bronclair
+1. <img src="https://i.scdn.co/image/ab67616d0000485139c602b7fbd9831549243f27" alt="Album Cover" width="48" height="48" /> [Did You See Me?](https://open.spotify.com/track/3rxjiwPHeFhF5dEpAoxcma) — Ween
+2. <img src="https://i.scdn.co/image/ab67616d00004851ab996e54c625e1d9ddabc1d4" alt="Album Cover" width="48" height="48" /> [Blue Balloon](https://open.spotify.com/track/2IjDFn1jWwzvcIei11YVfI) — Ween
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
