@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-18 16:37:26 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-19 16:37:24 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048515d6505356d39c9ec421d489b" alt="Album Cover" width="48" height="48" /> [No More Lies](https://open.spotify.com/track/3dHyoDGPLY6NAxg3QjSObI) — Thundercat, Tame Impala
-2. <img src="https://i.scdn.co/image/ab67616d000048515d6505356d39c9ec421d489b" alt="Album Cover" width="48" height="48" /> [Candlelight](https://open.spotify.com/track/0mmgpCQiuPIcQcEsSXLf4H) — Thundercat
+1. <img src="https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d" alt="Album Cover" width="48" height="48" /> [PUNCH DRUNK](https://open.spotify.com/track/4bWZz15GR1EE8E8x23rDWV) — Kanye West, Ye
+2. <img src="https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d" alt="Album Cover" width="48" height="48" /> [HIGHS AND LOWS](https://open.spotify.com/track/565G1vHZu2xoxrnTyF06Qw) — Kanye West, Ye
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
