@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-19 16:37:24 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-20 17:01:25 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d" alt="Album Cover" width="48" height="48" /> [PUNCH DRUNK](https://open.spotify.com/track/4bWZz15GR1EE8E8x23rDWV) — Kanye West, Ye
-2. <img src="https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d" alt="Album Cover" width="48" height="48" /> [HIGHS AND LOWS](https://open.spotify.com/track/565G1vHZu2xoxrnTyF06Qw) — Kanye West, Ye
+1. <img src="https://i.scdn.co/image/ab67616d00004851ea42191f549dce4d9c8ecd1a" alt="Album Cover" width="48" height="48" /> [A Love Supreme, Pt. IV - Psalm](https://open.spotify.com/track/5FLQmLjjeNIuC8U5mDnXC8) — John Coltrane
+2. <img src="https://i.scdn.co/image/ab67616d00004851ea42191f549dce4d9c8ecd1a" alt="Album Cover" width="48" height="48" /> [A Love Supreme, Pt. III - Pursuance](https://open.spotify.com/track/0jHEixPAoSopOP75j2iTX9) — John Coltrane
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
