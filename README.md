@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-20 17:01:25 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-21 16:58:23 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851ea42191f549dce4d9c8ecd1a" alt="Album Cover" width="48" height="48" /> [A Love Supreme, Pt. IV - Psalm](https://open.spotify.com/track/5FLQmLjjeNIuC8U5mDnXC8) — John Coltrane
-2. <img src="https://i.scdn.co/image/ab67616d00004851ea42191f549dce4d9c8ecd1a" alt="Album Cover" width="48" height="48" /> [A Love Supreme, Pt. III - Pursuance](https://open.spotify.com/track/0jHEixPAoSopOP75j2iTX9) — John Coltrane
+1. <img src="https://i.scdn.co/image/ab67616d0000485131b65d25e03fc22dfe5c66e5" alt="Album Cover" width="48" height="48" /> [Keaukaha](https://open.spotify.com/track/4daybsVF8kYbFhyjjcSOg0) — Unknown Mortal Orchestra
+2. <img src="https://i.scdn.co/image/ab67616d00004851dad8074eb0c60a82d1d8973c" alt="Album Cover" width="48" height="48" /> [The World Is Crowded](https://open.spotify.com/track/0QuFdq1oVppQIHZx8TkWhm) — Unknown Mortal Orchestra
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
