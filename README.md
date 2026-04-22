@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-21 16:58:23 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-22 16:57:10 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485131b65d25e03fc22dfe5c66e5" alt="Album Cover" width="48" height="48" /> [Keaukaha](https://open.spotify.com/track/4daybsVF8kYbFhyjjcSOg0) — Unknown Mortal Orchestra
-2. <img src="https://i.scdn.co/image/ab67616d00004851dad8074eb0c60a82d1d8973c" alt="Album Cover" width="48" height="48" /> [The World Is Crowded](https://open.spotify.com/track/0QuFdq1oVppQIHZx8TkWhm) — Unknown Mortal Orchestra
+1. <img src="https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38" alt="Album Cover" width="48" height="48" /> [Haldern](https://open.spotify.com/track/4EVwKp8hDRmxrT6Dzu6aBc) — Black Country, New Road
+2. <img src="https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38" alt="Album Cover" width="48" height="48" /> [Haldern](https://open.spotify.com/track/4EVwKp8hDRmxrT6Dzu6aBc) — Black Country, New Road
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
