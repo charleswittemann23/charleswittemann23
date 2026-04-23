@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-22 16:57:10 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-23 17:17:53 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38" alt="Album Cover" width="48" height="48" /> [Haldern](https://open.spotify.com/track/4EVwKp8hDRmxrT6Dzu6aBc) — Black Country, New Road
-2. <img src="https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38" alt="Album Cover" width="48" height="48" /> [Haldern](https://open.spotify.com/track/4EVwKp8hDRmxrT6Dzu6aBc) — Black Country, New Road
+1. <img src="https://i.scdn.co/image/ab67616d000048514738aa171569052376f162fe" alt="Album Cover" width="48" height="48" /> [Nausicaä (Love Will Be Revealed)](https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N) — Cameron Winter
+2. <img src="https://i.scdn.co/image/ab67616d00004851e6bc598472ed677357b61d7d" alt="Album Cover" width="48" height="48" /> [Where We've Been](https://open.spotify.com/track/6uBRUPjd59DdYVTMMadvr1) — Friko
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
