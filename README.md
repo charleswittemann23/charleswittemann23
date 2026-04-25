@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-24 16:53:19 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-25 16:38:38 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048511e7cafe58c1cea5c8003ad2b" alt="Album Cover" width="48" height="48" /> [car crash](https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA) — jigitz, Charlotte Plank
-2. <img src="https://i.scdn.co/image/ab67616d000048513674b77c17e857669ff1dfbe" alt="Album Cover" width="48" height="48" /> [tell you straight](https://open.spotify.com/track/2C96iPyCRXL5sOKivhlOWp) — jigitz
+1. <img src="https://i.scdn.co/image/ab67616d0000485173b3f8aa709236fc885b859b" alt="Album Cover" width="48" height="48" /> [Always](https://open.spotify.com/track/7Lg4dEz9IVE5iUILPEdyUv) — camoufly
+2. <img src="https://i.scdn.co/image/ab67616d0000485116f6e19106810d7df04cf40f" alt="Album Cover" width="48" height="48" /> [Energy](https://open.spotify.com/track/4Rup2FGULitq264vd0necv) — Higgo
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
