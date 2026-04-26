@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-25 16:38:38 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-26 16:39:51 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485173b3f8aa709236fc885b859b" alt="Album Cover" width="48" height="48" /> [Always](https://open.spotify.com/track/7Lg4dEz9IVE5iUILPEdyUv) — camoufly
-2. <img src="https://i.scdn.co/image/ab67616d0000485116f6e19106810d7df04cf40f" alt="Album Cover" width="48" height="48" /> [Energy](https://open.spotify.com/track/4Rup2FGULitq264vd0necv) — Higgo
+1. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Au Pays du Cocaine](https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT) — Geese
+2. <img src="https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38" alt="Album Cover" width="48" height="48" /> [Good Will Hunting](https://open.spotify.com/track/0Ppd0oDauQpaQgNvpHzq24) — Black Country, New Road
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
