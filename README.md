@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-26 16:39:51 UTC)
+## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-27 17:19:44 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Au Pays du Cocaine](https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT) — Geese
-2. <img src="https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38" alt="Album Cover" width="48" height="48" /> [Good Will Hunting](https://open.spotify.com/track/0Ppd0oDauQpaQgNvpHzq24) — Black Country, New Road
+1. <img src="https://i.scdn.co/image/ab67616d0000485134afe4e2ac60491f3d2256c2" alt="Album Cover" width="48" height="48" /> [The Field](https://open.spotify.com/track/2kv1x8OyY7dVfQs6XAolCR) — Art School Girlfriend
+2. <img src="https://i.scdn.co/image/ab67616d0000485134afe4e2ac60491f3d2256c2" alt="Album Cover" width="48" height="48" /> [Doing Laps](https://open.spotify.com/track/3qiUi5vB2Dj89Yrrm3P8O4) — Art School Girlfriend
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
