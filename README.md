@@ -1,6 +1,6 @@
 ## Hi, I'm Charlie Wittemann 
 
-Computer Science and Finance Student at the University of Virginia focused on full stack development, data science, machine learning, and quantitative finance. 
+Computer Science and Finance Student at the University of Virginia focused on banking, asset management, machine learning, and quantitative finance. 
 
 <!--
 **charleswittemann23/charleswittemann23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>Where to find me</h2>
+<h2>Where to find me: 📫 </h2>
 <p>
 <a target="_blank" href="https://www.linkedin.com/in/charles-wittemann/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <a
@@ -38,14 +38,14 @@ Here are some ideas to get you started:
   rel="noopener noreferrer"
   class="inline-flex items-center gap-3 rounded-lg bg-black px-5 py-3 text-base font-semibold text-white transition hover:bg-neutral-800"
 >
-  <img
+  Portfolio Page: <img
     src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png"
     alt="Vercel"
     class="h-5 w-5 invert"
     height = "20"
     width = "20"
   />
-  View Portfolio
+  
 </a>
 
 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Recently Played/Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
 1. <img src="https://i.scdn.co/image/ab67616d000048512484ff82a37d8d94d21a0f4b" alt="Album Cover" width="48" height="48" /> [Jetta](https://open.spotify.com/track/6yWuzRcmkXNnAVA6doP2SK) — Arlo Parks
