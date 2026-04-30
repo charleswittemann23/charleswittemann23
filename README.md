@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048512484ff82a37d8d94d21a0f4b" alt="Album Cover" width="48" height="48" /> [Jetta](https://open.spotify.com/track/6yWuzRcmkXNnAVA6doP2SK) — Arlo Parks
-2. <img src="https://i.scdn.co/image/ab67616d00004851cb53aff3036cf65df48f50f6" alt="Album Cover" width="48" height="48" /> [Method Actor](https://open.spotify.com/track/0sggL2BsarV5q8acXljmWI) — Nilüfer Yanya
+1. <img src="https://i.scdn.co/image/ab67616d000048518165237ed8dd82547fbf2e49" alt="Album Cover" width="48" height="48" /> [babygirl](https://open.spotify.com/track/5ouETFDqJv0SQMzwKlQLlP) — JPEGMAFIA
+2. <img src="https://i.scdn.co/image/ab67616d000048515a8c72a8c75ba0ae4929cd46" alt="Album Cover" width="48" height="48" /> [BALD!](https://open.spotify.com/track/3djWekEDgbhAtkXGdFNbFt) — JPEGMAFIA
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
