@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048518165237ed8dd82547fbf2e49" alt="Album Cover" width="48" height="48" /> [babygirl](https://open.spotify.com/track/5ouETFDqJv0SQMzwKlQLlP) — JPEGMAFIA
-2. <img src="https://i.scdn.co/image/ab67616d000048515a8c72a8c75ba0ae4929cd46" alt="Album Cover" width="48" height="48" /> [BALD!](https://open.spotify.com/track/3djWekEDgbhAtkXGdFNbFt) — JPEGMAFIA
+1. <img src="https://i.scdn.co/image/ab67616d000048511c338fd56753e69a5ac621cc" alt="Album Cover" width="48" height="48" /> [Moon Not Mine](https://open.spotify.com/track/1r8plFPk6rUylJmclniQAM) — Gia Margaret
+2. <img src="https://i.scdn.co/image/ab67616d000048516127954e746b8177fbcc63e0" alt="Album Cover" width="48" height="48" /> [Planting Tomatoes](https://open.spotify.com/track/0BuI2IX8F4HlGjIxywA09L) — Lucy Dacus
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
