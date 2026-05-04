@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485134afe4e2ac60491f3d2256c2" alt="Album Cover" width="48" height="48" /> [The Field](https://open.spotify.com/track/2kv1x8OyY7dVfQs6XAolCR) — Art School Girlfriend
-2. <img src="https://i.scdn.co/image/ab67616d0000485134afe4e2ac60491f3d2256c2" alt="Album Cover" width="48" height="48" /> [L.Y.A.T.T.](https://open.spotify.com/track/1o3158KOAfCLlnXnFPFRj7) — Art School Girlfriend
+1. <img src="https://i.scdn.co/image/ab67616d00004851c117e6bed77d6c41806d6a24" alt="Album Cover" width="48" height="48" /> [With a Love So Kind](https://open.spotify.com/track/0oNfRLV9wI1yYhPLOA7M0W) — Angelo De Augustine
+2. <img src="https://i.scdn.co/image/ab67616d0000485166eb2130827a7c52b5928d53" alt="Album Cover" width="48" height="48" /> [Certainty](https://open.spotify.com/track/4zXvXSIcUepW2WyQJ7BexV) — Friko
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
