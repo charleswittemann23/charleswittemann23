@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851c117e6bed77d6c41806d6a24" alt="Album Cover" width="48" height="48" /> [With a Love So Kind](https://open.spotify.com/track/0oNfRLV9wI1yYhPLOA7M0W) — Angelo De Augustine
-2. <img src="https://i.scdn.co/image/ab67616d0000485166eb2130827a7c52b5928d53" alt="Album Cover" width="48" height="48" /> [Certainty](https://open.spotify.com/track/4zXvXSIcUepW2WyQJ7BexV) — Friko
+1. <img src="https://i.scdn.co/image/ab67616d000048519d377496c6bc8724b521222d" alt="Album Cover" width="48" height="48" /> [Sherrill](https://open.spotify.com/track/2YIT6nRniy0DCp7xkMH2LU) — Mac DeMarco
+2. <img src="https://i.scdn.co/image/ab67616d000048519d377496c6bc8724b521222d" alt="Album Cover" width="48" height="48" /> [Boe Zaah](https://open.spotify.com/track/0F3CwOEeaEXmiEjuK6v95d) — Mac DeMarco
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
