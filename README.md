@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851305780793d5f230df33937b6" alt="Album Cover" width="48" height="48" /> [Love Is](https://open.spotify.com/track/4KU1tXxB4PiiVDhWQvA0Gi) — Dove Ellis
-2. <img src="https://i.scdn.co/image/ab67616d0000485125191c5b6270c93029d1c896" alt="Album Cover" width="48" height="48" /> [Random Rules](https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS) — Silver Jews
+1. <img src="https://i.scdn.co/image/ab67616d000048519373fd4519c05e4a7538a337" alt="Album Cover" width="48" height="48" /> [War Over Land](https://open.spotify.com/track/6gn1jvInLQ352xxZEjPGz4) — JPEGMAFIA
+2. <img src="https://i.scdn.co/image/ab67616d00004851b7bc469a85354ff1ae7a1386" alt="Album Cover" width="48" height="48" /> [Rock Music](https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b) — Charli xcx
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
