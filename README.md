@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048519373fd4519c05e4a7538a337" alt="Album Cover" width="48" height="48" /> [War Over Land](https://open.spotify.com/track/6gn1jvInLQ352xxZEjPGz4) — JPEGMAFIA
-2. <img src="https://i.scdn.co/image/ab67616d00004851b7bc469a85354ff1ae7a1386" alt="Album Cover" width="48" height="48" /> [Rock Music](https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b) — Charli xcx
+1. <img src="https://i.scdn.co/image/ab67616d00004851b7bc469a85354ff1ae7a1386" alt="Album Cover" width="48" height="48" /> [Rock Music](https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b) — Charli xcx
+2. <img src="https://i.scdn.co/image/ab6742d3000052b785df0811e447b77916aa22df" alt="Album Cover" width="48" height="48" /> [Dance No More](https://open.spotify.com/track/1J2KaBgxCd0URW0fSsbJiy) — Harry Styles
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
