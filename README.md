@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048518ac99f88ebc09b1f1637dc00" alt="Album Cover" width="48" height="48" /> [Sympathy is a knife featuring ariana grande](https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0) — Charli xcx, Ariana Grande
-2. <img src="https://i.scdn.co/image/ab67616d00004851b7bc469a85354ff1ae7a1386" alt="Album Cover" width="48" height="48" /> [Rock Music](https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b) — Charli xcx
+1. <img src="https://i.scdn.co/image/ab67616d000048512602b00b6e1c090b26bb888b" alt="Album Cover" width="48" height="48" /> [Stars On The Roof](https://open.spotify.com/track/0WvXo8baZTYARlNuE76rlr) — Larry June, Curren$y, The Alchemist
+2. <img src="https://i.scdn.co/image/ab67616d000048515d0d65102be8606e439e54cc" alt="Album Cover" width="48" height="48" /> [Boys Don't Cry - Single Version](https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375) — The Cure
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
