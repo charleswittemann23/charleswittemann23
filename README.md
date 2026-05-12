@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048512602b00b6e1c090b26bb888b" alt="Album Cover" width="48" height="48" /> [Stars On The Roof](https://open.spotify.com/track/0WvXo8baZTYARlNuE76rlr) — Larry June, Curren$y, The Alchemist
-2. <img src="https://i.scdn.co/image/ab67616d000048515d0d65102be8606e439e54cc" alt="Album Cover" width="48" height="48" /> [Boys Don't Cry - Single Version](https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375) — The Cure
+1. <img src="https://i.scdn.co/image/ab67616d00004851ea34552ad2126a956d6dc19a" alt="Album Cover" width="48" height="48" /> [Fun Tonight](https://open.spotify.com/track/4MmO631CdxuFOm18UVbhkp) — Macross 82-99
+2. <img src="https://i.scdn.co/image/ab67616d00004851bd9aa66fe53033b43e836f5d" alt="Album Cover" width="48" height="48" /> [In Your Arms](https://open.spotify.com/track/1w5HknXbhqJ1hlDKrIBooY) — Shift K3Y
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
