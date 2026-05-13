@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851ea34552ad2126a956d6dc19a" alt="Album Cover" width="48" height="48" /> [Fun Tonight](https://open.spotify.com/track/4MmO631CdxuFOm18UVbhkp) — Macross 82-99
-2. <img src="https://i.scdn.co/image/ab67616d00004851bd9aa66fe53033b43e836f5d" alt="Album Cover" width="48" height="48" /> [In Your Arms](https://open.spotify.com/track/1w5HknXbhqJ1hlDKrIBooY) — Shift K3Y
+1. <img src="https://i.scdn.co/image/ab67616d0000485151fc529ab704873f80b8779f" alt="Album Cover" width="48" height="48" /> [Don't Give Up On Us](https://open.spotify.com/track/4yig4whQqGKgtjeYsVPRxG) — Arlo, Emi Grace
+2. <img src="https://i.scdn.co/image/ab67616d00004851ea34552ad2126a956d6dc19a" alt="Album Cover" width="48" height="48" /> [Fun Tonight](https://open.spotify.com/track/4MmO631CdxuFOm18UVbhkp) — Macross 82-99
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
