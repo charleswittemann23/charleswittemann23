@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851ee0d0dce888c6c8a70db6e8b" alt="Album Cover" width="48" height="48" /> [I Can Change](https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP) — LCD Soundsystem
-2. <img src="https://i.scdn.co/image/ab67616d0000485108a27a15cf37664f0dab6ab7" alt="Album Cover" width="48" height="48" /> [No Security](https://open.spotify.com/track/4LGFc5Vv5YlqTvWIa37CbG) — Baby Keem
+1. <img src="https://i.scdn.co/image/ab67616d00004851539bb112d7c970545dd971e3" alt="Album Cover" width="48" height="48" /> [Which One (feat. Central Cee)](https://open.spotify.com/track/4qLHbbVJjNsOqWxHrTtvgx) — Drake, Central Cee
+2. <img src="https://i.scdn.co/image/ab67616d00004851539bb112d7c970545dd971e3" alt="Album Cover" width="48" height="48" /> [Where’s Your Stuff Interlude](https://open.spotify.com/track/3WjmqBYVBac2PNZyGaiZnP) — Drake
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
