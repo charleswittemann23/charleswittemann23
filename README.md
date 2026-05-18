@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851539bb112d7c970545dd971e3" alt="Album Cover" width="48" height="48" /> [Which One (feat. Central Cee)](https://open.spotify.com/track/4qLHbbVJjNsOqWxHrTtvgx) — Drake, Central Cee
-2. <img src="https://i.scdn.co/image/ab67616d00004851539bb112d7c970545dd971e3" alt="Album Cover" width="48" height="48" /> [Where’s Your Stuff Interlude](https://open.spotify.com/track/3WjmqBYVBac2PNZyGaiZnP) — Drake
+1. <img src="https://i.scdn.co/image/ab67616d0000485126279b9515b543980f285a64" alt="Album Cover" width="48" height="48" /> [The Fly who couldn't Fly straight (feat. Tyler, The Creator)](https://open.spotify.com/track/6bCbBTw3mqHWQwhFMMaOOq) — Westside Gunn, Tyler, The Creator
+2. <img src="https://i.scdn.co/image/ab67616d00004851c43b3a9459cadcf6f68867cd" alt="Album Cover" width="48" height="48" /> [The Stellar Ray Theory](https://open.spotify.com/track/51Rs7xpi3HxrqvN1bI0i5w) — Mach-Hommy
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
