@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485126279b9515b543980f285a64" alt="Album Cover" width="48" height="48" /> [The Fly who couldn't Fly straight (feat. Tyler, The Creator)](https://open.spotify.com/track/6bCbBTw3mqHWQwhFMMaOOq) — Westside Gunn, Tyler, The Creator
-2. <img src="https://i.scdn.co/image/ab67616d00004851c43b3a9459cadcf6f68867cd" alt="Album Cover" width="48" height="48" /> [The Stellar Ray Theory](https://open.spotify.com/track/51Rs7xpi3HxrqvN1bI0i5w) — Mach-Hommy
+1. <img src="https://i.scdn.co/image/ab67616d00004851b17e98583acf1c86e3492a57" alt="Album Cover" width="48" height="48" /> [CONDOR](https://open.spotify.com/track/4z6S07pYjpakUlmlCjsVnM) — Action Bronson
+2. <img src="https://i.scdn.co/image/ab67616d000048518dbd3294312fecfef8c70a4d" alt="Album Cover" width="48" height="48" /> [¥ (Yen)](https://open.spotify.com/track/6Vp7S4eymTneimeSuq8SYO) — JPEGMAFIA
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
