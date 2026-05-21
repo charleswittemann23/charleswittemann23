@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851b17e98583acf1c86e3492a57" alt="Album Cover" width="48" height="48" /> [SIMONE](https://open.spotify.com/track/0FXFDiCnTzSU8iLW0ICtFD) — Action Bronson, Clovis Ochin
-2. <img src="https://i.scdn.co/image/ab67616d00004851b17e98583acf1c86e3492a57" alt="Album Cover" width="48" height="48" /> [CHUTNEY](https://open.spotify.com/track/48hjlyczPyqzyncfQTfstD) — Action Bronson
+1. <img src="https://i.scdn.co/image/ab67616d0000485173fe8f78133608dee4f3a5bd" alt="Album Cover" width="48" height="48" /> [投影の芸術](https://open.spotify.com/track/3zV8BUkLyVvahUQpKKsM2I) — JPEGMAFIA
+2. <img src="https://i.scdn.co/image/ab67616d000048519373fd4519c05e4a7538a337" alt="Album Cover" width="48" height="48" /> [War Over Land](https://open.spotify.com/track/6gn1jvInLQ352xxZEjPGz4) — JPEGMAFIA
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
