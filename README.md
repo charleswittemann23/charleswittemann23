@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485173fe8f78133608dee4f3a5bd" alt="Album Cover" width="48" height="48" /> [Bridges on Fire](https://open.spotify.com/track/6gkXRvq7zdF5tupL7wpXXo) — JPEGMAFIA, Buzzy Lee
-2. <img src="https://i.scdn.co/image/ab67616d0000485173fe8f78133608dee4f3a5bd" alt="Album Cover" width="48" height="48" /> [War Over Land](https://open.spotify.com/track/6so7pMCIBIBytE0JhgFBO1) — JPEGMAFIA
+1. <img src="https://i.scdn.co/image/ab67616d0000485173fe8f78133608dee4f3a5bd" alt="Album Cover" width="48" height="48" /> [Chat](https://open.spotify.com/track/2487pc2YTCH1r2Jf4bxNbJ) — JPEGMAFIA
+2. <img src="https://i.scdn.co/image/ab67616d0000485173fe8f78133608dee4f3a5bd" alt="Album Cover" width="48" height="48" /> [內戰](https://open.spotify.com/track/236Sw5jtGz9hu4r1LFwB5b) — JPEGMAFIA
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
