@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485173fe8f78133608dee4f3a5bd" alt="Album Cover" width="48" height="48" /> [Chat](https://open.spotify.com/track/2487pc2YTCH1r2Jf4bxNbJ) — JPEGMAFIA
-2. <img src="https://i.scdn.co/image/ab67616d0000485173fe8f78133608dee4f3a5bd" alt="Album Cover" width="48" height="48" /> [內戰](https://open.spotify.com/track/236Sw5jtGz9hu4r1LFwB5b) — JPEGMAFIA
+1. <img src="https://i.scdn.co/image/ab67616d0000485173fe8f78133608dee4f3a5bd" alt="Album Cover" width="48" height="48" /> [$ (Money)](https://open.spotify.com/track/0gSJ32sIBQQvGhCatvW4nO) — JPEGMAFIA
+2. <img src="https://i.scdn.co/image/ab67616d0000485173fe8f78133608dee4f3a5bd" alt="Album Cover" width="48" height="48" /> [Burning Hammer](https://open.spotify.com/track/5C7TRctHokAGPz1JHAxgx7) — JPEGMAFIA
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
