@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048510b2e016ea7c6d792fa84733e" alt="Album Cover" width="48" height="48" /> [Bebe Kids](https://open.spotify.com/track/2QkmPfYb7XryNAiqq57Gj7) — Zelooperz
-2. <img src="https://i.scdn.co/image/ab67616d0000485144227dddfc025dbe1601d4be" alt="Album Cover" width="48" height="48" /> [Whateva Will Be (feat. Consequence)](https://open.spotify.com/track/3z40poMPmOkS6799tbXGKz) — A Tribe Called Quest, Consequence
+1. <img src="https://i.scdn.co/image/ab67616d0000485164c705f5ce379aa449d7399b" alt="Album Cover" width="48" height="48" /> [Fire and Gold](https://open.spotify.com/track/7LD6QqvgQhrL0EocdA4owo) — The Lemon Twigs
+2. <img src="https://i.scdn.co/image/ab67616d0000485164c705f5ce379aa449d7399b" alt="Album Cover" width="48" height="48" /> [I Just Can't Get Over Losing You](https://open.spotify.com/track/0dRbUy9c86RWdC0JZo5h8r) — The Lemon Twigs
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
