@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485164c705f5ce379aa449d7399b" alt="Album Cover" width="48" height="48" /> [Fire and Gold](https://open.spotify.com/track/7LD6QqvgQhrL0EocdA4owo) — The Lemon Twigs
-2. <img src="https://i.scdn.co/image/ab67616d0000485164c705f5ce379aa449d7399b" alt="Album Cover" width="48" height="48" /> [I Just Can't Get Over Losing You](https://open.spotify.com/track/0dRbUy9c86RWdC0JZo5h8r) — The Lemon Twigs
+1. <img src="https://i.scdn.co/image/ab67616d0000485177619f14cb03e11baf5761d1" alt="Album Cover" width="48" height="48" /> [Us Against The World](https://open.spotify.com/track/0sHSFzglnJ1b9mILzQ7ifJ) — Jungle
+2. <img src="https://i.scdn.co/image/ab67616d0000485158573177b0e8c26a80f731a2" alt="Album Cover" width="48" height="48" /> [Slow Tonight](https://open.spotify.com/track/1CGzOkrxB9bNaMf95Nd3EF) — Tom Misch
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
