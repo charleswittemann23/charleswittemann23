@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485177619f14cb03e11baf5761d1" alt="Album Cover" width="48" height="48" /> [Us Against The World](https://open.spotify.com/track/0sHSFzglnJ1b9mILzQ7ifJ) — Jungle
-2. <img src="https://i.scdn.co/image/ab67616d0000485158573177b0e8c26a80f731a2" alt="Album Cover" width="48" height="48" /> [Slow Tonight](https://open.spotify.com/track/1CGzOkrxB9bNaMf95Nd3EF) — Tom Misch
+1. <img src="https://i.scdn.co/image/ab67616d000048511ea443f7a8512680563ce75d" alt="Album Cover" width="48" height="48" /> [Sticky](https://open.spotify.com/track/3Si0hc3hxlehGK53jYjgVF) — FKA twigs
+2. <img src="https://i.scdn.co/image/ab67616d0000485125191c5b6270c93029d1c896" alt="Album Cover" width="48" height="48" /> [Random Rules](https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS) — Silver Jews
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
