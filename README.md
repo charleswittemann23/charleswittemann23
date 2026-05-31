@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485177619f14cb03e11baf5761d1" alt="Album Cover" width="48" height="48" /> [Don't Play](https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW) — Jungle, Mood Talk
-2. <img src="https://i.scdn.co/image/ab67616d0000485177619f14cb03e11baf5761d1" alt="Album Cover" width="48" height="48" /> [Don't Play](https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW) — Jungle, Mood Talk
+1. <img src="https://i.scdn.co/image/ab67616d00004851553ed078eb7f262332c0efee" alt="Album Cover" width="48" height="48" /> [Return To Bhibo](https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm) — Barry Can't Swim
+2. <img src="https://i.scdn.co/image/ab67616d00004851fd88e27f03f670d4a813bcaf" alt="Album Cover" width="48" height="48" /> [Essex_Honey.mp3](https://open.spotify.com/track/6PMSpoBxswOQOkgWXv0ih3) — Blood Orange
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
