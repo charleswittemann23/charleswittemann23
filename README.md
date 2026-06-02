@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab6742d3000052b7a1fe2c1920a03ef572ca6578" alt="Album Cover" width="48" height="48" /> [Crashing Through](https://open.spotify.com/track/2C10Pw6ccAbMJLUQJVDG2C) — Friko
-2. <img src="https://i.scdn.co/image/ab6742d3000052b74ed910e9e3bb9bf4b869f2ab" alt="Album Cover" width="48" height="48" /> [Where We've Been](https://open.spotify.com/track/6NowyvBNiF3nYc0SXMdA2v) — Friko
+1. <img src="https://i.scdn.co/image/ab67616d00004851c0588d9dcd8bd9e7a7845844" alt="Album Cover" width="48" height="48" /> [Introit](https://open.spotify.com/track/237EDlkjHoVAfG1FEtV0R2) — Boards of Canada
+2. <img src="https://i.scdn.co/image/ab67616d00004851e1bf14e03942d33648b20c53" alt="Album Cover" width="48" height="48" /> [Margery, My First Car](https://open.spotify.com/track/3ms2fzQTIbSdbLYvcnXaVc) — Vulfpeck, Christine Hucal
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
