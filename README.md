@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851c0588d9dcd8bd9e7a7845844" alt="Album Cover" width="48" height="48" /> [Prophecy At 1420 MHz](https://open.spotify.com/track/4CpyZQzwxCzQPiUTvlOBrn) — Boards of Canada
-2. <img src="https://i.scdn.co/image/ab67616d00004851c0588d9dcd8bd9e7a7845844" alt="Album Cover" width="48" height="48" /> [Prophecy At 1420 MHz](https://open.spotify.com/track/4CpyZQzwxCzQPiUTvlOBrn) — Boards of Canada
+1. <img src="https://i.scdn.co/image/ab67616d00004851ff6be728feb92c083dea5df7" alt="Album Cover" width="48" height="48" /> [The Others](https://open.spotify.com/track/05jVZaGtciivy6SsqgdR0r) — Way Dynamic
+2. <img src="https://i.scdn.co/image/ab67616d00004851ff6be728feb92c083dea5df7" alt="Album Cover" width="48" height="48" /> [My Visit (To Hell)](https://open.spotify.com/track/5daiL7ZdJucc9qg3ejRlal) — Way Dynamic
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
