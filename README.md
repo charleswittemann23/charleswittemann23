@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851ff6be728feb92c083dea5df7" alt="Album Cover" width="48" height="48" /> [The Others](https://open.spotify.com/track/05jVZaGtciivy6SsqgdR0r) — Way Dynamic
-2. <img src="https://i.scdn.co/image/ab67616d00004851ff6be728feb92c083dea5df7" alt="Album Cover" width="48" height="48" /> [My Visit (To Hell)](https://open.spotify.com/track/5daiL7ZdJucc9qg3ejRlal) — Way Dynamic
+1. <img src="https://i.scdn.co/image/ab67616d0000485180be4fde71756a73f5ab8dfc" alt="Album Cover" width="48" height="48" /> [Moth Song](https://open.spotify.com/track/3cYu5LhSV5Bxi8DLsOrXEj) — Folk Bitch Trio
+2. <img src="https://i.scdn.co/image/ab67616d0000485180be4fde71756a73f5ab8dfc" alt="Album Cover" width="48" height="48" /> [The Actor](https://open.spotify.com/track/4LtcR3gIVqoNDTf1KyTxdu) — Folk Bitch Trio
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
