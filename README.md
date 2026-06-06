@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485180be4fde71756a73f5ab8dfc" alt="Album Cover" width="48" height="48" /> [Moth Song](https://open.spotify.com/track/3cYu5LhSV5Bxi8DLsOrXEj) — Folk Bitch Trio
-2. <img src="https://i.scdn.co/image/ab67616d0000485180be4fde71756a73f5ab8dfc" alt="Album Cover" width="48" height="48" /> [The Actor](https://open.spotify.com/track/4LtcR3gIVqoNDTf1KyTxdu) — Folk Bitch Trio
+1. <img src="https://i.scdn.co/image/ab67616d00004851fdc6a225acb4b430e7fcedb8" alt="Album Cover" width="48" height="48" /> [Nothing Could Tear Us Apart](https://open.spotify.com/track/6TuM0o2Kcx22MsxfSs4qeS) — Emma Louise
+2. <img src="https://i.scdn.co/image/ab67616d00004851fdc6a225acb4b430e7fcedb8" alt="Album Cover" width="48" height="48" /> [Beggar](https://open.spotify.com/track/4mgDSlOSYEYgDLtaIx1v5z) — Emma Louise
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
