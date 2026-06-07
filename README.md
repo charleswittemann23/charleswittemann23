@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851fdc6a225acb4b430e7fcedb8" alt="Album Cover" width="48" height="48" /> [Nothing Could Tear Us Apart](https://open.spotify.com/track/6TuM0o2Kcx22MsxfSs4qeS) — Emma Louise
-2. <img src="https://i.scdn.co/image/ab67616d00004851fdc6a225acb4b430e7fcedb8" alt="Album Cover" width="48" height="48" /> [Beggar](https://open.spotify.com/track/4mgDSlOSYEYgDLtaIx1v5z) — Emma Louise
+1. <img src="https://i.scdn.co/image/ab67616d00004851ee06e177537d2e49fa2902eb" alt="Album Cover" width="48" height="48" /> [Here I Am](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f) — The Hellp
+2. <img src="https://i.scdn.co/image/ab67616d000048515d6505356d39c9ec421d489b" alt="Album Cover" width="48" height="48" /> [Pozole](https://open.spotify.com/track/5kXTARsaWzaOFF0L5OTbaK) — Thundercat
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
