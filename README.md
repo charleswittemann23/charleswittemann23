@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851516b540fe2ff881fdc36d7f3" alt="Album Cover" width="48" height="48" /> [SS26](https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH) — Charli xcx
-2. <img src="https://i.scdn.co/image/ab67616d00004851b89878a9b4cf4b7b71625711" alt="Album Cover" width="48" height="48" /> [Rewind](https://open.spotify.com/track/5dO7SoTU75M2UVVmPKx1kv) — feeble little horse
+1. <img src="https://i.scdn.co/image/ab67616d00004851cab898cdda3ee7d1e9b25646" alt="Album Cover" width="48" height="48" /> [Lovefield](https://open.spotify.com/track/6rIsZ4WR4aENaUXOcLEfR0) — underscores
+2. <img src="https://i.scdn.co/image/ab67616d0000485166eb2130827a7c52b5928d53" alt="Album Cover" width="48" height="48" /> [Alice](https://open.spotify.com/track/1kO47cRVxFI0E7E01dmdLI) — Friko
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
