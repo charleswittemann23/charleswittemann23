@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851be1cdc30c83c5822adac15a9" alt="Album Cover" width="48" height="48" /> [Charon's Obol](https://open.spotify.com/track/1PUUoTMv65Crdi3FamDVst) — Mitski
-2. <img src="https://i.scdn.co/image/ab67616d00004851be1cdc30c83c5822adac15a9" alt="Album Cover" width="48" height="48" /> [Rules](https://open.spotify.com/track/1sXoiYyirQoagTRjVBXvCt) — Mitski
+1. <img src="https://i.scdn.co/image/ab67616d00004851a0481274990e53f9e4107025" alt="Album Cover" width="48" height="48" /> [Finn Balor](https://open.spotify.com/track/2EzmPqm7eeD1ihF34ecFIO) — Westside Gunn
+2. <img src="https://i.scdn.co/image/ab67616d00004851f833fe7b50fa9b2d9427e2c0" alt="Album Cover" width="48" height="48" /> [The Cow](https://open.spotify.com/track/7ojpu2rzfcikZlU7E0S7AP) — Westside Gunn
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
