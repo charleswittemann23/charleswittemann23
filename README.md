@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851a0481274990e53f9e4107025" alt="Album Cover" width="48" height="48" /> [Finn Balor](https://open.spotify.com/track/2EzmPqm7eeD1ihF34ecFIO) — Westside Gunn
-2. <img src="https://i.scdn.co/image/ab67616d00004851f833fe7b50fa9b2d9427e2c0" alt="Album Cover" width="48" height="48" /> [The Cow](https://open.spotify.com/track/7ojpu2rzfcikZlU7E0S7AP) — Westside Gunn
+1. <img src="https://i.scdn.co/image/ab67616d00004851ff6be728feb92c083dea5df7" alt="Album Cover" width="48" height="48" /> [My Visit (To Hell)](https://open.spotify.com/track/5daiL7ZdJucc9qg3ejRlal) — Way Dynamic
+2. <img src="https://i.scdn.co/image/ab67616d0000485166eb2130827a7c52b5928d53" alt="Album Cover" width="48" height="48" /> [Still Around](https://open.spotify.com/track/6JeIv2YPBPPmWsr8kHGMFn) — Friko
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
