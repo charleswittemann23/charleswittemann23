@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048514864b69b7aff79e082e62233" alt="Album Cover" width="48" height="48" /> [GEMINI SEASON](https://open.spotify.com/track/46qZ2dq0jsXHtwsLaI9tl1) — Kanye West, Ye
-2. <img src="https://i.scdn.co/image/ab67616d00004851e6e45cd59c23209cdb60fb9a" alt="Album Cover" width="48" height="48" /> [thumbs](https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS) — jigitz, Lamb
+1. <img src="https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d" alt="Album Cover" width="48" height="48" /> [PUNCH DRUNK](https://open.spotify.com/track/4bWZz15GR1EE8E8x23rDWV) — Kanye West, Ye
+2. <img src="https://i.scdn.co/image/ab67616d000048514864b69b7aff79e082e62233" alt="Album Cover" width="48" height="48" /> [GEMINI SEASON](https://open.spotify.com/track/46qZ2dq0jsXHtwsLaI9tl1) — Kanye West, Ye
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
