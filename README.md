@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851bf26b3f697a7d4a039a6e3a9" alt="Album Cover" width="48" height="48" /> [Uno II](https://open.spotify.com/track/4GCXxLQnqf6pP6SI7ljbZV) — Viagra Boys
-2. <img src="https://i.scdn.co/image/ab67616d00004851bf26b3f697a7d4a039a6e3a9" alt="Album Cover" width="48" height="48" /> [The Bog Body](https://open.spotify.com/track/70ivy0IJQyLJTMqIqfRl27) — Viagra Boys
+1. <img src="https://i.scdn.co/image/ab67616d00004851d61bcbfe780790ca9f4c5dfe" alt="Album Cover" width="48" height="48" /> [GO HARD](https://open.spotify.com/track/3XbJL25pekZFFv1pd8ytZe) — Joey Valence & Brae
+2. <img src="https://i.scdn.co/image/ab67616d00004851d61bcbfe780790ca9f4c5dfe" alt="Album Cover" width="48" height="48" /> [MYSELF](https://open.spotify.com/track/4FkdvRVrTBi3LLszmtq0Gv) — Joey Valence & Brae
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
