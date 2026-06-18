@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851d61bcbfe780790ca9f4c5dfe" alt="Album Cover" width="48" height="48" /> [GO HARD](https://open.spotify.com/track/3XbJL25pekZFFv1pd8ytZe) — Joey Valence & Brae
-2. <img src="https://i.scdn.co/image/ab67616d00004851d61bcbfe780790ca9f4c5dfe" alt="Album Cover" width="48" height="48" /> [MYSELF](https://open.spotify.com/track/4FkdvRVrTBi3LLszmtq0Gv) — Joey Valence & Brae
+1. <img src="https://i.scdn.co/image/ab67616d00004851539bb112d7c970545dd971e3" alt="Album Cover" width="48" height="48" /> [Cheetah Print (feat. Sexyy Red)](https://open.spotify.com/track/1AFW3QBDjBmb4EL9gyiYhe) — Drake, Sexyy Red
+2. <img src="https://i.scdn.co/image/ab67616d00004851f18fd5956c81ea0be46685c1" alt="Album Cover" width="48" height="48" /> [ADAM PAGE](https://open.spotify.com/track/2sMQq4Oj3qejr08JlirvyG) — Westside Gunn, Stove God Cooks
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
