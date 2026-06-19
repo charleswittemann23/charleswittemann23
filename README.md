@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851539bb112d7c970545dd971e3" alt="Album Cover" width="48" height="48" /> [Cheetah Print (feat. Sexyy Red)](https://open.spotify.com/track/1AFW3QBDjBmb4EL9gyiYhe) — Drake, Sexyy Red
-2. <img src="https://i.scdn.co/image/ab67616d00004851f18fd5956c81ea0be46685c1" alt="Album Cover" width="48" height="48" /> [ADAM PAGE](https://open.spotify.com/track/2sMQq4Oj3qejr08JlirvyG) — Westside Gunn, Stove God Cooks
+1. <img src="https://i.scdn.co/image/ab67616d000048517c96228df584187e6bdc351e" alt="Album Cover" width="48" height="48" /> [Skywalker](https://open.spotify.com/track/3kv3dX8o6i1UUchHuYiKUo) — Fimiguerrero, fakemink
+2. <img src="https://i.scdn.co/image/ab67616d000048510fcdf2bc509dc22755a1657d" alt="Album Cover" width="48" height="48" /> [IF SHE LAUGHS](https://open.spotify.com/track/1csodJQ7YV3fnvEXobgLI9) — _BY.ALEXANDER
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
