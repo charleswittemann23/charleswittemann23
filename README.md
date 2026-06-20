@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048517c96228df584187e6bdc351e" alt="Album Cover" width="48" height="48" /> [Skywalker](https://open.spotify.com/track/3kv3dX8o6i1UUchHuYiKUo) — Fimiguerrero, fakemink
-2. <img src="https://i.scdn.co/image/ab67616d000048510fcdf2bc509dc22755a1657d" alt="Album Cover" width="48" height="48" /> [IF SHE LAUGHS](https://open.spotify.com/track/1csodJQ7YV3fnvEXobgLI9) — _BY.ALEXANDER
+1. <img src="https://i.scdn.co/image/ab67616d00004851305780793d5f230df33937b6" alt="Album Cover" width="48" height="48" /> [Love Is](https://open.spotify.com/track/4KU1tXxB4PiiVDhWQvA0Gi) — Dove Ellis
+2. <img src="https://i.scdn.co/image/ab67616d00004851b0d8ae626c03195293535af1" alt="Album Cover" width="48" height="48" /> [Outta Body](https://open.spotify.com/track/3TK4C0v7QQ0rQj6neJm37X) — Buck Meek
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
