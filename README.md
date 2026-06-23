@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851fbf31b88d570149278959081" alt="Album Cover" width="48" height="48" /> [Lovelovelove](https://open.spotify.com/track/4zT2e0Y4whBSvuKzJaChbd) — Flea
-2. <img src="https://i.scdn.co/image/ab67616d00004851305780793d5f230df33937b6" alt="Album Cover" width="48" height="48" /> [Pale Song](https://open.spotify.com/track/4eaWT26MQU3xfjni9MySYF) — Dove Ellis
+1. <img src="https://i.scdn.co/image/ab67616d000048512da17f0e1d1ff1a6e9ccc424" alt="Album Cover" width="48" height="48" /> [Chicago](https://open.spotify.com/track/6K2ABKfB7I8aops2Bpg5Cf) — Earl Sweatshirt, SURF GANG
+2. <img src="https://i.scdn.co/image/ab67616d000048512873488c95e689c6622ac4e4" alt="Album Cover" width="48" height="48" /> [City, Sos, & Me](https://open.spotify.com/track/5rYpgXLsfLnChky8DqhKWk) — Westside Gunn
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
