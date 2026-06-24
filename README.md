@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048512da17f0e1d1ff1a6e9ccc424" alt="Album Cover" width="48" height="48" /> [Chicago](https://open.spotify.com/track/6K2ABKfB7I8aops2Bpg5Cf) — Earl Sweatshirt, SURF GANG
-2. <img src="https://i.scdn.co/image/ab67616d000048512873488c95e689c6622ac4e4" alt="Album Cover" width="48" height="48" /> [City, Sos, & Me](https://open.spotify.com/track/5rYpgXLsfLnChky8DqhKWk) — Westside Gunn
+1. <img src="https://i.scdn.co/image/ab67616d00004851b64e331d3c042fbe2b892af3" alt="Album Cover" width="48" height="48" /> [Love + War](https://open.spotify.com/track/7vySMZ4GBUi8oxIOAypb03) — B0YG1RL, NOVAGANG
+2. <img src="https://i.scdn.co/image/ab67616d00004851d7181c8d7f4adbf3b3b959c6" alt="Album Cover" width="48" height="48" /> [no te vayas](https://open.spotify.com/track/2CAPU3V8Gfebanme8D4AJa) — Sparklmami
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
