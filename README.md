@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851b64e331d3c042fbe2b892af3" alt="Album Cover" width="48" height="48" /> [Love + War](https://open.spotify.com/track/7vySMZ4GBUi8oxIOAypb03) — B0YG1RL, NOVAGANG
-2. <img src="https://i.scdn.co/image/ab67616d00004851d7181c8d7f4adbf3b3b959c6" alt="Album Cover" width="48" height="48" /> [no te vayas](https://open.spotify.com/track/2CAPU3V8Gfebanme8D4AJa) — Sparklmami
+1. <img src="https://i.scdn.co/image/ab67616d000048519d4202cfd6fd1ef1af2c993d" alt="Album Cover" width="48" height="48" /> [Holy Hell](https://open.spotify.com/track/0Cz964b8LrftAEoactDCC9) — Racing Mount Pleasant
+2. <img src="https://i.scdn.co/image/ab67616d00004851cef415fe0459b9c9ece78bae" alt="Album Cover" width="48" height="48" /> [Try Try Try](https://open.spotify.com/track/2vq8ejgEUFz0ja9x8ewCIo) — Hovvdy
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
