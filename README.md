@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048519d4202cfd6fd1ef1af2c993d" alt="Album Cover" width="48" height="48" /> [Holy Hell](https://open.spotify.com/track/0Cz964b8LrftAEoactDCC9) — Racing Mount Pleasant
-2. <img src="https://i.scdn.co/image/ab67616d00004851cef415fe0459b9c9ece78bae" alt="Album Cover" width="48" height="48" /> [Try Try Try](https://open.spotify.com/track/2vq8ejgEUFz0ja9x8ewCIo) — Hovvdy
+1. <img src="https://i.scdn.co/image/ab67616d00004851309ae95ef92cb8b068e7ce52" alt="Album Cover" width="48" height="48" /> [My Ideal](https://open.spotify.com/track/6akL58jOFRUs3DdoF1tUP0) — Chet Baker
+2. <img src="https://i.scdn.co/image/ab67616d00004851309ae95ef92cb8b068e7ce52" alt="Album Cover" width="48" height="48" /> [Like Someone In Love - Vocal Version](https://open.spotify.com/track/7HqMu6Oa7jLQVDUuWiy6v2) — Chet Baker
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
