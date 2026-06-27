@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851309ae95ef92cb8b068e7ce52" alt="Album Cover" width="48" height="48" /> [My Ideal](https://open.spotify.com/track/6akL58jOFRUs3DdoF1tUP0) — Chet Baker
-2. <img src="https://i.scdn.co/image/ab67616d00004851309ae95ef92cb8b068e7ce52" alt="Album Cover" width="48" height="48" /> [Like Someone In Love - Vocal Version](https://open.spotify.com/track/7HqMu6Oa7jLQVDUuWiy6v2) — Chet Baker
+1. <img src="https://i.scdn.co/image/ab67616d00004851b7bc469a85354ff1ae7a1386" alt="Album Cover" width="48" height="48" /> [Rock Music](https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b) — Charli xcx
+2. <img src="https://i.scdn.co/image/ab67616d000048517aa38b76a2c915ed73ca15c6" alt="Album Cover" width="48" height="48" /> [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) — Charli xcx
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
