@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851d61bcbfe780790ca9f4c5dfe" alt="Album Cover" width="48" height="48" /> [IS THIS LOVE](https://open.spotify.com/track/4SrhXzAN9P1LJlkvs91PKe) — Joey Valence & Brae
-2. <img src="https://i.scdn.co/image/ab67616d000048517a9109a9eea979b562879518" alt="Album Cover" width="48" height="48" /> [All Night All Day](https://open.spotify.com/track/3gVrDEjo68KtplLuZuATTI) — Big Thief
+1. <img src="https://i.scdn.co/image/ab67616d000048517aa38b76a2c915ed73ca15c6" alt="Album Cover" width="48" height="48" /> [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) — Charli xcx
+2. <img src="https://i.scdn.co/image/ab67616d000048511ea443f7a8512680563ce75d" alt="Album Cover" width="48" height="48" /> [Girl Feels Good](https://open.spotify.com/track/536rHxlVFXGJBO2xWE7HsV) — FKA twigs
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
