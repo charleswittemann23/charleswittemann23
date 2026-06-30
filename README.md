@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048517aa38b76a2c915ed73ca15c6" alt="Album Cover" width="48" height="48" /> [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) — Charli xcx
-2. <img src="https://i.scdn.co/image/ab67616d000048511ea443f7a8512680563ce75d" alt="Album Cover" width="48" height="48" /> [Girl Feels Good](https://open.spotify.com/track/536rHxlVFXGJBO2xWE7HsV) — FKA twigs
+1. <img src="https://i.scdn.co/image/ab67616d0000485178b9a524f5f90f84c5abffbf" alt="Album Cover" width="48" height="48" /> [Forced & Forced & Forced](https://open.spotify.com/track/1O0OwGO2YysR8JcBeEmjq1) — Bill Orcutt, Mabe Fratti
+2. <img src="https://i.scdn.co/image/ab67616d00004851978da07b260f80bcc4ba02a4" alt="Album Cover" width="48" height="48" /> [Gameun Deut](https://open.spotify.com/track/5Na2an7mf6nKd58abdQqnw) — Mid-Air Thief
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
