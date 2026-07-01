@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485178b9a524f5f90f84c5abffbf" alt="Album Cover" width="48" height="48" /> [Forced & Forced & Forced](https://open.spotify.com/track/1O0OwGO2YysR8JcBeEmjq1) — Bill Orcutt, Mabe Fratti
-2. <img src="https://i.scdn.co/image/ab67616d00004851978da07b260f80bcc4ba02a4" alt="Album Cover" width="48" height="48" /> [Gameun Deut](https://open.spotify.com/track/5Na2an7mf6nKd58abdQqnw) — Mid-Air Thief
+1. <img src="https://i.scdn.co/image/ab67616d000048511733a57968880caab654ce27" alt="Album Cover" width="48" height="48" /> [babygirl](https://open.spotify.com/track/4aayS1uReTPeEVCOVTPm6n) — JPEGMAFIA
+2. <img src="https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d" alt="Album Cover" width="48" height="48" /> [ALL THE LOVE (feat. Andre Troutman)](https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa) — Kanye West, Ye, Andre Troutman
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
