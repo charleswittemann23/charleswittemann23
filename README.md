@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048515ab1239905a92929fff70db5" alt="Album Cover" width="48" height="48" /> [I Still Hear You](https://open.spotify.com/track/0a0ceAVCC5bxDbmncbvQDZ) — Adrianne Lenker, Buck Meek
-2. <img src="https://i.scdn.co/image/ab67616d000048515ab1239905a92929fff70db5" alt="Album Cover" width="48" height="48" /> [Indiana](https://open.spotify.com/track/1EUYnTI3P1DzoeccZ0IHdD) — Adrianne Lenker, Buck Meek
+1. <img src="https://i.scdn.co/image/ab67616d00004851e6b88d3e4886ae3a17621c53" alt="Album Cover" width="48" height="48" /> [NEVER ENOUGH](https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6) — Turnstile
+2. <img src="https://i.scdn.co/image/ab67616d00004851ae9e3266fc859c4b2266b3b3" alt="Album Cover" width="48" height="48" /> [THAT GUY](https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG) — Tyler, The Creator
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
