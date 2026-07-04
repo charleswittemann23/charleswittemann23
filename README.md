@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851e6b88d3e4886ae3a17621c53" alt="Album Cover" width="48" height="48" /> [NEVER ENOUGH](https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6) — Turnstile
-2. <img src="https://i.scdn.co/image/ab67616d00004851ae9e3266fc859c4b2266b3b3" alt="Album Cover" width="48" height="48" /> [THAT GUY](https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG) — Tyler, The Creator
+1. <img src="https://i.scdn.co/image/ab67616d00004851073aecd10185e5a5fd88eb90" alt="Album Cover" width="48" height="48" /> [Naima - Mono](https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU) — John Coltrane
+2. <img src="https://i.scdn.co/image/ab67616d000048510ebc17239b6b18ba88cfb8ca" alt="Album Cover" width="48" height="48" /> [Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)](https://open.spotify.com/track/6dRx7OUXfvosnXG3g9lWGi) — Miles Davis, John Coltrane, Cannonball Adderley, Bill Evans
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
