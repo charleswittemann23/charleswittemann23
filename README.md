@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851073aecd10185e5a5fd88eb90" alt="Album Cover" width="48" height="48" /> [Naima - Mono](https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU) — John Coltrane
-2. <img src="https://i.scdn.co/image/ab67616d000048510ebc17239b6b18ba88cfb8ca" alt="Album Cover" width="48" height="48" /> [Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)](https://open.spotify.com/track/6dRx7OUXfvosnXG3g9lWGi) — Miles Davis, John Coltrane, Cannonball Adderley, Bill Evans
+1. <img src="https://i.scdn.co/image/ab67616d000048512062d15bea2602a8a2cfe8b7" alt="Album Cover" width="48" height="48" /> [Hazey Jane II](https://open.spotify.com/track/7lDnXMcGYeGnku3H84JlQh) — Nick Drake
+2. <img src="https://i.scdn.co/image/ab67616d000048518af65a82cdd9104f19e4047b" alt="Album Cover" width="48" height="48" /> [I See Myself](https://open.spotify.com/track/4gFFHAj5iwUEHwPpjZTdi5) — Geese
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
