@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048512062d15bea2602a8a2cfe8b7" alt="Album Cover" width="48" height="48" /> [Hazey Jane II](https://open.spotify.com/track/7lDnXMcGYeGnku3H84JlQh) — Nick Drake
-2. <img src="https://i.scdn.co/image/ab67616d000048518af65a82cdd9104f19e4047b" alt="Album Cover" width="48" height="48" /> [I See Myself](https://open.spotify.com/track/4gFFHAj5iwUEHwPpjZTdi5) — Geese
+1. <img src="https://i.scdn.co/image/ab67616d00004851eb5b1b39c6c992b79b27651e" alt="Album Cover" width="48" height="48" /> [Medley: Mode D-Trio and Group Dancers/Mode E- Single solos and Group Dance/ModeF-Group and Solo Dance](https://open.spotify.com/track/6La6a40pMKEoxtpmruuzaP) — Charles Mingus
+2. <img src="https://i.scdn.co/image/ab67616d000048517c0f6f81eefedd8b3b69701e" alt="Album Cover" width="48" height="48" /> [Lonely Street](https://open.spotify.com/track/6h7M0ijLU7eyEp2ul8BAV6) — Count Basie
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
