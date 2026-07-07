@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851eb5b1b39c6c992b79b27651e" alt="Album Cover" width="48" height="48" /> [Medley: Mode D-Trio and Group Dancers/Mode E- Single solos and Group Dance/ModeF-Group and Solo Dance](https://open.spotify.com/track/6La6a40pMKEoxtpmruuzaP) — Charles Mingus
-2. <img src="https://i.scdn.co/image/ab67616d000048517c0f6f81eefedd8b3b69701e" alt="Album Cover" width="48" height="48" /> [Lonely Street](https://open.spotify.com/track/6h7M0ijLU7eyEp2ul8BAV6) — Count Basie
+1. <img src="https://i.scdn.co/image/ab67616d00004851bf26b3f697a7d4a039a6e3a9" alt="Album Cover" width="48" height="48" /> [You N33d Me](https://open.spotify.com/track/1xYF92gHczGqHPHaMfMnOl) — Viagra Boys
+2. <img src="https://i.scdn.co/image/ab67616d00004851bf26b3f697a7d4a039a6e3a9" alt="Album Cover" width="48" height="48" /> [Store Policy](https://open.spotify.com/track/5zDAxTfF1DrCsqXQUpZsg0) — Viagra Boys
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
