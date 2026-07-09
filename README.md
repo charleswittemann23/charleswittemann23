@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048518569040f689c3249eeb04345" alt="Album Cover" width="48" height="48" /> [TAKE A CHANCE (feat. Anderson .Paak)](https://open.spotify.com/track/2NZUXUA8gGmXXw5MayF63k) — DOMi & JD BECK, Anderson .Paak
-2. <img src="https://i.scdn.co/image/ab67616d000048518569040f689c3249eeb04345" alt="Album Cover" width="48" height="48" /> [DUKE](https://open.spotify.com/track/15OktntOilop8mlbxpu3FU) — DOMi & JD BECK
+1. <img src="https://i.scdn.co/image/ab67616d000048513b9b742c5c525af6e6767d87" alt="Album Cover" width="48" height="48" /> [ฅ^•ﻌ•^ฅ](https://open.spotify.com/track/0qubDCNLgEKECDhRSq7Q38) — Ninajirachi
+2. <img src="https://i.scdn.co/image/ab67616d000048513b9b742c5c525af6e6767d87" alt="Album Cover" width="48" height="48" /> [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) — Ninajirachi
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
