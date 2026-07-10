@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048513b9b742c5c525af6e6767d87" alt="Album Cover" width="48" height="48" /> [ฅ^•ﻌ•^ฅ](https://open.spotify.com/track/0qubDCNLgEKECDhRSq7Q38) — Ninajirachi
-2. <img src="https://i.scdn.co/image/ab67616d000048513b9b742c5c525af6e6767d87" alt="Album Cover" width="48" height="48" /> [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) — Ninajirachi
+1. <img src="https://i.scdn.co/image/ab67616d00004851f9aa3bf30ee1ed782fb99499" alt="Album Cover" width="48" height="48" /> [Pin Up Boys](https://open.spotify.com/track/7yOJ44Mql1jwHRUjziYZYo) — Westside Cowboy
+2. <img src="https://i.scdn.co/image/ab67616d000048516692913a50453073957e1bfa" alt="Album Cover" width="48" height="48" /> [Boss](https://open.spotify.com/track/4HV8ZW9Gh4lkQABi22z87m) — Chanel Beads
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
