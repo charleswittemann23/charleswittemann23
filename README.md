@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851f9aa3bf30ee1ed782fb99499" alt="Album Cover" width="48" height="48" /> [Pin Up Boys](https://open.spotify.com/track/7yOJ44Mql1jwHRUjziYZYo) — Westside Cowboy
-2. <img src="https://i.scdn.co/image/ab67616d000048516692913a50453073957e1bfa" alt="Album Cover" width="48" height="48" /> [Boss](https://open.spotify.com/track/4HV8ZW9Gh4lkQABi22z87m) — Chanel Beads
+1. <img src="https://i.scdn.co/image/ab67616d000048517d419ac975423c069995c7bb" alt="Album Cover" width="48" height="48" /> [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) — The Doobie Brothers
+2. <img src="https://i.scdn.co/image/ab67616d00004851bf6bcf8620b29052a85c60fd" alt="Album Cover" width="48" height="48" /> [Livin' Thing](https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp) — Electric Light Orchestra
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
