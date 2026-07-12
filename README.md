@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048517d419ac975423c069995c7bb" alt="Album Cover" width="48" height="48" /> [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) — The Doobie Brothers
-2. <img src="https://i.scdn.co/image/ab67616d00004851bf6bcf8620b29052a85c60fd" alt="Album Cover" width="48" height="48" /> [Livin' Thing](https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp) — Electric Light Orchestra
+1. <img src="https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d" alt="Album Cover" width="48" height="48" /> [PUNCH DRUNK](https://open.spotify.com/track/4bWZz15GR1EE8E8x23rDWV) — Kanye West, Ye
+2. <img src="https://i.scdn.co/image/ab67616d00004851ee0d0dce888c6c8a70db6e8b" alt="Album Cover" width="48" height="48" /> [Dance Yrself Clean](https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ) — LCD Soundsystem
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
