@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851814b3b56864bb7d9ebfcdbf2" alt="Album Cover" width="48" height="48" /> [Babylon Bis (feat. Stove God Cooks & Keisha Plum)](https://open.spotify.com/track/76v3lw4YQfXljznBwLpoO1) — Westside Gunn, Stove God Cooks, Keisha Plum
-2. <img src="https://i.scdn.co/image/ab67616d00004851814b3b56864bb7d9ebfcdbf2" alt="Album Cover" width="48" height="48" /> [Chloe](https://open.spotify.com/track/46emgqllTCiIxq7AOM2wC8) — Westside Gunn, Ty Dolla $ign
+1. <img src="https://i.scdn.co/image/ab67616d000048517aa38b76a2c915ed73ca15c6" alt="Album Cover" width="48" height="48" /> [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) — Charli xcx
+2. <img src="https://i.scdn.co/image/ab67616d00004851b7bc469a85354ff1ae7a1386" alt="Album Cover" width="48" height="48" /> [Rock Music](https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b) — Charli xcx
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
