@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38" alt="Album Cover" width="48" height="48" /> [Basketball Shoes](https://open.spotify.com/track/4ShVovnLIlObG43vwaCRkJ) — Black Country, New Road
-2. <img src="https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38" alt="Album Cover" width="48" height="48" /> [Snow Globes](https://open.spotify.com/track/0hpDqky5jV8MQqdvMWFv7K) — Black Country, New Road
+1. <img src="https://i.scdn.co/image/ab67616d0000485107030364a8941b26a8bd3467" alt="Album Cover" width="48" height="48" /> [IF SHE LAUGHS](https://open.spotify.com/track/4NRRQUx8hpVMTAVTJCcxVK) — _BY.ALEXANDER
+2. <img src="https://i.scdn.co/image/ab67616d0000485107030364a8941b26a8bd3467" alt="Album Cover" width="48" height="48" /> [HIT ME FEAT JENNA PASCALE](https://open.spotify.com/track/4D2sDPwaI59myuntoNvsuA) — _BY.ALEXANDER, Jenna Pascale
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
