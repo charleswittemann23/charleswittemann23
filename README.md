@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485107030364a8941b26a8bd3467" alt="Album Cover" width="48" height="48" /> [IF SHE LAUGHS](https://open.spotify.com/track/4NRRQUx8hpVMTAVTJCcxVK) — _BY.ALEXANDER
-2. <img src="https://i.scdn.co/image/ab67616d0000485107030364a8941b26a8bd3467" alt="Album Cover" width="48" height="48" /> [HIT ME FEAT JENNA PASCALE](https://open.spotify.com/track/4D2sDPwaI59myuntoNvsuA) — _BY.ALEXANDER, Jenna Pascale
+1. <img src="https://i.scdn.co/image/ab67616d000048517aa38b76a2c915ed73ca15c6" alt="Album Cover" width="48" height="48" /> [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) — Charli xcx
+2. <img src="https://i.scdn.co/image/ab67616d00004851f88b43d15fd14e9525338b59" alt="Album Cover" width="48" height="48" /> [B2b](https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI) — Charli xcx
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
