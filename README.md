@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048517aa38b76a2c915ed73ca15c6" alt="Album Cover" width="48" height="48" /> [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) — Charli xcx
-2. <img src="https://i.scdn.co/image/ab67616d00004851f88b43d15fd14e9525338b59" alt="Album Cover" width="48" height="48" /> [B2b](https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI) — Charli xcx
+1. <img src="https://i.scdn.co/image/ab67616d00004851d7e1c68ed8e464b03095afda" alt="Album Cover" width="48" height="48" /> [20 Min](https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng) — Lil Uzi Vert
+2. <img src="https://i.scdn.co/image/ab67616d0000485122c7417a5b78a7e357d53024" alt="Album Cover" width="48" height="48" /> [No Petty Magic](https://open.spotify.com/track/2x9ZaK2nDLXzd3ElrJfqyf) — Jonah Yano, Helena Deland, Ouri
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
