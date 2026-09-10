@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 🎧 Songs of the Day (Last Updated at: 2026-04-29 17:25:45 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851d7e1c68ed8e464b03095afda" alt="Album Cover" width="48" height="48" /> [20 Min](https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng) — Lil Uzi Vert
-2. <img src="https://i.scdn.co/image/ab67616d0000485122c7417a5b78a7e357d53024" alt="Album Cover" width="48" height="48" /> [No Petty Magic](https://open.spotify.com/track/2x9ZaK2nDLXzd3ElrJfqyf) — Jonah Yano, Helena Deland, Ouri
+1. <img src="https://i.scdn.co/image/ab67616d00004851f8a4d35d872eafbfd0a3b112" alt="Album Cover" width="48" height="48" /> [The Kid With the Crown](https://open.spotify.com/track/6kBDO64MhuMjmEOAaqXeLA) — This Is Lorelei
+2. <img src="https://i.scdn.co/image/ab67616d00004851a0ff27db1be3b541c1c36d09" alt="Album Cover" width="48" height="48" /> [Mostly Patient](https://open.spotify.com/track/4Cv4YQDapsodzG10cG4FaB) — Courtney Barnett
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
