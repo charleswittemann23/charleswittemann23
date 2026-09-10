@@ -62,7 +62,7 @@ function updateReadme(content) {
   console.log('Current timestamp:', timestamp);
   
   const time_sync_ReadMe = newReadme.replace(
-    /(## 🎧 Recently Played\/Songs of the Day \(Last Updated at: )[^\)]*(UTC\))/,
+    /(## 🎧 Songs of the Day \(Last Updated at: )[^\)]*(UTC\))/,
     `$1${timestamp} $2`
   );
 
