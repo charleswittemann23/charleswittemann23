@@ -59,9 +59,12 @@ function updateReadme(content) {
   );
 
   const timestamp = new Date().toISOString().replace('T', ' ').slice(0, 19);
-  console.log(timestamp);
-  const time_sync_ReadMe = newReadme.replace(/(## 🎧 Recently Played\/Songs of the Day \(Last Updated at: )[^\)]*(UTC\))/, `$1${timestamp} $2`)
-
+  console.log('Current timestamp:', timestamp);
+  
+  const time_sync_ReadMe = newReadme.replace(
+    /(## 🎧 Recently Played\/Songs of the Day \(Last Updated at: )[^\)]*(UTC\))/,
+    `$1${timestamp} $2`
+  );
 
   fs.writeFileSync(readmePath, time_sync_ReadMe, 'utf-8');
   console.log('README.md updated successfully.');
