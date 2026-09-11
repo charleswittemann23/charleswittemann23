@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-09-10 20:22:59 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-09-11 18:57:43 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851f8a4d35d872eafbfd0a3b112" alt="Album Cover" width="48" height="48" /> [The Kid With the Crown](https://open.spotify.com/track/6kBDO64MhuMjmEOAaqXeLA) — This Is Lorelei
-2. <img src="https://i.scdn.co/image/ab67616d00004851a0ff27db1be3b541c1c36d09" alt="Album Cover" width="48" height="48" /> [Mostly Patient](https://open.spotify.com/track/4Cv4YQDapsodzG10cG4FaB) — Courtney Barnett
+1. <img src="https://i.scdn.co/image/ab67616d00004851c456875e0df6d8195f4b5545" alt="Album Cover" width="48" height="48" /> [Billy Came Back](https://open.spotify.com/track/0lN4BWaZqamALbP1EX3pDi) — This Is Lorelei
+2. <img src="https://i.scdn.co/image/ab67616d00004851c456875e0df6d8195f4b5545" alt="Album Cover" width="48" height="48" /> [Oh No Now My](https://open.spotify.com/track/7DE2CbAoVkxoUUSJin8si1) — This Is Lorelei
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
