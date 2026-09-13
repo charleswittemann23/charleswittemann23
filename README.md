@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-09-12 18:04:35 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-09-13 18:31:27 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851f8a4d35d872eafbfd0a3b112" alt="Album Cover" width="48" height="48" /> [The Kid With the Crown](https://open.spotify.com/track/6kBDO64MhuMjmEOAaqXeLA) — This Is Lorelei
-2. <img src="https://i.scdn.co/image/ab67616d00004851c510ed25b9359f2888edb57f" alt="Album Cover" width="48" height="48" /> [Drive Slow (feat. Kanye West & GLC)](https://open.spotify.com/track/5iHO0dAm9FmDA017mWdFkB) — Paul Wall, GLC, Kanye West
+1. <img src="https://i.scdn.co/image/ab67616d00004851ea5cea785aab2932281b90a5" alt="Album Cover" width="48" height="48" /> [Blue Lady](https://open.spotify.com/track/1kdp5JKEEHxDmU0VEvKVG9) — Labi Siffre
+2. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Husbands](https://open.spotify.com/track/0xATIfA17cJDb9pYAuw70Y) — Geese
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
