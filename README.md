@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-09-13 18:31:27 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-09-14 20:08:16 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851ea5cea785aab2932281b90a5" alt="Album Cover" width="48" height="48" /> [Blue Lady](https://open.spotify.com/track/1kdp5JKEEHxDmU0VEvKVG9) — Labi Siffre
-2. <img src="https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018" alt="Album Cover" width="48" height="48" /> [Husbands](https://open.spotify.com/track/0xATIfA17cJDb9pYAuw70Y) — Geese
+1. <img src="https://i.scdn.co/image/ab67616d0000485174fafb84589a0c6d55ec6264" alt="Album Cover" width="48" height="48" /> [Home Depot](https://open.spotify.com/track/0GxYdHXtsqSxYGK4magmEr) — Medium Build
+2. <img src="https://i.scdn.co/image/ab67616d0000485174fafb84589a0c6d55ec6264" alt="Album Cover" width="48" height="48" /> [Bird Woman](https://open.spotify.com/track/3SKqJgHDPPpFetw0bPsOcX) — Medium Build
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
