@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-09-14 20:08:16 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-09-15 19:30:31 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485174fafb84589a0c6d55ec6264" alt="Album Cover" width="48" height="48" /> [Home Depot](https://open.spotify.com/track/0GxYdHXtsqSxYGK4magmEr) — Medium Build
-2. <img src="https://i.scdn.co/image/ab67616d0000485174fafb84589a0c6d55ec6264" alt="Album Cover" width="48" height="48" /> [Bird Woman](https://open.spotify.com/track/3SKqJgHDPPpFetw0bPsOcX) — Medium Build
+1. <img src="https://i.scdn.co/image/ab67616d00004851c456875e0df6d8195f4b5545" alt="Album Cover" width="48" height="48" /> [Sailing (Your Baby's Down)](https://open.spotify.com/track/1Y8tFdkUySbsj0Df4r5F1h) — This Is Lorelei
+2. <img src="https://i.scdn.co/image/ab67616d00004851c456875e0df6d8195f4b5545" alt="Album Cover" width="48" height="48" /> [Watching Heaven Fall](https://open.spotify.com/track/2504XYM0mWWPEVMD3XlLje) — This Is Lorelei
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
