@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-09-16 19:21:40 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-09-17 19:31:27 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048511ea443f7a8512680563ce75d" alt="Album Cover" width="48" height="48" /> [Perfect Stranger](https://open.spotify.com/track/2VeCDMFJMPg6S4P2EKRnyX) — FKA twigs
-2. <img src="https://i.scdn.co/image/ab67616d00004851ff6be728feb92c083dea5df7" alt="Album Cover" width="48" height="48" /> [In Review](https://open.spotify.com/track/0s7rqtCcJcdIxOVRUwdXUa) — Way Dynamic
+1. <img src="https://i.scdn.co/image/ab67616d00004851a29bd588f4caf84bd4cd6f8b" alt="Album Cover" width="48" height="48" /> [Euro Step](https://open.spotify.com/track/1Aa4s3YjqCvdgzw1Sd5gOd) — Westside Gunn
+2. <img src="https://i.scdn.co/image/ab67616d00004851a29bd588f4caf84bd4cd6f8b" alt="Album Cover" width="48" height="48" /> [French Toast (feat. Wale & Joyce Wrice)](https://open.spotify.com/track/0RoV9OBxlqxkzFEv6LAm84) — Westside Gunn, Wale, Joyce Wrice
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
