@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-09-17 19:31:27 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-09-18 18:51:29 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851a29bd588f4caf84bd4cd6f8b" alt="Album Cover" width="48" height="48" /> [Euro Step](https://open.spotify.com/track/1Aa4s3YjqCvdgzw1Sd5gOd) — Westside Gunn
-2. <img src="https://i.scdn.co/image/ab67616d00004851a29bd588f4caf84bd4cd6f8b" alt="Album Cover" width="48" height="48" /> [French Toast (feat. Wale & Joyce Wrice)](https://open.spotify.com/track/0RoV9OBxlqxkzFEv6LAm84) — Westside Gunn, Wale, Joyce Wrice
+1. <img src="https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38" alt="Album Cover" width="48" height="48" /> [Basketball Shoes](https://open.spotify.com/track/4ShVovnLIlObG43vwaCRkJ) — Black Country, New Road
+2. <img src="https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38" alt="Album Cover" width="48" height="48" /> [Snow Globes](https://open.spotify.com/track/0hpDqky5jV8MQqdvMWFv7K) — Black Country, New Road
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
