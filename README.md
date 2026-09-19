@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-09-18 18:51:29 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-09-19 18:24:28 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38" alt="Album Cover" width="48" height="48" /> [Basketball Shoes](https://open.spotify.com/track/4ShVovnLIlObG43vwaCRkJ) — Black Country, New Road
-2. <img src="https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38" alt="Album Cover" width="48" height="48" /> [Snow Globes](https://open.spotify.com/track/0hpDqky5jV8MQqdvMWFv7K) — Black Country, New Road
+1. <img src="https://i.scdn.co/image/ab67616d000048512530375a57729aea52060137" alt="Album Cover" width="48" height="48" /> [Soldier of the road (feat. Fleet Foxes)](https://open.spotify.com/track/0J0jKmx1ShJiVUVBDoakrI) — Lizzy McAlpine, Fleet Foxes
+2. <img src="https://i.scdn.co/image/ab67616d000048512530375a57729aea52060137" alt="Album Cover" width="48" height="48" /> [Soldier of the road (feat. Fleet Foxes)](https://open.spotify.com/track/0J0jKmx1ShJiVUVBDoakrI) — Lizzy McAlpine, Fleet Foxes
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
