@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-09-19 18:24:28 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-09-20 18:28:22 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048512530375a57729aea52060137" alt="Album Cover" width="48" height="48" /> [Soldier of the road (feat. Fleet Foxes)](https://open.spotify.com/track/0J0jKmx1ShJiVUVBDoakrI) — Lizzy McAlpine, Fleet Foxes
-2. <img src="https://i.scdn.co/image/ab67616d000048512530375a57729aea52060137" alt="Album Cover" width="48" height="48" /> [Soldier of the road (feat. Fleet Foxes)](https://open.spotify.com/track/0J0jKmx1ShJiVUVBDoakrI) — Lizzy McAlpine, Fleet Foxes
+1. <img src="https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38" alt="Album Cover" width="48" height="48" /> [The Place Where He Inserted the Blade](https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT) — Black Country, New Road
+2. <img src="https://i.scdn.co/image/ab67616d00004851fe6211303e796f3d5b7a0e02" alt="Album Cover" width="48" height="48" /> [Cherry-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) — Cocteau Twins
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
