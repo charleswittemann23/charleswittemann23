@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-09-21 20:15:02 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-09-22 19:33:19 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485126279b9515b543980f285a64" alt="Album Cover" width="48" height="48" /> [Forest Lawn (feat. 2 Chainz & Armani Caesar)](https://open.spotify.com/track/1NQP4rYbAnw21eAfU4RSK3) — Westside Gunn, 2 Chainz, Armani Caesar
-2. <img src="https://i.scdn.co/image/ab67616d0000485126279b9515b543980f285a64" alt="Album Cover" width="48" height="48" /> [Best Dressed Demons (feat. Mach-Hommy)](https://open.spotify.com/track/0a7Oalq3ryJYj5DuaFVjRw) — Westside Gunn, Mach-Hommy
+1. <img src="https://i.scdn.co/image/ab67616d00004851f63203e1ddd367b69808f5bb" alt="Album Cover" width="48" height="48" /> [I Been Young](https://open.spotify.com/track/1gRDj5L77TVphFS2AT0nh3) — George Clanton
+2. <img src="https://i.scdn.co/image/ab67616d000048518671a62813f58b499c8fccc3" alt="Album Cover" width="48" height="48" /> [Police Scanner](https://open.spotify.com/track/1uLOYD6T0wdpOD8FcgsPuv) — Chanel Beads
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
