@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-09-22 19:33:19 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-09-23 19:25:52 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851f63203e1ddd367b69808f5bb" alt="Album Cover" width="48" height="48" /> [I Been Young](https://open.spotify.com/track/1gRDj5L77TVphFS2AT0nh3) — George Clanton
-2. <img src="https://i.scdn.co/image/ab67616d000048518671a62813f58b499c8fccc3" alt="Album Cover" width="48" height="48" /> [Police Scanner](https://open.spotify.com/track/1uLOYD6T0wdpOD8FcgsPuv) — Chanel Beads
+1. <img src="https://i.scdn.co/image/ab67616d00004851988528c4d4e890a12301fe2f" alt="Album Cover" width="48" height="48" /> [you’re my nature](https://open.spotify.com/track/1UPI8IZpnPpEYZVMf6NgNR) — jigitz, Killen., Rebecca & Fiona
+2. <img src="https://i.scdn.co/image/ab67616d000048512fe1ee03a5bed6b4a2e73296" alt="Album Cover" width="48" height="48" /> [Mabe](https://open.spotify.com/track/6cEX8cGCDhORY2dGLpd1jx) — Fred again.., LATIN MAFIA, Mabe Fratti
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
