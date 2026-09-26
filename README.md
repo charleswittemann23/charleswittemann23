@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-09-25 19:48:19 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-09-26 18:59:13 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851b0d8ae626c03195293535af1" alt="Album Cover" width="48" height="48" /> [Pretty Flowers](https://open.spotify.com/track/5A1hTxWAETAHviK0E8HPbM) — Buck Meek
-2. <img src="https://i.scdn.co/image/ab67616d00004851b0d8ae626c03195293535af1" alt="Album Cover" width="48" height="48" /> [Gasoline](https://open.spotify.com/track/3usxfn6u1M15bWZ1RaiMuo) — Buck Meek
+1. <img src="https://i.scdn.co/image/ab67616d0000485162d457eda9010a03bf44e828" alt="Album Cover" width="48" height="48" /> [Jesus, Etc. - 2022 Remaster](https://open.spotify.com/track/7qTr6NXpNeVriU1jCbXqCg) — Wilco
+2. <img src="https://i.scdn.co/image/ab67616d00004851ce468a1ffdea6162fcdb106a" alt="Album Cover" width="48" height="48" /> [Honey](https://open.spotify.com/track/2kPYU6yN0LfBZC67J45MJg) — Drugdealer, Weyes Blood
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
