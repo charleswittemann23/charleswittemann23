@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-09-26 18:59:13 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-09-27 19:31:15 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485162d457eda9010a03bf44e828" alt="Album Cover" width="48" height="48" /> [Jesus, Etc. - 2022 Remaster](https://open.spotify.com/track/7qTr6NXpNeVriU1jCbXqCg) — Wilco
-2. <img src="https://i.scdn.co/image/ab67616d00004851ce468a1ffdea6162fcdb106a" alt="Album Cover" width="48" height="48" /> [Honey](https://open.spotify.com/track/2kPYU6yN0LfBZC67J45MJg) — Drugdealer, Weyes Blood
+1. <img src="https://i.scdn.co/image/ab67616d0000485199306a7a9860b8e157cdb4d8" alt="Album Cover" width="48" height="48" /> [Magic Man](https://open.spotify.com/track/1kegdFmzGcUPUM35xJXzmK) — The Gnomes
+2. <img src="https://i.scdn.co/image/ab6742d3000052b72059e2101135b11f5c522f47" alt="Album Cover" width="48" height="48" /> [Bottle](https://open.spotify.com/track/6J7Dqq6HpCEc3HQLjSfIfk) — Remi Wolf
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
