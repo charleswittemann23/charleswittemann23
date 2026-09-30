@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-09-29 20:26:07 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-09-30 20:31:22 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851ce93eec4a8f1af940a362dd4" alt="Album Cover" width="48" height="48" /> [The Push - Mixed](https://open.spotify.com/track/3DGjhDAGyAOXfFbs1c7AWi) — Acronym City
-2. <img src="https://i.scdn.co/image/ab67616d00004851ce93eec4a8f1af940a362dd4" alt="Album Cover" width="48" height="48" /> [Angel Exit - Mixed](https://open.spotify.com/track/3HmaWrg4gm9J9mfS8fTdv0) — DJ Shufflemaster
+1. <img src="https://i.scdn.co/image/ab67616d00004851c456875e0df6d8195f4b5545" alt="Album Cover" width="48" height="48" /> [Sailing (Your Baby's Down)](https://open.spotify.com/track/1Y8tFdkUySbsj0Df4r5F1h) — This Is Lorelei
+2. <img src="https://i.scdn.co/image/ab67616d00004851c456875e0df6d8195f4b5545" alt="Album Cover" width="48" height="48" /> [Watching Heaven Fall](https://open.spotify.com/track/2504XYM0mWWPEVMD3XlLje) — This Is Lorelei
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
