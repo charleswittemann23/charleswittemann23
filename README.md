@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-09-30 20:31:22 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-10-01 20:47:00 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851c456875e0df6d8195f4b5545" alt="Album Cover" width="48" height="48" /> [Sailing (Your Baby's Down)](https://open.spotify.com/track/1Y8tFdkUySbsj0Df4r5F1h) — This Is Lorelei
-2. <img src="https://i.scdn.co/image/ab67616d00004851c456875e0df6d8195f4b5545" alt="Album Cover" width="48" height="48" /> [Watching Heaven Fall](https://open.spotify.com/track/2504XYM0mWWPEVMD3XlLje) — This Is Lorelei
+1. <img src="https://i.scdn.co/image/ab67616d00004851813505171db5b6303137b387" alt="Album Cover" width="48" height="48" /> [Together (feat. Nikki Nair, Jessy Lanza & Prentiss) - Frost Children Remix](https://open.spotify.com/track/6OoQNPipcBXc0NZWV1b87w) — The Avalanches, Nikki Nair, Jessy Lanza, Prentiss, Frost Children
+2. <img src="https://i.scdn.co/image/ab67616d000048512e4e4e1d8ae7643552ed0939" alt="Album Cover" width="48" height="48" /> [Like you always do](https://open.spotify.com/track/0nrPmwBtNoPu8Klq66t2Ft) — Quadeca
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
