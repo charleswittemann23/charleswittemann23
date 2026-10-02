@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-10-01 20:47:00 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-10-02 20:20:34 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851813505171db5b6303137b387" alt="Album Cover" width="48" height="48" /> [Together (feat. Nikki Nair, Jessy Lanza & Prentiss) - Frost Children Remix](https://open.spotify.com/track/6OoQNPipcBXc0NZWV1b87w) — The Avalanches, Nikki Nair, Jessy Lanza, Prentiss, Frost Children
-2. <img src="https://i.scdn.co/image/ab67616d000048512e4e4e1d8ae7643552ed0939" alt="Album Cover" width="48" height="48" /> [Like you always do](https://open.spotify.com/track/0nrPmwBtNoPu8Klq66t2Ft) — Quadeca
+1. <img src="https://i.scdn.co/image/ab67616d000048517d024eceda67dfa13c437917" alt="Album Cover" width="48" height="48" /> [Water Fall](https://open.spotify.com/track/5cRgPReB3My4BKAxVAkK7i) — Delta Sleep
+2. <img src="https://i.scdn.co/image/ab67616d00004851abad98aa732148f2682fa687" alt="Album Cover" width="48" height="48" /> [Track X](https://open.spotify.com/track/6jezfOPKkARrn1J8AwHTE4) — Black Country, New Road
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
