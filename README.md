@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-10-04 19:09:53 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-10-05 22:18:39 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048516e8163d943100736fefe70c4" alt="Album Cover" width="48" height="48" /> [Never Too Busy](https://open.spotify.com/track/0usjZV6Bed30idVp5a1Ju1) — Kenny Lattimore
-2. <img src="https://i.scdn.co/image/ab67616d000048512e4e4e1d8ae7643552ed0939" alt="Album Cover" width="48" height="48" /> [Good grief](https://open.spotify.com/track/7dKeTL8C63usTT3TIsPfJn) — Quadeca
+1. <img src="https://i.scdn.co/image/ab67616d000048512e4e4e1d8ae7643552ed0939" alt="Album Cover" width="48" height="48" /> [It goes like this](https://open.spotify.com/track/0Z1hvbWG6GJNfra89uS5Gx) — Quadeca
+2. <img src="https://i.scdn.co/image/ab67616d000048512e4e4e1d8ae7643552ed0939" alt="Album Cover" width="48" height="48" /> [The hero never dies](https://open.spotify.com/track/0KEAxTBRuLeZuqC71RBupn) — Quadeca
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
