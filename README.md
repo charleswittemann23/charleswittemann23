@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-10-06 20:46:38 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-10-07 20:59:12 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851c7eb2aa84819c4ea25e5472b" alt="Album Cover" width="48" height="48" /> [Time & Space](https://open.spotify.com/track/6a0ds9iPJukoebZj0htUjc) — Groove Armada
-2. <img src="https://i.scdn.co/image/ab67616d00004851c7eb2aa84819c4ea25e5472b" alt="Album Cover" width="48" height="48" /> [Shameless - feat. Bryan Ferry](https://open.spotify.com/track/00ZEOjraE3jm7OAyTBg2BL) — Groove Armada, Bryan Ferry
+1. <img src="https://i.scdn.co/image/ab67616d00004851fea83429583e80a5f30c1f1d" alt="Album Cover" width="48" height="48" /> [Therapy II](https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln) — Viagra Boys
+2. <img src="https://i.scdn.co/image/ab67616d00004851bf26b3f697a7d4a039a6e3a9" alt="Album Cover" width="48" height="48" /> [River King](https://open.spotify.com/track/46yyHXSHWVsTPw7ws6eRC2) — Viagra Boys
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
