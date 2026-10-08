@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-10-07 20:59:12 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-10-08 21:00:52 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851fea83429583e80a5f30c1f1d" alt="Album Cover" width="48" height="48" /> [Therapy II](https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln) — Viagra Boys
-2. <img src="https://i.scdn.co/image/ab67616d00004851bf26b3f697a7d4a039a6e3a9" alt="Album Cover" width="48" height="48" /> [River King](https://open.spotify.com/track/46yyHXSHWVsTPw7ws6eRC2) — Viagra Boys
+1. <img src="https://i.scdn.co/image/ab67616d0000485148d9b1257dbf7fa6da177d2b" alt="Album Cover" width="48" height="48" /> [Abbey Road Jam](https://open.spotify.com/track/6HIUiOXsUJSVnouiQQ4FcW) — Andy Cato
+2. <img src="https://i.scdn.co/image/ab67616d0000485148d9b1257dbf7fa6da177d2b" alt="Album Cover" width="48" height="48" /> [South of Mexico City](https://open.spotify.com/track/4WCi9GP9EMin3NmqKcdIas) — Andy Cato
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
