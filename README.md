@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-10-08 21:00:52 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-10-09 20:32:06 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485148d9b1257dbf7fa6da177d2b" alt="Album Cover" width="48" height="48" /> [Abbey Road Jam](https://open.spotify.com/track/6HIUiOXsUJSVnouiQQ4FcW) — Andy Cato
-2. <img src="https://i.scdn.co/image/ab67616d0000485148d9b1257dbf7fa6da177d2b" alt="Album Cover" width="48" height="48" /> [South of Mexico City](https://open.spotify.com/track/4WCi9GP9EMin3NmqKcdIas) — Andy Cato
+1. <img src="https://i.scdn.co/image/ab67616d000048519f3ce9d1c873caf604ff3c1b" alt="Album Cover" width="48" height="48" /> [WESTWORLD](https://open.spotify.com/track/6ZP2iPx7t4epRBAKWvRPt1) — EVAN GIIA
+2. <img src="https://i.scdn.co/image/ab67616d00004851988528c4d4e890a12301fe2f" alt="Album Cover" width="48" height="48" /> [what i feel](https://open.spotify.com/track/5qyUnWGjc9CR778BlKTAn5) — jigitz
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
