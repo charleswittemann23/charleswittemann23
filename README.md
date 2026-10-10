@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-10-09 20:32:06 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-10-10 19:44:08 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048519f3ce9d1c873caf604ff3c1b" alt="Album Cover" width="48" height="48" /> [WESTWORLD](https://open.spotify.com/track/6ZP2iPx7t4epRBAKWvRPt1) — EVAN GIIA
-2. <img src="https://i.scdn.co/image/ab67616d00004851988528c4d4e890a12301fe2f" alt="Album Cover" width="48" height="48" /> [what i feel](https://open.spotify.com/track/5qyUnWGjc9CR778BlKTAn5) — jigitz
+1. <img src="https://i.scdn.co/image/ab67616d00004851d7bae4ad0b91f65e0dd910c8" alt="Album Cover" width="48" height="48" /> [Pro Freak (with Doechii, Fatman Scoop)](https://open.spotify.com/track/16jl1W58vcK8Jd5ZGbvd5f) — Smino, Doechii, Fatman Scoop
+2. <img src="https://i.scdn.co/image/ab67616d00004851d7bae4ad0b91f65e0dd910c8" alt="Album Cover" width="48" height="48" /> [90 Proof (with J. Cole)](https://open.spotify.com/track/078lbDGGTqBuTKU3bypXxQ) — Smino, J. Cole
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
