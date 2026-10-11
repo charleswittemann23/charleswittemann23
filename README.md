@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-10-10 19:44:08 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-10-11 19:54:00 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851d7bae4ad0b91f65e0dd910c8" alt="Album Cover" width="48" height="48" /> [Pro Freak (with Doechii, Fatman Scoop)](https://open.spotify.com/track/16jl1W58vcK8Jd5ZGbvd5f) — Smino, Doechii, Fatman Scoop
-2. <img src="https://i.scdn.co/image/ab67616d00004851d7bae4ad0b91f65e0dd910c8" alt="Album Cover" width="48" height="48" /> [90 Proof (with J. Cole)](https://open.spotify.com/track/078lbDGGTqBuTKU3bypXxQ) — Smino, J. Cole
+1. <img src="https://i.scdn.co/image/ab67616d00004851fa3db827a24dd8dbaa1bf245" alt="Album Cover" width="48" height="48" /> [Jamie](https://open.spotify.com/track/30LhXbIEA2tqqL0yHXIRu9) — Remi Wolf
+2. <img src="https://i.scdn.co/image/ab67616d00004851fa3db827a24dd8dbaa1bf245" alt="Album Cover" width="48" height="48" /> [Burn Me Blue](https://open.spotify.com/track/1BNeebWyMKE93hGYHPUGzo) — Remi Wolf
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
