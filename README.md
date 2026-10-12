@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-10-11 19:54:00 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-10-12 22:42:51 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851fa3db827a24dd8dbaa1bf245" alt="Album Cover" width="48" height="48" /> [Jamie](https://open.spotify.com/track/30LhXbIEA2tqqL0yHXIRu9) — Remi Wolf
-2. <img src="https://i.scdn.co/image/ab67616d00004851fa3db827a24dd8dbaa1bf245" alt="Album Cover" width="48" height="48" /> [Burn Me Blue](https://open.spotify.com/track/1BNeebWyMKE93hGYHPUGzo) — Remi Wolf
+1. <img src="https://i.scdn.co/image/ab67616d00004851bf26b3f697a7d4a039a6e3a9" alt="Album Cover" width="48" height="48" /> [Medicine for Horses](https://open.spotify.com/track/3HIoSF8128M5EbJnJTkEQB) — Viagra Boys
+2. <img src="https://i.scdn.co/image/ab67616d00004851bf26b3f697a7d4a039a6e3a9" alt="Album Cover" width="48" height="48" /> [Dirty Boyz](https://open.spotify.com/track/2ddxasTLdkVI4tMzV9B9Jj) — Viagra Boys
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
