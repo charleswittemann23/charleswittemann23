@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-10-13 20:58:04 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-10-14 19:57:24 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851673288fb985e5c194536ae27" alt="Album Cover" width="48" height="48" /> [Touch It / Technologic](https://open.spotify.com/track/4IdiGMOzEYXOh2897XOV8i) — Daft Punk
-2. <img src="https://i.scdn.co/image/ab67616d00004851b6dd5bf8a0535965ee417a0c" alt="Album Cover" width="48" height="48" /> [Living Room Blues](https://open.spotify.com/track/4I0qndIIgLjpW1AHsMgysm) — Porch Light
+1. <img src="https://i.scdn.co/image/ab6742d3000052b71128eed967b45e0b1009ce28" alt="Album Cover" width="48" height="48" /> [The Kid With the Crown](https://open.spotify.com/track/2ZlAR6h5cFQuopY7SHPcvs) — This Is Lorelei
+2. <img src="https://i.scdn.co/image/ab6742d3000052b7eade4be03b9a54963510aade" alt="Album Cover" width="48" height="48" /> [Hard Life](https://open.spotify.com/track/4tAcUqdapyw0UiI5W6r3BA) — The Tubs
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
