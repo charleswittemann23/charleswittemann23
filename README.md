@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-10-17 18:08:13 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-10-18 18:26:21 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851b0d8ae626c03195293535af1" alt="Album Cover" width="48" height="48" /> [Worms](https://open.spotify.com/track/3us12r6Ku1LntGF1IcbidO) — Buck Meek
-2. <img src="https://i.scdn.co/image/ab67616d00004851b0d8ae626c03195293535af1" alt="Album Cover" width="48" height="48" /> [Heart In The Mirror](https://open.spotify.com/track/2orb25sCTLqepAnPskEfJJ) — Buck Meek
+1. <img src="https://i.scdn.co/image/ab67616d000048519f7045289e0dc19f1d45aa5d" alt="Album Cover" width="48" height="48" /> [Nina + Field of Cops - Live at Carnegie Hall](https://open.spotify.com/track/6dX2teUMYCOoyOW8tCRzBJ) — Cameron Winter
+2. <img src="https://i.scdn.co/image/ab67616d000048519f7045289e0dc19f1d45aa5d" alt="Album Cover" width="48" height="48" /> [If You Turn Back Now - Live at Carnegie Hall](https://open.spotify.com/track/0v0BMYE3RHQI8vANQRCGd6) — Cameron Winter
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
