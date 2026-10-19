@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-10-18 18:26:21 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-10-19 20:52:07 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048519f7045289e0dc19f1d45aa5d" alt="Album Cover" width="48" height="48" /> [Nina + Field of Cops - Live at Carnegie Hall](https://open.spotify.com/track/6dX2teUMYCOoyOW8tCRzBJ) — Cameron Winter
-2. <img src="https://i.scdn.co/image/ab67616d000048519f7045289e0dc19f1d45aa5d" alt="Album Cover" width="48" height="48" /> [If You Turn Back Now - Live at Carnegie Hall](https://open.spotify.com/track/0v0BMYE3RHQI8vANQRCGd6) — Cameron Winter
+1. <img src="https://i.scdn.co/image/ab67616d0000485139d5068007ea20b6c3c1da7e" alt="Album Cover" width="48" height="48" /> [easy rider](https://open.spotify.com/track/6R4jGWPkqmfGHyaLTJekTr) — untitled (halo)
+2. <img src="https://i.scdn.co/image/ab67616d00004851bceb605dbbe9c414a4781d8b" alt="Album Cover" width="48" height="48" /> [Rome, New York](https://open.spotify.com/track/0G8U7LCoXvXX4N6KpUaCxK) — Greg Freeman
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
