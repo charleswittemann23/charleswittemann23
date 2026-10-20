@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-10-19 20:52:07 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-10-20 19:48:42 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485139d5068007ea20b6c3c1da7e" alt="Album Cover" width="48" height="48" /> [easy rider](https://open.spotify.com/track/6R4jGWPkqmfGHyaLTJekTr) — untitled (halo)
-2. <img src="https://i.scdn.co/image/ab67616d00004851bceb605dbbe9c414a4781d8b" alt="Album Cover" width="48" height="48" /> [Rome, New York](https://open.spotify.com/track/0G8U7LCoXvXX4N6KpUaCxK) — Greg Freeman
+1. <img src="https://i.scdn.co/image/ab67616d00004851b6dd5bf8a0535965ee417a0c" alt="Album Cover" width="48" height="48" /> [James](https://open.spotify.com/track/4cuuDaAO62qNUjGNXvE3YJ) — Porch Light
+2. <img src="https://i.scdn.co/image/ab67616d00004851b6dd5bf8a0535965ee417a0c" alt="Album Cover" width="48" height="48" /> [Under](https://open.spotify.com/track/5UdqJDEDPf6jUJx7o5Grve) — Porch Light
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
