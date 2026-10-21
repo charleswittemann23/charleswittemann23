@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-10-20 19:48:42 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-10-21 19:54:29 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851b6dd5bf8a0535965ee417a0c" alt="Album Cover" width="48" height="48" /> [James](https://open.spotify.com/track/4cuuDaAO62qNUjGNXvE3YJ) — Porch Light
-2. <img src="https://i.scdn.co/image/ab67616d00004851b6dd5bf8a0535965ee417a0c" alt="Album Cover" width="48" height="48" /> [Under](https://open.spotify.com/track/5UdqJDEDPf6jUJx7o5Grve) — Porch Light
+1. <img src="https://i.scdn.co/image/ab67616d000048518d778398be51399568ec7528" alt="Album Cover" width="48" height="48" /> [On My Dick](https://open.spotify.com/track/4Ljvl2bral0qJrJAxPmA75) — Sophia Stel
+2. <img src="https://i.scdn.co/image/ab67616d00004851fc0d6c27d95d8de5c2c24ba1" alt="Album Cover" width="48" height="48" /> [Planted A Thought](https://open.spotify.com/track/44NpC98730tAZESjFo0p0J) — Arthur Russell
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
