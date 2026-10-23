@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-10-22 19:43:27 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-10-23 19:45:48 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048511fa931efbed00048477f868d" alt="Album Cover" width="48" height="48" /> [SHADOW REALM](https://open.spotify.com/track/25wMLedSFts8Wiwvo67Z3y) — Action Bronson
-2. <img src="https://i.scdn.co/image/ab67616d00004851e80530da9bfeb577ac71a094" alt="Album Cover" width="48" height="48" /> [Marcy Me](https://open.spotify.com/track/06AVGbGiZvf45iMf4kStxR) — JAŸ-Z
+1. <img src="https://i.scdn.co/image/ab67616d00004851335eff878e313f81ead36578" alt="Album Cover" width="48" height="48" /> [donde?](https://open.spotify.com/track/6BauPq5gd9icib7tfc4lE0) — GRLS, Mi Compa el Chino, RIVVAA
+2. <img src="https://i.scdn.co/image/ab67616d000048519609924c7fdedad062dfbf2f" alt="Album Cover" width="48" height="48" /> [espacios.cl](https://open.spotify.com/track/0ZFY4m6n9l6RhhVTTU9nQH) — Dinamarca, emmi
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
