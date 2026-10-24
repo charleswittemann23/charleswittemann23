@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-10-23 19:45:48 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-10-24 18:34:31 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851335eff878e313f81ead36578" alt="Album Cover" width="48" height="48" /> [donde?](https://open.spotify.com/track/6BauPq5gd9icib7tfc4lE0) — GRLS, Mi Compa el Chino, RIVVAA
-2. <img src="https://i.scdn.co/image/ab67616d000048519609924c7fdedad062dfbf2f" alt="Album Cover" width="48" height="48" /> [espacios.cl](https://open.spotify.com/track/0ZFY4m6n9l6RhhVTTU9nQH) — Dinamarca, emmi
+1. <img src="https://i.scdn.co/image/ab67616d000048518d778398be51399568ec7528" alt="Album Cover" width="48" height="48" /> [Bitches Talk Shit](https://open.spotify.com/track/2Nz3JBwqvo8Lnx9wxxlOLs) — Sophia Stel
+2. <img src="https://i.scdn.co/image/ab67616d000048518d778398be51399568ec7528" alt="Album Cover" width="48" height="48" /> [Bitches Talk Shit](https://open.spotify.com/track/2Nz3JBwqvo8Lnx9wxxlOLs) — Sophia Stel
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
