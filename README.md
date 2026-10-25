@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-10-24 18:34:31 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-10-25 18:42:38 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048518d778398be51399568ec7528" alt="Album Cover" width="48" height="48" /> [Bitches Talk Shit](https://open.spotify.com/track/2Nz3JBwqvo8Lnx9wxxlOLs) — Sophia Stel
-2. <img src="https://i.scdn.co/image/ab67616d000048518d778398be51399568ec7528" alt="Album Cover" width="48" height="48" /> [Bitches Talk Shit](https://open.spotify.com/track/2Nz3JBwqvo8Lnx9wxxlOLs) — Sophia Stel
+1. <img src="https://i.scdn.co/image/ab67616d000048515ab1239905a92929fff70db5" alt="Album Cover" width="48" height="48" /> [Indiana](https://open.spotify.com/track/1EUYnTI3P1DzoeccZ0IHdD) — Adrianne Lenker, Buck Meek
+2. <img src="https://i.scdn.co/image/ab67616d000048515ab1239905a92929fff70db5" alt="Album Cover" width="48" height="48" /> [Miss Misty](https://open.spotify.com/track/3tepQfbpaBJBzYk6vsfz9j) — Adrianne Lenker, Buck Meek
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
