@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-10-25 18:42:38 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-10-26 20:52:57 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048515ab1239905a92929fff70db5" alt="Album Cover" width="48" height="48" /> [Indiana](https://open.spotify.com/track/1EUYnTI3P1DzoeccZ0IHdD) — Adrianne Lenker, Buck Meek
-2. <img src="https://i.scdn.co/image/ab67616d000048515ab1239905a92929fff70db5" alt="Album Cover" width="48" height="48" /> [Miss Misty](https://open.spotify.com/track/3tepQfbpaBJBzYk6vsfz9j) — Adrianne Lenker, Buck Meek
+1. <img src="https://i.scdn.co/image/ab67616d000048514d100df0be7285a2f1176c7a" alt="Album Cover" width="48" height="48" /> [I Give Everything I Have 2 U (feat. Loaded Honey)](https://open.spotify.com/track/08DdQe8ybw5ya8ZMeYXkIu) — The Avalanches, Loaded Honey
+2. <img src="https://i.scdn.co/image/ab67616d00004851b987c04d9111770fd3f3b6cd" alt="Album Cover" width="48" height="48" /> [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) — Fred again.., Amyl and The Sniffers
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
