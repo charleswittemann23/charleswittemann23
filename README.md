@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-10-26 20:52:57 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-10-27 20:24:53 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048514d100df0be7285a2f1176c7a" alt="Album Cover" width="48" height="48" /> [I Give Everything I Have 2 U (feat. Loaded Honey)](https://open.spotify.com/track/08DdQe8ybw5ya8ZMeYXkIu) — The Avalanches, Loaded Honey
-2. <img src="https://i.scdn.co/image/ab67616d00004851b987c04d9111770fd3f3b6cd" alt="Album Cover" width="48" height="48" /> [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) — Fred again.., Amyl and The Sniffers
+1. <img src="https://i.scdn.co/image/ab67616d00004851bc1e41eed3ddbdfff6f2d74b" alt="Album Cover" width="48" height="48" /> [King of Carrot Flowers Pt. 1](https://open.spotify.com/track/4QgMnTz4ceedQI3Ex6YkBT) — Neutral Milk Hotel
+2. <img src="https://i.scdn.co/image/ab6742d3000052b7d6dca9d0dbb62968505aba5c" alt="Album Cover" width="48" height="48" /> [Chickamauga](https://open.spotify.com/track/6LIhPibaUByJjpm0xdPbsX) — Uncle Tupelo
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
