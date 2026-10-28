@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-10-27 20:24:53 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-10-28 20:45:21 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851bc1e41eed3ddbdfff6f2d74b" alt="Album Cover" width="48" height="48" /> [King of Carrot Flowers Pt. 1](https://open.spotify.com/track/4QgMnTz4ceedQI3Ex6YkBT) — Neutral Milk Hotel
-2. <img src="https://i.scdn.co/image/ab6742d3000052b7d6dca9d0dbb62968505aba5c" alt="Album Cover" width="48" height="48" /> [Chickamauga](https://open.spotify.com/track/6LIhPibaUByJjpm0xdPbsX) — Uncle Tupelo
+1. <img src="https://i.scdn.co/image/ab67616d000048518d778398be51399568ec7528" alt="Album Cover" width="48" height="48" /> [Bitches Talk Shit](https://open.spotify.com/track/2Nz3JBwqvo8Lnx9wxxlOLs) — Sophia Stel
+2. <img src="https://i.scdn.co/image/ab67616d000048518d778398be51399568ec7528" alt="Album Cover" width="48" height="48" /> [Like A Kite](https://open.spotify.com/track/1Vrrm1Vh3Q9ai3TIsAYDNj) — Sophia Stel
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
