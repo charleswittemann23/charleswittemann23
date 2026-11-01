@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-10-31 19:42:20 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-11-01 20:08:09 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851f922300411db724163aa8eda" alt="Album Cover" width="48" height="48" /> [Everything Blue](https://open.spotify.com/track/1AaS0TTkUM9kJemKoPcAbE) — TV Girl, George Clanton
-2. <img src="https://i.scdn.co/image/ab67616d00004851f922300411db724163aa8eda" alt="Album Cover" width="48" height="48" /> [Everything Blue](https://open.spotify.com/track/1AaS0TTkUM9kJemKoPcAbE) — TV Girl, George Clanton
+1. <img src="https://i.scdn.co/image/ab67616d0000485131ae1538d8ec5bd293f64601" alt="Album Cover" width="48" height="48" /> [Esprit.Wav](https://open.spotify.com/track/42e68PnF0DyvfdqubTJ6fx) — ESPRIT 空想, George Clanton
+2. <img src="https://i.scdn.co/image/ab67616d000048519bf7d13db51dfd26eb1e49b0" alt="Album Cover" width="48" height="48" /> [Seal](https://open.spotify.com/track/4PtXXdT0TgT0H26VWV43Ao) — ESPRIT 空想, George Clanton
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
