@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-11-01 20:08:09 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-11-02 23:17:47 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485131ae1538d8ec5bd293f64601" alt="Album Cover" width="48" height="48" /> [Esprit.Wav](https://open.spotify.com/track/42e68PnF0DyvfdqubTJ6fx) — ESPRIT 空想, George Clanton
-2. <img src="https://i.scdn.co/image/ab67616d000048519bf7d13db51dfd26eb1e49b0" alt="Album Cover" width="48" height="48" /> [Seal](https://open.spotify.com/track/4PtXXdT0TgT0H26VWV43Ao) — ESPRIT 空想, George Clanton
+1. <img src="https://i.scdn.co/image/ab67616d00004851be4840c1f07e72517accc4bd" alt="Album Cover" width="48" height="48" /> [Slate](https://open.spotify.com/track/7xmIkGAhSYJQN2RS4c9MYi) — Uncle Tupelo
+2. <img src="https://i.scdn.co/image/ab67616d0000485123ac84a525286001770abc8e" alt="Album Cover" width="48" height="48" /> [IZ-US](https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq) — Aphex Twin
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
