@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-11-02 23:17:47 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-11-03 21:28:35 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851be4840c1f07e72517accc4bd" alt="Album Cover" width="48" height="48" /> [Slate](https://open.spotify.com/track/7xmIkGAhSYJQN2RS4c9MYi) — Uncle Tupelo
-2. <img src="https://i.scdn.co/image/ab67616d0000485123ac84a525286001770abc8e" alt="Album Cover" width="48" height="48" /> [IZ-US](https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq) — Aphex Twin
+1. <img src="https://i.scdn.co/image/ab67616d00004851f922300411db724163aa8eda" alt="Album Cover" width="48" height="48" /> [Everything Blue](https://open.spotify.com/track/1AaS0TTkUM9kJemKoPcAbE) — TV Girl, George Clanton
+2. <img src="https://i.scdn.co/image/ab67616d000048519975e758f8df5f3704c521c7" alt="Album Cover" width="48" height="48" /> [Messy Hair](https://open.spotify.com/track/5TBvQZLNHpCvYLiO98FjEg) — TV Girl, George Clanton, Magdalena Bay
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
