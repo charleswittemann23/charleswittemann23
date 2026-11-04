@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-11-03 21:28:35 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-11-04 21:42:10 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851f922300411db724163aa8eda" alt="Album Cover" width="48" height="48" /> [Everything Blue](https://open.spotify.com/track/1AaS0TTkUM9kJemKoPcAbE) — TV Girl, George Clanton
-2. <img src="https://i.scdn.co/image/ab67616d000048519975e758f8df5f3704c521c7" alt="Album Cover" width="48" height="48" /> [Messy Hair](https://open.spotify.com/track/5TBvQZLNHpCvYLiO98FjEg) — TV Girl, George Clanton, Magdalena Bay
+1. <img src="https://i.scdn.co/image/ab67616d00004851de825e6f087f44e3b2297645" alt="Album Cover" width="48" height="48" /> [Falling](https://open.spotify.com/track/43tkPQscsEOhXxf3rECI5X) — Frost Children
+2. <img src="https://i.scdn.co/image/ab67616d0000485116c3c79d1a782cf1635ee148" alt="Album Cover" width="48" height="48" /> [Satellites](https://open.spotify.com/track/0w1z41tugZvJHNLUWUjXkD) — Frost Children
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
