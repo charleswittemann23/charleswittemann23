@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-11-06 21:15:06 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-11-07 19:51:19 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048519d3cb1617c4102f951a24e8b" alt="Album Cover" width="48" height="48" /> [I Bring](https://open.spotify.com/track/0ypKlyh5ajy1GytyokVLAR) — Twisted Teens
-2. <img src="https://i.scdn.co/image/ab67616d000048519d3cb1617c4102f951a24e8b" alt="Album Cover" width="48" height="48" /> [Blue Flower](https://open.spotify.com/track/1Kg0ORFoWvkO7SJuEGTboX) — Twisted Teens
+1. <img src="https://i.scdn.co/image/ab67616d000048519d3cb1617c4102f951a24e8b" alt="Album Cover" width="48" height="48" /> [Look In The Mirror](https://open.spotify.com/track/5mBW64WzPQJSFICWu4gXCb) — Twisted Teens
+2. <img src="https://i.scdn.co/image/ab67616d000048519d3cb1617c4102f951a24e8b" alt="Album Cover" width="48" height="48" /> [I Bring](https://open.spotify.com/track/0ypKlyh5ajy1GytyokVLAR) — Twisted Teens
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
