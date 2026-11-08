@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-11-07 19:51:19 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-11-08 20:10:15 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048519d3cb1617c4102f951a24e8b" alt="Album Cover" width="48" height="48" /> [Look In The Mirror](https://open.spotify.com/track/5mBW64WzPQJSFICWu4gXCb) — Twisted Teens
-2. <img src="https://i.scdn.co/image/ab67616d000048519d3cb1617c4102f951a24e8b" alt="Album Cover" width="48" height="48" /> [I Bring](https://open.spotify.com/track/0ypKlyh5ajy1GytyokVLAR) — Twisted Teens
+1. <img src="https://i.scdn.co/image/ab67616d000048511ea443f7a8512680563ce75d" alt="Album Cover" width="48" height="48" /> [Eusexua](https://open.spotify.com/track/6TeKbncyK62smlAvPy1dNa) — FKA twigs
+2. <img src="https://i.scdn.co/image/ab67616d00004851f18fd5956c81ea0be46685c1" alt="Album Cover" width="48" height="48" /> [MICHELLE WORLD](https://open.spotify.com/track/7qEWKuk5u2iHeUwbnPvkWC) — Westside Gunn
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
