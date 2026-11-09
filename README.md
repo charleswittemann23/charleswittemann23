@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-11-08 20:10:15 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-11-09 23:57:03 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048511ea443f7a8512680563ce75d" alt="Album Cover" width="48" height="48" /> [Eusexua](https://open.spotify.com/track/6TeKbncyK62smlAvPy1dNa) — FKA twigs
-2. <img src="https://i.scdn.co/image/ab67616d00004851f18fd5956c81ea0be46685c1" alt="Album Cover" width="48" height="48" /> [MICHELLE WORLD](https://open.spotify.com/track/7qEWKuk5u2iHeUwbnPvkWC) — Westside Gunn
+1. <img src="https://i.scdn.co/image/ab67616d000048519568c6b3c059127cca642b4b" alt="Album Cover" width="48" height="48" /> [Mystery of Love](https://open.spotify.com/track/1E8hMeQvfgvQPjN3BZ2viF) — Mr. Fingers
+2. <img src="https://i.scdn.co/image/ab67616d000048515dbd7142569093d49fc5db7a" alt="Album Cover" width="48" height="48" /> [You](https://open.spotify.com/track/2YhVSpfTE5TDRJJGqui3vF) — Officer John
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
