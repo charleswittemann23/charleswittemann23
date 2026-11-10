@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-11-09 23:57:03 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-11-10 21:38:14 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048519568c6b3c059127cca642b4b" alt="Album Cover" width="48" height="48" /> [Mystery of Love](https://open.spotify.com/track/1E8hMeQvfgvQPjN3BZ2viF) — Mr. Fingers
-2. <img src="https://i.scdn.co/image/ab67616d000048515dbd7142569093d49fc5db7a" alt="Album Cover" width="48" height="48" /> [You](https://open.spotify.com/track/2YhVSpfTE5TDRJJGqui3vF) — Officer John
+1. <img src="https://i.scdn.co/image/ab67616d000048514821b77fd92093513d7634b5" alt="Album Cover" width="48" height="48" /> [Angor](https://open.spotify.com/track/3l75cLGKRMPUQyCMI0DZWC) — Angine de Poitrine
+2. <img src="https://i.scdn.co/image/ab67616d000048514821b77fd92093513d7634b5" alt="Album Cover" width="48" height="48" /> [Angor](https://open.spotify.com/track/3l75cLGKRMPUQyCMI0DZWC) — Angine de Poitrine
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
