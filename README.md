@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-11-10 21:38:14 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-11-11 22:27:41 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048514821b77fd92093513d7634b5" alt="Album Cover" width="48" height="48" /> [Angor](https://open.spotify.com/track/3l75cLGKRMPUQyCMI0DZWC) — Angine de Poitrine
-2. <img src="https://i.scdn.co/image/ab67616d000048514821b77fd92093513d7634b5" alt="Album Cover" width="48" height="48" /> [Angor](https://open.spotify.com/track/3l75cLGKRMPUQyCMI0DZWC) — Angine de Poitrine
+1. <img src="https://i.scdn.co/image/ab67616d0000485152538538096d93f20232a01c" alt="Album Cover" width="48" height="48" /> [Impossible](https://open.spotify.com/track/2P7PTJXmBHAcP9tlo2UHP5) — Teezo Touchdown
+2. <img src="https://i.scdn.co/image/ab67616d0000485152538538096d93f20232a01c" alt="Album Cover" width="48" height="48" /> [Sweet (feat. Fousheé)](https://open.spotify.com/track/3263IAstJQPEXSONvQjE3T) — Teezo Touchdown, Fousheé
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
