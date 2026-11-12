@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-11-11 22:27:41 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-11-12 22:01:16 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485152538538096d93f20232a01c" alt="Album Cover" width="48" height="48" /> [Impossible](https://open.spotify.com/track/2P7PTJXmBHAcP9tlo2UHP5) — Teezo Touchdown
-2. <img src="https://i.scdn.co/image/ab67616d0000485152538538096d93f20232a01c" alt="Album Cover" width="48" height="48" /> [Sweet (feat. Fousheé)](https://open.spotify.com/track/3263IAstJQPEXSONvQjE3T) — Teezo Touchdown, Fousheé
+1. <img src="https://i.scdn.co/image/ab67616d0000485123ac84a525286001770abc8e" alt="Album Cover" width="48" height="48" /> [IZ-US](https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq) — Aphex Twin
+2. <img src="https://i.scdn.co/image/ab67616d000048515b2f25162bac17eda8c24f37" alt="Album Cover" width="48" height="48" /> [No-One in the World](https://open.spotify.com/track/77s4sHCPnQlDnGrT33KPUa) — Locust
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
