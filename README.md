@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-11-12 22:01:16 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-11-13 21:47:17 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485123ac84a525286001770abc8e" alt="Album Cover" width="48" height="48" /> [IZ-US](https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq) — Aphex Twin
-2. <img src="https://i.scdn.co/image/ab67616d000048515b2f25162bac17eda8c24f37" alt="Album Cover" width="48" height="48" /> [No-One in the World](https://open.spotify.com/track/77s4sHCPnQlDnGrT33KPUa) — Locust
+1. <img src="https://i.scdn.co/image/ab67616d000048510a52e1f5e6147d83b2e396bf" alt="Album Cover" width="48" height="48" /> [MARTIN 4SESE](https://open.spotify.com/track/095pd8upWcHSTMxBXJIg1p) — Westside Gunn
+2. <img src="https://i.scdn.co/image/ab67616d000048510a52e1f5e6147d83b2e396bf" alt="Album Cover" width="48" height="48" /> [DON PISTOLA](https://open.spotify.com/track/00sREMzYzD6EUJ7HfF4EFP) — Westside Gunn
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
