@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-11-13 21:47:17 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-11-14 20:24:06 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048510a52e1f5e6147d83b2e396bf" alt="Album Cover" width="48" height="48" /> [MARTIN 4SESE](https://open.spotify.com/track/095pd8upWcHSTMxBXJIg1p) — Westside Gunn
-2. <img src="https://i.scdn.co/image/ab67616d000048510a52e1f5e6147d83b2e396bf" alt="Album Cover" width="48" height="48" /> [DON PISTOLA](https://open.spotify.com/track/00sREMzYzD6EUJ7HfF4EFP) — Westside Gunn
+1. <img src="https://i.scdn.co/image/ab67616d00004851ad34f97cb6c9164d8163fc11" alt="Album Cover" width="48" height="48" /> [Can I Ride](https://open.spotify.com/track/3gXGtYT41b4FXYctdxMwCI) — SIDEPIECE, 95 South
+2. <img src="https://i.scdn.co/image/ab67616d00004851e5cf06ced0b837c6f16c5a6a" alt="Album Cover" width="48" height="48" /> [Monique The Freak](https://open.spotify.com/track/5am7uG9dju3R0lkwlklJrQ) — Ween
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
