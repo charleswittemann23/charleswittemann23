@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-11-14 20:24:06 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-11-15 20:48:22 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851ad34f97cb6c9164d8163fc11" alt="Album Cover" width="48" height="48" /> [Can I Ride](https://open.spotify.com/track/3gXGtYT41b4FXYctdxMwCI) — SIDEPIECE, 95 South
-2. <img src="https://i.scdn.co/image/ab67616d00004851e5cf06ced0b837c6f16c5a6a" alt="Album Cover" width="48" height="48" /> [Monique The Freak](https://open.spotify.com/track/5am7uG9dju3R0lkwlklJrQ) — Ween
+1. <img src="https://i.scdn.co/image/ab67616d000048513e487c84165eea79ff3fee22" alt="Album Cover" width="48" height="48" /> [A Figure In The Surf - Live in Heidelberg](https://open.spotify.com/track/0r3RytwKRAmPusP3ukN342) — Mount Kimbie
+2. <img src="https://i.scdn.co/image/ab67616d000048513e487c84165eea79ff3fee22" alt="Album Cover" width="48" height="48" /> [You Look Certain (I’m Not So Sure) - Live in Heidelberg](https://open.spotify.com/track/4HN2c7IvTELfM5SIum1p12) — Mount Kimbie
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
