@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-11-15 20:48:22 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-11-16 23:57:49 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048513e487c84165eea79ff3fee22" alt="Album Cover" width="48" height="48" /> [A Figure In The Surf - Live in Heidelberg](https://open.spotify.com/track/0r3RytwKRAmPusP3ukN342) — Mount Kimbie
-2. <img src="https://i.scdn.co/image/ab67616d000048513e487c84165eea79ff3fee22" alt="Album Cover" width="48" height="48" /> [You Look Certain (I’m Not So Sure) - Live in Heidelberg](https://open.spotify.com/track/4HN2c7IvTELfM5SIum1p12) — Mount Kimbie
+1. <img src="https://i.scdn.co/image/ab67616d0000485136698027f85abc9007ca544b" alt="Album Cover" width="48" height="48" /> [On Your Mind (feat. Lil Yachty)](https://open.spotify.com/track/21C6u4k9di4S7w4JsQS1k7) — FKA twigs, Lil Yachty
+2. <img src="https://i.scdn.co/image/ab67616d00004851022501794da0a51a2fcfb81a" alt="Album Cover" width="48" height="48" /> [The hero never dies](https://open.spotify.com/track/0KEAxTBRuLeZuqC71RBupn) — Quadeca
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
