@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-11-17 23:18:50 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-11-18 22:49:44 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048516d685ffcc46ae6b4095e6ec1" alt="Album Cover" width="48" height="48" /> [id treat u better](https://open.spotify.com/track/3Gc9pv0qFEZ7HSFPzfsxJe) — Junior Mesa
-2. <img src="https://i.scdn.co/image/ab67616d000048519159b8b66201cac6faab5278" alt="Album Cover" width="48" height="48" /> [do your best nicholas](https://open.spotify.com/track/5PWeF1kZWTklD9GiXq3FJL) — Junior Mesa
+1. <img src="https://i.scdn.co/image/ab67616d0000485139565aaf5cee7e098bc25666" alt="Album Cover" width="48" height="48" /> [TRICERATOPS](https://open.spotify.com/track/775gPuWNYBuKzy6fUVMrQc) — Action Bronson, Paul Wall, Lil Yachty
+2. <img src="https://i.scdn.co/image/ab67616d0000485139565aaf5cee7e098bc25666" alt="Album Cover" width="48" height="48" /> [TRICERATOPS](https://open.spotify.com/track/775gPuWNYBuKzy6fUVMrQc) — Action Bronson, Paul Wall, Lil Yachty
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
