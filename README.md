@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-11-18 22:49:44 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-11-19 22:53:17 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d0000485139565aaf5cee7e098bc25666" alt="Album Cover" width="48" height="48" /> [TRICERATOPS](https://open.spotify.com/track/775gPuWNYBuKzy6fUVMrQc) — Action Bronson, Paul Wall, Lil Yachty
-2. <img src="https://i.scdn.co/image/ab67616d0000485139565aaf5cee7e098bc25666" alt="Album Cover" width="48" height="48" /> [TRICERATOPS](https://open.spotify.com/track/775gPuWNYBuKzy6fUVMrQc) — Action Bronson, Paul Wall, Lil Yachty
+1. <img src="https://i.scdn.co/image/ab67616d00004851d253eacd03d7cba3a467f925" alt="Album Cover" width="48" height="48" /> [She's Gone](https://open.spotify.com/track/6198kiW39aaYvDtPqdiEfi) — Mirror Kisses, George Clanton
+2. <img src="https://i.scdn.co/image/ab67616d00004851be4840c1f07e72517accc4bd" alt="Album Cover" width="48" height="48" /> [Slate](https://open.spotify.com/track/7xmIkGAhSYJQN2RS4c9MYi) — Uncle Tupelo
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
