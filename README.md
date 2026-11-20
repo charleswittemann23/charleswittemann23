@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-11-19 22:53:17 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-11-20 22:28:59 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851d253eacd03d7cba3a467f925" alt="Album Cover" width="48" height="48" /> [She's Gone](https://open.spotify.com/track/6198kiW39aaYvDtPqdiEfi) — Mirror Kisses, George Clanton
-2. <img src="https://i.scdn.co/image/ab67616d00004851be4840c1f07e72517accc4bd" alt="Album Cover" width="48" height="48" /> [Slate](https://open.spotify.com/track/7xmIkGAhSYJQN2RS4c9MYi) — Uncle Tupelo
+1. <img src="https://i.scdn.co/image/ab67616d000048513e1da1951756c302afb1276c" alt="Album Cover" width="48" height="48" /> [Can't Stop](https://open.spotify.com/track/0YCxEQBn14exH0yvKDZwq7) — Ryan Witt
+2. <img src="https://i.scdn.co/image/ab67616d000048518056f6af31ed22da5af65d82" alt="Album Cover" width="48" height="48" /> [Lay Low](https://open.spotify.com/track/2Euhb5Cpmx2C0MXOKYbFnw) — Pìjus
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
