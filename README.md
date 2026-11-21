@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-11-20 22:28:59 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-11-21 21:26:09 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048513e1da1951756c302afb1276c" alt="Album Cover" width="48" height="48" /> [Can't Stop](https://open.spotify.com/track/0YCxEQBn14exH0yvKDZwq7) — Ryan Witt
-2. <img src="https://i.scdn.co/image/ab67616d000048518056f6af31ed22da5af65d82" alt="Album Cover" width="48" height="48" /> [Lay Low](https://open.spotify.com/track/2Euhb5Cpmx2C0MXOKYbFnw) — Pìjus
+1. <img src="https://i.scdn.co/image/ab67616d000048518e5f97a65d6b8baa73c4d58a" alt="Album Cover" width="48" height="48" /> [Made In Japan](https://open.spotify.com/track/3vpLBt35y9gLu2Xv59PXLg) — Buck Owens
+2. <img src="https://i.scdn.co/image/ab67616d00004851ec4d79e8035ed2803ecfe2b3" alt="Album Cover" width="48" height="48" /> [Santa Monica](https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI) — Everclear
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
