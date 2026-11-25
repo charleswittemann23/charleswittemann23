@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-11-24 02:43:58 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-11-25 00:18:32 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048518d778398be51399568ec7528" alt="Album Cover" width="48" height="48" /> [I'll Walk](https://open.spotify.com/track/0iWnzPWL7aO7VCgFIti51O) — Sophia Stel
-2. <img src="https://i.scdn.co/image/ab67616d00004851876f720551132b50c9232fad" alt="Album Cover" width="48" height="48" /> [Besties](https://open.spotify.com/track/4U9ZjqhaGF9wl56899E4sW) — Black Country, New Road
+1. <img src="https://i.scdn.co/image/ab67616d00004851fbecc7ddcbffd09181ce01ba" alt="Album Cover" width="48" height="48" /> [Demolition](https://open.spotify.com/track/2w9liMSRv3edqM67cGUamD) — Fontaines D.C.
+2. <img src="https://i.scdn.co/image/ab67616d00004851c74ee5477e24a0d6f70e74c9" alt="Album Cover" width="48" height="48" /> [You Will Go Far](https://open.spotify.com/track/3phumZ5hghCkTyspRyCEuZ) — Hovvdy
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
