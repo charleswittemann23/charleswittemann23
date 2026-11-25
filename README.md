@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-11-25 00:18:32 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-11-25 23:58:22 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d00004851fbecc7ddcbffd09181ce01ba" alt="Album Cover" width="48" height="48" /> [Demolition](https://open.spotify.com/track/2w9liMSRv3edqM67cGUamD) — Fontaines D.C.
-2. <img src="https://i.scdn.co/image/ab67616d00004851c74ee5477e24a0d6f70e74c9" alt="Album Cover" width="48" height="48" /> [You Will Go Far](https://open.spotify.com/track/3phumZ5hghCkTyspRyCEuZ) — Hovvdy
+1. <img src="https://i.scdn.co/image/ab67616d000048510f5802acbc9eb66e18c371bb" alt="Album Cover" width="48" height="48" /> [SeaStar](https://open.spotify.com/track/1v09OBBdZthgfXWTBffmpW) — Twen
+2. <img src="https://i.scdn.co/image/ab6742d3000052b7f8dbaeba708ef8cb1b96d3b1" alt="Album Cover" width="48" height="48" /> [Voodoo Lady](https://open.spotify.com/track/2kZycQV2r2WQzfloX6lNVe) — Ween
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
