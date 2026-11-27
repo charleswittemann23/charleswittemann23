@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎧 Songs of the Day (Last Updated at: 2026-11-25 23:58:22 UTC)
+## 🎧 Songs of the Day (Last Updated at: 2026-11-27 23:53:37 UTC)
 
 <!--SPOTIFY_START-->
-1. <img src="https://i.scdn.co/image/ab67616d000048510f5802acbc9eb66e18c371bb" alt="Album Cover" width="48" height="48" /> [SeaStar](https://open.spotify.com/track/1v09OBBdZthgfXWTBffmpW) — Twen
-2. <img src="https://i.scdn.co/image/ab6742d3000052b7f8dbaeba708ef8cb1b96d3b1" alt="Album Cover" width="48" height="48" /> [Voodoo Lady](https://open.spotify.com/track/2kZycQV2r2WQzfloX6lNVe) — Ween
+1. <img src="https://i.scdn.co/image/ab67616d000048516b458d1409d938dad4e3ba2c" alt="Album Cover" width="48" height="48" /> [Dine N'Dash](https://open.spotify.com/track/22a006OJm48zH87SkPpSVx) — The Strokes
+2. <img src="https://i.scdn.co/image/ab6742d3000052b76fd57f0034dabc329aa2b748" alt="Album Cover" width="48" height="48" /> [Doritos & Fritos](https://open.spotify.com/track/56qTYWmlOjbYq3rJz5UWKi) — 100 gecs
 <!--SPOTIFY_END-->
 ![](https://komarev.com/ghpvc/?username=charleswittemann23&color=blue&style=for-the-badge)
